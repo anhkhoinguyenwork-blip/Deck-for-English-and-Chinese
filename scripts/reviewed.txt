@@ -1,0 +1,43 @@
+[outweigh] primary stress on syllable 1, CMU says [0]: /ˌaʊtˈweɪ/
+[overlook] primary stress on syllable 2, CMU says [0]: /ˌəʊvəˈlʊk/
+[sceptical] not in CMU dict, check IPA by hand: /ˈskeptɪkl/
+[undermine] primary stress on syllable 2, CMU says [0]: /ˌʌndəˈmaɪn/
+[一丝不苟] 例句1: polyphone '都' written dōu, pypinyin prefers dū: 王老师批改作业一丝不苟，连标点符号的错误都会指出来。
+[一举两得] 例句2: polyphone '教' written jiāo, pypinyin prefers jiào: 和中国朋友互相教语言，是个一举两得的好办法。
+[一如既往] 例句2: polyphone '都' written dōu, pypinyin prefers dū: 不管结果如何，我都会一如既往地支持你。
+[一目了然] 例句4: '一' written yī, rule gives yí: 地铁线路图画得一目了然，第一次来的游客也不会迷路。
+[不约而同] 例句3: polyphone '谁' written shéi, pypinyin prefers shuí: 老师问谁愿意参加比赛，几个同学不约而同地举起了手。
+[举一反三] 例句1: '一' written yī, rule gives yì: 学数学不能死记硬背，要学会举一反三。
+[举一反三] 例句2: '一' written yī, rule gives yì: 这道题弄懂了，类似的题目你就能举一反三了。
+[举一反三] 例句3: '一' written yī, rule gives yì: 好老师不仅传授知识，更注重培养学生举一反三的能力。
+[举一反三] 例句4: '一' written yī, rule gives yì: 他很聪明，什么事情一点就通，还能举一反三。
+[举一反三] 例句5: '一' written yī, rule gives yì: 掌握了这个句型，你可以举一反三，用它来表达很多不同的意思。
+[举一反三] 拼音: '一' written yī, rule gives yì: 举一反三
+[举足轻重] 例句2: polyphone '都' written dōu, pypinyin prefers dū: 他是公司里举足轻重的人物，很多决定都要先听听他的意见。
+[全力以赴] 例句2: polyphone '都' written dōu, pypinyin prefers dū: 不管结果如何，我们都会全力以赴。
+[喜出望外] 例句2: polyphone '中' written zhòng, pypinyin prefers zhōng: 本来只想试试看，没想到真的中了大奖，他喜出望外。
+[喜出望外] 例句4: '一' written yī, rule gives yì: 听说自己的作品获得了一等奖，他喜出望外地跳了起来。
+[坐井观天] 例句4: '一' written yī, rule gives yì: 他总觉得自己的公司天下第一，其实是坐井观天。
+[守株待兔] 例句5: polyphone '中' written zhòng, pypinyin prefers zhōng: 上次考前押题押中了，他这次干脆不复习，想守株待兔。
+[当务之急] 例句1: polyphone '当' written dāng, pypinyin prefers dàng: 现在的当务之急是把病人送到医院。
+[当务之急] 例句5: polyphone '当' written dāng, pypinyin prefers dàng: 找工作当然重要，但你现在的当务之急是顺利毕业。
+[得不偿失] 例句4: polyphone '得' written dé, pypinyin prefers de: 为了一点小利益跟朋友闹翻，未免得不偿失。
+[得心应手] 例句2: polyphone '得' written dé, pypinyin prefers de: 这款软件我用了很多年，用起来得心应手。
+[忐忑不安] 例句2: '一' written yī, rule gives yí: 第一次上台演讲，他心里忐忑不安。
+[手忙脚乱] 例句1: '一' written yī, rule gives yí: 第一次一个人带孩子，他忙得手忙脚乱。
+[拔苗助长] 例句4: polyphone '子' written zǐ, pypinyin prefers zi: 有些家长望子成龙心切，结果却拔苗助长。
+[无可厚非] 例句4: '一' written yī, rule gives yí: 他第一次上台，有些紧张也无可厚非。
+[无能为力] 例句5: polyphone '谁' written shéi, pypinyin prefers shuí: 天气谁也控制不了，对此我们无能为力。
+[日新月异] 例句3: polyphone '为' written wéi, pypinyin prefers wèi: 在这个日新月异的时代，终身学习显得尤为重要。
+[来之不易] 例句4: polyphone '挣' written zhèng, pypinyin prefers zhēng: 父母挣的钱来之不易，花钱要有计划。
+[深入浅出] 例句5: polyphone '得' written děi, pypinyin prefers dé: 要做到深入浅出，首先自己得真正理解透彻。
+[理所当然] 例句5: polyphone '为' written wéi, pypinyin prefers wèi: 很多人习惯了便利的生活，把它视为理所当然。
+[画蛇添足] 例句3: polyphone '更' written gèng, pypinyin prefers gēng: 他道歉以后又解释了半天，结果画蛇添足，对方更生气了。
+[相辅相成] 例句1: '一' written yī, rule gives yí: 理论和实践是相辅相成的，缺一不可。
+[相辅相成] 例句5: polyphone '当' written dāng, pypinyin prefers dàng: 这两项政策相辅相成，共同推动了当地旅游业的发展。
+[精打细算] 例句1: polyphone '得' written děi, pypinyin prefers dé: 刚工作的时候工资不高，每个月都得精打细算。
+[美中不足] 例句2: '一' written yī, rule gives yì: 旅行很愉快，唯一美中不足的是一直在下雨。
+[胸有成竹] 例句2: polyphone '倒' written dǎo, pypinyin prefers dào: 看她胸有成竹的样子，这个问题应该难不倒她。
+[胸有成竹] 例句3: '一' written yī, rule gives yì: 面对记者的提问，部长胸有成竹地一一作答。
+[胸有成竹] 例句3: '一' written yī, rule gives yí: 面对记者的提问，部长胸有成竹地一一作答。
+[量力而行] 例句2: polyphone '背' written bēi, pypinyin prefers bèi: 买房要量力而行，别给自己背上太重的贷款。

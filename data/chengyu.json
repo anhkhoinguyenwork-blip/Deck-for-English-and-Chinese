@@ -1,0 +1,2802 @@
+[
+  {
+    "成语": "显而易见",
+    "拼音": "xiǎn ér yì jiàn",
+    "释义": "形容事情或道理非常明显，一眼就能看出来，不需要多加解释。",
+    "用法": "多作谓语或定语，常见格式有“显而易见的是……”“这一点显而易见”。语气客观、正式，在议论文和学术写作中常用来引出结论。口语里也可以说“明摆着”，但不如“显而易见”书面。",
+    "例句": [
+      {
+        "zh": "显而易见，这个方案的成本太高，很难实施。",
+        "py": "Xiǎn ér yì jiàn, zhège fāng'àn de chéngběn tài gāo, hěn nán shíshī."
+      },
+      {
+        "zh": "他对这份工作不满意，这一点显而易见。",
+        "py": "Tā duì zhè fèn gōngzuò bù mǎnyì, zhè yì diǎn xiǎn ér yì jiàn."
+      },
+      {
+        "zh": "显而易见的是，互联网已经深刻地改变了人们的生活方式。",
+        "py": "Xiǎn ér yì jiàn de shì, hùliánwǎng yǐjīng shēnkè de gǎibiàn le rénmen de shēnghuó fāngshì."
+      },
+      {
+        "zh": "数据显示，两组学生的成绩差距显而易见。",
+        "py": "Shùjù xiǎnshì, liǎng zǔ xuésheng de chéngjì chājù xiǎn ér yì jiàn."
+      },
+      {
+        "zh": "这么显而易见的错误，你怎么会没发现呢？",
+        "py": "Zhème xiǎn ér yì jiàn de cuòwù, nǐ zěnme huì méi fāxiàn ne?"
+      }
+    ]
+  },
+  {
+    "成语": "众所周知",
+    "拼音": "zhòng suǒ zhōu zhī",
+    "释义": "大家都知道。指某个事实或道理已经广为人知，用不着再去证明。",
+    "用法": "常放在句首作插入语，后面接一个公认的事实，如“众所周知，……”；也可以作定语，如“众所周知的事实”。多用于正式场合和书面语。要注意：如果后面说的内容其实并非人人都知道，用这个成语会显得武断。",
+    "例句": [
+      {
+        "zh": "众所周知，长期熬夜对身体有害。",
+        "py": "Zhòng suǒ zhōu zhī, chángqī áoyè duì shēntǐ yǒuhài."
+      },
+      {
+        "zh": "他是个众所周知的“工作狂”，周末也常常在办公室加班。",
+        "py": "Tā shì ge zhòng suǒ zhōu zhī de “gōngzuòkuáng”, zhōumò yě chángcháng zài bàngōngshì jiābān."
+      },
+      {
+        "zh": "众所周知，学语言离不开大量的输入和练习。",
+        "py": "Zhòng suǒ zhōu zhī, xué yǔyán lí bu kāi dàliàng de shūrù hé liànxí."
+      },
+      {
+        "zh": "这家公司资金紧张，已经是众所周知的事了。",
+        "py": "Zhè jiā gōngsī zījīn jǐnzhāng, yǐjīng shì zhòng suǒ zhōu zhī de shì le."
+      },
+      {
+        "zh": "众所周知，大城市的房价一直居高不下。",
+        "py": "Zhòng suǒ zhōu zhī, dà chéngshì de fángjià yìzhí jū gāo bú xià."
+      }
+    ]
+  },
+  {
+    "成语": "不言而喻",
+    "拼音": "bù yán ér yù",
+    "释义": "不用说出来就能明白。形容道理非常明显，人人都能理解。",
+    "用法": "多作谓语，常用“……是不言而喻的”这一格式。语气正式，常见于议论文、演讲和报告。和“显而易见”相比，“不言而喻”更强调“无须说明”，多用于道理、意义、重要性等抽象的内容。",
+    "例句": [
+      {
+        "zh": "教育对一个国家的重要性是不言而喻的。",
+        "py": "Jiàoyù duì yí ge guójiā de zhòngyàoxìng shì bù yán ér yù de."
+      },
+      {
+        "zh": "他每天练琴八个小时，其中的辛苦不言而喻。",
+        "py": "Tā měi tiān liàn qín bā ge xiǎoshí, qízhōng de xīnkǔ bù yán ér yù."
+      },
+      {
+        "zh": "两个人相视一笑，彼此的心意不言而喻。",
+        "py": "Liǎng ge rén xiāng shì yí xiào, bǐcǐ de xīnyì bù yán ér yù."
+      },
+      {
+        "zh": "在商业合作中，诚信的价值不言而喻。",
+        "py": "Zài shāngyè hézuò zhōng, chéngxìn de jiàzhí bù yán ér yù."
+      },
+      {
+        "zh": "父母为孩子付出了多少心血，不言而喻。",
+        "py": "Fùmǔ wèi háizi fùchū le duōshao xīnxuè, bù yán ér yù."
+      }
+    ]
+  },
+  {
+    "成语": "相辅相成",
+    "拼音": "xiāng fǔ xiāng chéng",
+    "释义": "两件事物互相补充、互相配合，彼此促进，缺了哪一方都不行。",
+    "用法": "多作谓语，主语通常是两个并列的事物，常用“……和……相辅相成”“……是相辅相成的”。属于书面语，常见于议论文、学术文章和正式讲话。它强调双方互补、互相促进，不能用来形容对立或冲突的关系。",
+    "例句": [
+      {
+        "zh": "理论和实践是相辅相成的，缺一不可。",
+        "py": "Lǐlùn hé shíjiàn shì xiāng fǔ xiāng chéng de, quē yī bù kě."
+      },
+      {
+        "zh": "经济发展和环境保护并不矛盾，而是相辅相成的。",
+        "py": "Jīngjì fāzhǎn hé huánjìng bǎohù bìng bù máodùn, ér shì xiāng fǔ xiāng chéng de."
+      },
+      {
+        "zh": "在语言学习中，听和说相辅相成。",
+        "py": "Zài yǔyán xuéxí zhōng, tīng hé shuō xiāng fǔ xiāng chéng."
+      },
+      {
+        "zh": "好老师和好学生往往是相辅相成、互相成就的。",
+        "py": "Hǎo lǎoshī hé hǎo xuésheng wǎngwǎng shì xiāng fǔ xiāng chéng, hùxiāng chéngjiù de."
+      },
+      {
+        "zh": "这两项政策相辅相成，共同推动了当地旅游业的发展。",
+        "py": "Zhè liǎng xiàng zhèngcè xiāng fǔ xiāng chéng, gòngtóng tuīdòng le dāngdì lǚyóuyè de fāzhǎn."
+      }
+    ]
+  },
+  {
+    "成语": "息息相关",
+    "拼音": "xī xī xiāng guān",
+    "释义": "“息”指呼吸，字面意思是连呼吸都彼此相通。形容关系非常密切，一方的变化会直接影响到另一方。",
+    "用法": "常用格式为“……与/和……息息相关”“与……息息相关”，多作谓语，书面语和口语都可以用。常和“生活”“利益”“健康”等词搭配。近义词有“密切相关”“休戚相关”，其中“休戚相关”更强调利害一致、祸福与共。",
+    "例句": [
+      {
+        "zh": "空气质量与每个人的健康息息相关。",
+        "py": "Kōngqì zhìliàng yǔ měi ge rén de jiànkāng xī xī xiāng guān."
+      },
+      {
+        "zh": "这项政策和普通老百姓的生活息息相关。",
+        "py": "Zhè xiàng zhèngcè hé pǔtōng lǎobǎixìng de shēnghuó xī xī xiāng guān."
+      },
+      {
+        "zh": "一座城市的发展与交通建设息息相关。",
+        "py": "Yí zuò chéngshì de fāzhǎn yǔ jiāotōng jiànshè xī xī xiāng guān."
+      },
+      {
+        "zh": "睡眠质量和学习效率息息相关，千万别以为熬夜是在节省时间。",
+        "py": "Shuìmián zhìliàng hé xuéxí xiàolǜ xī xī xiāng guān, qiānwàn bié yǐwéi áoyè shì zài jiéshěng shíjiān."
+      },
+      {
+        "zh": "企业的命运与员工的利益息息相关。",
+        "py": "Qǐyè de mìngyùn yǔ yuángōng de lìyì xī xī xiāng guān."
+      }
+    ]
+  },
+  {
+    "成语": "截然不同",
+    "拼音": "jié rán bù tóng",
+    "释义": "形容两种事物完全不一样，界限分明，没有共同之处。“截然”是界限分明、像刀切过一样的样子。",
+    "用法": "多作谓语或定语，如“截然不同的结果”“两人的性格截然不同”。语气比“完全不同”更强，也更书面。常用于对比观点、性格、结果、风格等。",
+    "例句": [
+      {
+        "zh": "这对双胞胎长得一模一样，性格却截然不同。",
+        "py": "Zhè duì shuāngbāotāi zhǎng de yì mú yí yàng, xìnggé què jié rán bù tóng."
+      },
+      {
+        "zh": "对于同一个问题，两位专家给出了截然不同的答案。",
+        "py": "Duìyú tóng yí ge wèntí, liǎng wèi zhuānjiā gěichū le jié rán bù tóng de dá'àn."
+      },
+      {
+        "zh": "换个角度看问题，你可能会得出截然不同的结论。",
+        "py": "Huàn ge jiǎodù kàn wèntí, nǐ kěnéng huì déchū jié rán bù tóng de jiélùn."
+      },
+      {
+        "zh": "城市和农村的生活节奏截然不同。",
+        "py": "Chéngshì hé nóngcūn de shēnghuó jiézòu jié rán bù tóng."
+      },
+      {
+        "zh": "出国留学以后，我才发现那里的上课方式和国内截然不同。",
+        "py": "Chūguó liúxué yǐhòu, wǒ cái fāxiàn nàli de shàngkè fāngshì hé guónèi jié rán bù tóng."
+      }
+    ]
+  },
+  {
+    "成语": "举足轻重",
+    "拼音": "jǔ zú qīng zhòng",
+    "释义": "原指处在两强之间的人，脚往哪边一挪，就会影响双方力量的轻重。比喻所处的地位非常重要，一举一动都能影响全局。",
+    "用法": "常用格式为“占有举足轻重的地位”“起着举足轻重的作用”，多作定语，修饰“地位”“作用”“人物”等，也可以作谓语。语体正式，多见于书面语和新闻报道。",
+    "例句": [
+      {
+        "zh": "中国在世界经济中占有举足轻重的地位。",
+        "py": "Zhōngguó zài shìjiè jīngjì zhōng zhànyǒu jǔ zú qīng zhòng de dìwèi."
+      },
+      {
+        "zh": "他是公司里举足轻重的人物，很多决定都要先听听他的意见。",
+        "py": "Tā shì gōngsī li jǔ zú qīng zhòng de rénwù, hěn duō juédìng dōu yào xiān tīngting tā de yìjiàn."
+      },
+      {
+        "zh": "父母的言行对孩子的成长起着举足轻重的作用。",
+        "py": "Fùmǔ de yánxíng duì háizi de chéngzhǎng qǐ zhe jǔ zú qīng zhòng de zuòyòng."
+      },
+      {
+        "zh": "在这场比赛中，这名老将的作用举足轻重。",
+        "py": "Zài zhè chǎng bǐsài zhōng, zhè míng lǎojiàng de zuòyòng jǔ zú qīng zhòng."
+      },
+      {
+        "zh": "旅游业在当地经济中举足轻重。",
+        "py": "Lǚyóuyè zài dāngdì jīngjì zhōng jǔ zú qīng zhòng."
+      }
+    ]
+  },
+  {
+    "成语": "举一反三",
+    "拼音": "jǔ yī fǎn sān",
+    "释义": "语出《论语》。老师举出一个方面，学生就能由此推知其他几个方面。比喻善于从一件事情类推，懂得其他相关的事情，学习时能灵活运用。",
+    "用法": "多作谓语，也可以作定语，如“举一反三的能力”。常用于学习和教学场景，是褒义词，常和“学会”“善于”“能够”等词搭配。近义词是“触类旁通”。",
+    "例句": [
+      {
+        "zh": "学数学不能死记硬背，要学会举一反三。",
+        "py": "Xué shùxué bù néng sǐ jì yìng bèi, yào xuéhuì jǔ yī fǎn sān."
+      },
+      {
+        "zh": "这道题弄懂了，类似的题目你就能举一反三了。",
+        "py": "Zhè dào tí nòngdǒng le, lèisì de tímù nǐ jiù néng jǔ yī fǎn sān le."
+      },
+      {
+        "zh": "好老师不仅传授知识，更注重培养学生举一反三的能力。",
+        "py": "Hǎo lǎoshī bùjǐn chuánshòu zhīshi, gèng zhùzhòng péiyǎng xuésheng jǔ yī fǎn sān de nénglì."
+      },
+      {
+        "zh": "他很聪明，什么事情一点就通，还能举一反三。",
+        "py": "Tā hěn cōngming, shénme shìqing yì diǎn jiù tōng, hái néng jǔ yī fǎn sān."
+      },
+      {
+        "zh": "掌握了这个句型，你可以举一反三，用它来表达很多不同的意思。",
+        "py": "Zhǎngwò le zhège jùxíng, nǐ kěyǐ jǔ yī fǎn sān, yòng tā lái biǎodá hěn duō bù tóng de yìsi."
+      }
+    ]
+  },
+  {
+    "成语": "融会贯通",
+    "拼音": "róng huì guàn tōng",
+    "释义": "把各方面的知识和道理融合起来，理解透彻，并且能够前后贯穿、灵活运用。",
+    "用法": "多作谓语，常用“把……融会贯通”“做到融会贯通”。多用于学习、研究和知识运用的场景，是褒义词，评价较高。注意规范写法是“融会”，不要写成“融汇”。",
+    "例句": [
+      {
+        "zh": "只有把学过的知识融会贯通，才能真正解决实际问题。",
+        "py": "Zhǐyǒu bǎ xuéguo de zhīshi róng huì guàn tōng, cái néng zhēnzhèng jiějué shíjì wèntí."
+      },
+      {
+        "zh": "他读了大量历史和哲学著作，并且能够融会贯通。",
+        "py": "Tā dú le dàliàng lìshǐ hé zhéxué zhùzuò, bìngqiě nénggòu róng huì guàn tōng."
+      },
+      {
+        "zh": "学语言不能只背单词，还要把语法、词汇和语境融会贯通。",
+        "py": "Xué yǔyán bù néng zhǐ bèi dāncí, hái yào bǎ yǔfǎ, cíhuì hé yǔjìng róng huì guàn tōng."
+      },
+      {
+        "zh": "这位教授能把中西方的理论融会贯通，提出自己独到的见解。",
+        "py": "Zhè wèi jiàoshòu néng bǎ Zhōng-Xīfāng de lǐlùn róng huì guàn tōng, tíchū zìjǐ dúdào de jiànjiě."
+      },
+      {
+        "zh": "复习的目的不是重复记忆，而是把各章的内容融会贯通。",
+        "py": "Fùxí de mùdì bú shì chóngfù jìyì, ér shì bǎ gè zhāng de nèiróng róng huì guàn tōng."
+      }
+    ]
+  },
+  {
+    "成语": "一知半解",
+    "拼音": "yì zhī bàn jiě",
+    "释义": "知道得不全面，理解得也不透彻。形容对知识或情况只懂一点皮毛。",
+    "用法": "多作谓语、定语，如“对……一知半解”“一知半解的人”。带贬义，常用来批评学习不深入，或提醒别人不要不懂装懂。也常用于自谦，如“我对这个领域只是一知半解”。",
+    "例句": [
+      {
+        "zh": "我对经济学只是一知半解，不敢随便发表意见。",
+        "py": "Wǒ duì jīngjìxué zhǐshì yì zhī bàn jiě, bù gǎn suíbiàn fābiǎo yìjiàn."
+      },
+      {
+        "zh": "一知半解的时候最容易犯错，因为你以为自己已经懂了。",
+        "py": "Yì zhī bàn jiě de shíhou zuì róngyì fàn cuò, yīnwèi nǐ yǐwéi zìjǐ yǐjīng dǒng le."
+      },
+      {
+        "zh": "很多人对人工智能一知半解，却喜欢夸夸其谈。",
+        "py": "Hěn duō rén duì réngōng zhìnéng yì zhī bàn jiě, què xǐhuan kuā kuā qí tán."
+      },
+      {
+        "zh": "与其一知半解地学十门课，不如认真学好一门。",
+        "py": "Yǔqí yì zhī bàn jiě de xué shí mén kè, bùrú rènzhēn xuéhǎo yì mén."
+      },
+      {
+        "zh": "他对这项政策一知半解，就急着在网上发表评论。",
+        "py": "Tā duì zhè xiàng zhèngcè yì zhī bàn jiě, jiù jí zhe zài wǎng shang fābiǎo pínglùn."
+      }
+    ]
+  },
+  {
+    "成语": "熟能生巧",
+    "拼音": "shú néng shēng qiǎo",
+    "释义": "做得熟练了，自然就能找到窍门，做得又快又好。说明技巧来自反复的练习。",
+    "用法": "多单独成句或作谓语，常用来鼓励别人多加练习，比如“别着急，多练练就熟能生巧了”。口语和书面语都很常用。近义词“勤能补拙”强调勤奋可以弥补天赋的不足，侧重点与“熟能生巧”不同。",
+    "例句": [
+      {
+        "zh": "刚开始打字很慢，但熟能生巧，现在我一分钟能打一百多个字。",
+        "py": "Gāng kāishǐ dǎzì hěn màn, dàn shú néng shēng qiǎo, xiànzài wǒ yì fēnzhōng néng dǎ yìbǎi duō ge zì."
+      },
+      {
+        "zh": "别担心，做饭这种事熟能生巧，多做几次就好了。",
+        "py": "Bié dānxīn, zuò fàn zhè zhǒng shì shú néng shēng qiǎo, duō zuò jǐ cì jiù hǎo le."
+      },
+      {
+        "zh": "练口语没有什么捷径，多开口说，自然就熟能生巧了。",
+        "py": "Liàn kǒuyǔ méiyǒu shénme jiéjìng, duō kāikǒu shuō, zìrán jiù shú néng shēng qiǎo le."
+      },
+      {
+        "zh": "老师傅包饺子又快又好看，这就是熟能生巧。",
+        "py": "Lǎo shīfu bāo jiǎozi yòu kuài yòu hǎokàn, zhè jiù shì shú néng shēng qiǎo."
+      },
+      {
+        "zh": "写作也是一个熟能生巧的过程，写得越多，下笔就越自然。",
+        "py": "Xiězuò yě shì yí ge shú néng shēng qiǎo de guòchéng, xiě de yuè duō, xiàbǐ jiù yuè zìrán."
+      }
+    ]
+  },
+  {
+    "成语": "精益求精",
+    "拼音": "jīng yì qiú jīng",
+    "释义": "已经做得很好了，还要求做得更好。形容对工作、学问或技艺追求完美，不断改进。",
+    "用法": "多作谓语或定语，如“对工作精益求精”“精益求精的态度”。是褒义词，常用来称赞工匠精神或认真负责的工作态度。“益”是“更加”的意思，不要写成“意”。",
+    "例句": [
+      {
+        "zh": "他对自己的作品总是精益求精，从来不满足于“差不多”。",
+        "py": "Tā duì zìjǐ de zuòpǐn zǒngshì jīng yì qiú jīng, cónglái bù mǎnzú yú “chàbuduō”."
+      },
+      {
+        "zh": "这家老店能开一百年，靠的就是精益求精的态度。",
+        "py": "Zhè jiā lǎo diàn néng kāi yìbǎi nián, kào de jiù shì jīng yì qiú jīng de tàidu."
+      },
+      {
+        "zh": "论文已经写得不错了，但导师还是要求我们精益求精。",
+        "py": "Lùnwén yǐjīng xiě de búcuò le, dàn dǎoshī háishi yāoqiú wǒmen jīng yì qiú jīng."
+      },
+      {
+        "zh": "在技术上精益求精，是这家公司成功的关键。",
+        "py": "Zài jìshù shang jīng yì qiú jīng, shì zhè jiā gōngsī chénggōng de guānjiàn."
+      },
+      {
+        "zh": "真正的工匠精神，就是对每一个细节都精益求精。",
+        "py": "Zhēnzhèng de gōngjiàng jīngshén, jiù shì duì měi yí ge xìjié dōu jīng yì qiú jīng."
+      }
+    ]
+  },
+  {
+    "成语": "莫名其妙",
+    "拼音": "mò míng qí miào",
+    "释义": "没有人能说出其中的奥妙。形容事情很奇怪，让人无法理解，摸不着头脑。",
+    "用法": "可作谓语、定语、状语，如“这事真莫名其妙”“莫名其妙的问题”“他莫名其妙地生气了”。口语中非常常用，常带有不满或困惑的语气。规范写法是“莫名其妙”。",
+    "例句": [
+      {
+        "zh": "他今天莫名其妙地对我发了一通脾气。",
+        "py": "Tā jīntiān mò míng qí miào de duì wǒ fā le yí tòng píqi."
+      },
+      {
+        "zh": "我的电脑莫名其妙就死机了，文件也没保存。",
+        "py": "Wǒ de diànnǎo mò míng qí miào jiù sǐjī le, wénjiàn yě méi bǎocún."
+      },
+      {
+        "zh": "这个规定真是莫名其妙，根本说不出道理。",
+        "py": "Zhège guīdìng zhēn shì mò míng qí miào, gēnběn shuō bu chū dàoli."
+      },
+      {
+        "zh": "他说了一句莫名其妙的话，大家都愣住了。",
+        "py": "Tā shuō le yí jù mò míng qí miào de huà, dàjiā dōu lèngzhù le."
+      },
+      {
+        "zh": "被老师批评了一顿，我到现在还觉得莫名其妙。",
+        "py": "Bèi lǎoshī pīpíng le yí dùn, wǒ dào xiànzài hái juéde mò míng qí miào."
+      }
+    ]
+  },
+  {
+    "成语": "迫不及待",
+    "拼音": "pò bù jí dài",
+    "释义": "急迫得不能再等待。形容心情非常急切，想马上去做某件事。",
+    "用法": "多作状语或谓语，常用格式是“迫不及待地＋动词”，如“迫不及待地打开礼物”。口语和书面语都常用，多表现期待、兴奋的心情；有时也带讽刺意味，指人过于心急。",
+    "例句": [
+      {
+        "zh": "孩子们迫不及待地打开了新年礼物。",
+        "py": "Háizimen pò bù jí dài de dǎkāi le xīnnián lǐwù."
+      },
+      {
+        "zh": "一下飞机，她就迫不及待地给家里打了个电话。",
+        "py": "Yí xià fēijī, tā jiù pò bù jí dài de gěi jiā li dǎ le ge diànhuà."
+      },
+      {
+        "zh": "新手机刚发布，很多人就迫不及待地去排队购买。",
+        "py": "Xīn shǒujī gāng fābù, hěn duō rén jiù pò bù jí dài de qù páiduì gòumǎi."
+      },
+      {
+        "zh": "考完最后一门，我已经迫不及待想去旅行了。",
+        "py": "Kǎowán zuìhòu yì mén, wǒ yǐjīng pò bù jí dài xiǎng qù lǚxíng le."
+      },
+      {
+        "zh": "他迫不及待地想知道面试结果，每隔十分钟就看一次邮箱。",
+        "py": "Tā pò bù jí dài de xiǎng zhīdào miànshì jiéguǒ, měi gé shí fēnzhōng jiù kàn yí cì yóuxiāng."
+      }
+    ]
+  },
+  {
+    "成语": "小心翼翼",
+    "拼音": "xiǎo xīn yì yì",
+    "释义": "原形容严肃恭敬的样子，现在形容举动非常谨慎，一点儿也不敢疏忽。",
+    "用法": "多作状语或谓语，如“小心翼翼地走”“他做事一向小心翼翼”。既可以用于具体动作，也可以用于说话、处理关系等抽象方面。有时略带“过于紧张、放不开”的意味。",
+    "例句": [
+      {
+        "zh": "她小心翼翼地把花瓶放在桌子上。",
+        "py": "Tā xiǎo xīn yì yì de bǎ huāpíng fàng zài zhuōzi shang."
+      },
+      {
+        "zh": "路面结冰了，大家都小心翼翼地往前走。",
+        "py": "Lùmiàn jiébīng le, dàjiā dōu xiǎo xīn yì yì de wǎng qián zǒu."
+      },
+      {
+        "zh": "刚到新公司，他说话做事都小心翼翼的，生怕出错。",
+        "py": "Gāng dào xīn gōngsī, tā shuōhuà zuòshì dōu xiǎo xīn yì yì de, shēngpà chūcuò."
+      },
+      {
+        "zh": "跟领导谈加薪的时候，我小心翼翼地斟酌每一句话。",
+        "py": "Gēn lǐngdǎo tán jiāxīn de shíhou, wǒ xiǎo xīn yì yì de zhēnzhuó měi yí jù huà."
+      },
+      {
+        "zh": "两国关系十分敏感，双方都处理得小心翼翼。",
+        "py": "Liǎng guó guānxi shífēn mǐngǎn, shuāngfāng dōu chǔlǐ de xiǎo xīn yì yì."
+      }
+    ]
+  },
+  {
+    "成语": "恍然大悟",
+    "拼音": "huǎng rán dà wù",
+    "释义": "形容一下子明白过来，突然醒悟。“恍然”是猛然、忽然的样子，“悟”是明白、领悟。",
+    "用法": "多作谓语，常用格式有“……才恍然大悟”“让人恍然大悟”。多描写在别人提醒、解释之后，或者经过一番思考后忽然明白的情形。口语和书面语都常用。",
+    "例句": [
+      {
+        "zh": "听了老师的解释，我才恍然大悟，原来是我理解错了题意。",
+        "py": "Tīng le lǎoshī de jiěshì, wǒ cái huǎng rán dà wù, yuánlái shì wǒ lǐjiě cuò le tíyì."
+      },
+      {
+        "zh": "直到电影的最后一幕，观众才恍然大悟。",
+        "py": "Zhídào diànyǐng de zuìhòu yí mù, guānzhòng cái huǎng rán dà wù."
+      },
+      {
+        "zh": "他这么一说，大家都恍然大悟。",
+        "py": "Tā zhème yì shuō, dàjiā dōu huǎng rán dà wù."
+      },
+      {
+        "zh": "我一直不明白她为什么生气，后来才恍然大悟：那天是她的生日。",
+        "py": "Wǒ yìzhí bù míngbai tā wèi shénme shēngqì, hòulái cái huǎng rán dà wù: nà tiān shì tā de shēngrì."
+      },
+      {
+        "zh": "书里的一个例子让我恍然大悟，终于搞懂了这个概念。",
+        "py": "Shū li de yí ge lìzi ràng wǒ huǎng rán dà wù, zhōngyú gǎodǒng le zhège gàiniàn."
+      }
+    ]
+  },
+  {
+    "成语": "理所当然",
+    "拼音": "lǐ suǒ dāng rán",
+    "释义": "从道理上说，本来就应当这样。指事情合情合理，本该如此。",
+    "用法": "多作谓语、定语或状语，如“这是理所当然的”“理所当然地认为”。常见搭配“把……当作理所当然”“视为理所当然”，往往带有批评意味，指人对别人的付出习以为常、不知感恩。",
+    "例句": [
+      {
+        "zh": "帮助有困难的朋友是理所当然的事。",
+        "py": "Bāngzhù yǒu kùnnan de péngyou shì lǐ suǒ dāng rán de shì."
+      },
+      {
+        "zh": "不要把父母的付出当作理所当然。",
+        "py": "Bú yào bǎ fùmǔ de fùchū dàngzuò lǐ suǒ dāng rán."
+      },
+      {
+        "zh": "他理所当然地认为，这个职位非他莫属。",
+        "py": "Tā lǐ suǒ dāng rán de rènwéi, zhège zhíwèi fēi tā mò shǔ."
+      },
+      {
+        "zh": "你工作这么努力，升职是理所当然的。",
+        "py": "Nǐ gōngzuò zhème nǔlì, shēngzhí shì lǐ suǒ dāng rán de."
+      },
+      {
+        "zh": "很多人习惯了便利的生活，把它视为理所当然。",
+        "py": "Hěn duō rén xíguàn le biànlì de shēnghuó, bǎ tā shìwéi lǐ suǒ dāng rán."
+      }
+    ]
+  },
+  {
+    "成语": "无可奈何",
+    "拼音": "wú kě nài hé",
+    "释义": "没有办法可想，只好这样。形容对某种情况无力改变，只能接受。",
+    "用法": "可作谓语、定语、状语，如“感到无可奈何”“无可奈何的表情”“无可奈何地笑了笑”。多表达无力、失望、勉强接受的心情。和“无能为力”相比，“无可奈何”侧重内心的无奈，“无能为力”侧重没有能力去做。",
+    "例句": [
+      {
+        "zh": "因为暴雨，航班取消了，我们也无可奈何。",
+        "py": "Yīnwèi bàoyǔ, hángbān qǔxiāo le, wǒmen yě wú kě nài hé."
+      },
+      {
+        "zh": "看着孩子整天沉迷手机，父母常常感到无可奈何。",
+        "py": "Kàn zhe háizi zhěngtiān chénmí shǒujī, fùmǔ chángcháng gǎndào wú kě nài hé."
+      },
+      {
+        "zh": "他无可奈何地耸了耸肩，说：“我也没办法。”",
+        "py": "Tā wú kě nài hé de sǒng le sǒng jiān, shuō: “Wǒ yě méi bànfǎ.”"
+      },
+      {
+        "zh": "面对不断上涨的房价，很多年轻人只能无可奈何地选择租房。",
+        "py": "Miànduì búduàn shàngzhǎng de fángjià, hěn duō niánqīngrén zhǐ néng wú kě nài hé de xuǎnzé zūfáng."
+      },
+      {
+        "zh": "她脸上带着一丝无可奈何的苦笑。",
+        "py": "Tā liǎn shang dài zhe yì sī wú kě nài hé de kǔxiào."
+      }
+    ]
+  },
+  {
+    "成语": "守株待兔",
+    "拼音": "shǒu zhū dài tù",
+    "释义": "语出《韩非子》。宋国有个农夫，看见一只兔子撞在树桩上死了，便放下农具，天天守在树桩旁，想再捡到撞死的兔子，结果田地荒了，兔子却再也没等到。比喻死守狭隘的经验，不知变通；也比喻不主动努力，心存侥幸，妄想得到意外的收获。",
+    "用法": "多作谓语、宾语或定语，带贬义。常用来批评被动等待、不思进取的态度，如“找工作不能守株待兔”。",
+    "例句": [
+      {
+        "zh": "找工作不能守株待兔，要主动投简历、参加面试。",
+        "py": "Zhǎo gōngzuò bù néng shǒu zhū dài tù, yào zhǔdòng tóu jiǎnlì, cānjiā miànshì."
+      },
+      {
+        "zh": "市场变化这么快，企业如果守株待兔，迟早会被淘汰。",
+        "py": "Shìchǎng biànhuà zhème kuài, qǐyè rúguǒ shǒu zhū dài tù, chízǎo huì bèi táotài."
+      },
+      {
+        "zh": "他总想着靠买彩票发财，这不就是守株待兔吗？",
+        "py": "Tā zǒng xiǎng zhe kào mǎi cǎipiào fācái, zhè bú jiù shì shǒu zhū dài tù ma?"
+      },
+      {
+        "zh": "机会不会自己送上门，守株待兔是等不来成功的。",
+        "py": "Jīhuì bú huì zìjǐ sòng shàng mén, shǒu zhū dài tù shì děng bu lái chénggōng de."
+      },
+      {
+        "zh": "上次考前押题押中了，他这次干脆不复习，想守株待兔。",
+        "py": "Shàng cì kǎo qián yā tí yāzhòng le, tā zhè cì gāncuì bú fùxí, xiǎng shǒu zhū dài tù."
+      }
+    ]
+  },
+  {
+    "成语": "画蛇添足",
+    "拼音": "huà shé tiān zú",
+    "释义": "语出《战国策》。几个人比赛画蛇，约定先画好的人喝酒。有个人最先画好，却得意地给蛇添上了脚，另一个人画完后说：蛇本来就没有脚。说完便把酒拿过去喝了。比喻做了多余的事，不但没有好处，反而坏了事。",
+    "用法": "多作谓语、宾语，带贬义。常用来提醒别人不要做多余的事，如“这句话有点儿画蛇添足”。写作、设计、说话等方面都可以用。",
+    "例句": [
+      {
+        "zh": "文章的结尾已经很有力了，再加一段总结反而画蛇添足。",
+        "py": "Wénzhāng de jiéwěi yǐjīng hěn yǒulì le, zài jiā yí duàn zǒngjié fǎn'ér huà shé tiān zú."
+      },
+      {
+        "zh": "这个设计本来很简洁，加上这么多装饰简直是画蛇添足。",
+        "py": "Zhège shèjì běnlái hěn jiǎnjié, jiāshang zhème duō zhuāngshì jiǎnzhí shì huà shé tiān zú."
+      },
+      {
+        "zh": "他道歉以后又解释了半天，结果画蛇添足，对方更生气了。",
+        "py": "Tā dàoqiàn yǐhòu yòu jiěshì le bàntiān, jiéguǒ huà shé tiān zú, duìfāng gèng shēngqì le."
+      },
+      {
+        "zh": "这道菜的味道已经刚刚好，再放酱油就是画蛇添足了。",
+        "py": "Zhè dào cài de wèidao yǐjīng gānggāng hǎo, zài fàng jiàngyóu jiù shì huà shé tiān zú le."
+      },
+      {
+        "zh": "回答面试问题要简洁明了，说得太多容易画蛇添足。",
+        "py": "Huídá miànshì wèntí yào jiǎnjié míngliǎo, shuō de tài duō róngyì huà shé tiān zú."
+      }
+    ]
+  },
+  {
+    "成语": "不可或缺",
+    "拼音": "bù kě huò quē",
+    "释义": "一点儿也不能缺少。“或”是“稍微、略微”的意思。形容某事物非常重要，必不可少。",
+    "用法": "多作谓语或定语，常用“……是不可或缺的”“不可或缺的一部分／因素／作用”。书面色彩较浓，常见于议论文和正式文章。近义词“必不可少”更口语化一些。",
+    "例句": [
+      {
+        "zh": "水是生命不可或缺的元素。",
+        "py": "Shuǐ shì shēngmìng bù kě huò quē de yuánsù."
+      },
+      {
+        "zh": "团队合作是项目成功不可或缺的因素。",
+        "py": "Tuánduì hézuò shì xiàngmù chénggōng bù kě huò quē de yīnsù."
+      },
+      {
+        "zh": "对很多年轻人来说，手机已经成了生活中不可或缺的一部分。",
+        "py": "Duì hěn duō niánqīngrén lái shuō, shǒujī yǐjīng chéng le shēnghuó zhōng bù kě huò quē de yí bùfen."
+      },
+      {
+        "zh": "在学习外语的过程中，大量阅读不可或缺。",
+        "py": "Zài xuéxí wàiyǔ de guòchéng zhōng, dàliàng yuèdú bù kě huò quē."
+      },
+      {
+        "zh": "志愿者在这次活动中发挥了不可或缺的作用。",
+        "py": "Zhìyuànzhě zài zhè cì huódòng zhōng fāhuī le bù kě huò quē de zuòyòng."
+      }
+    ]
+  },
+  {
+    "成语": "以偏概全",
+    "拼音": "yǐ piān gài quán",
+    "释义": "用局部的、片面的情况来概括整体。指看问题不全面，得出的结论有失偏颇。",
+    "用法": "多作谓语、宾语，带贬义。常用来指出论证或看法中的逻辑错误，如“这种说法有以偏概全之嫌”“不能以偏概全”。在议论文和学术讨论中十分常用。",
+    "例句": [
+      {
+        "zh": "只采访了十个人就下结论，未免有以偏概全之嫌。",
+        "py": "Zhǐ cǎifǎng le shí ge rén jiù xià jiélùn, wèimiǎn yǒu yǐ piān gài quán zhī xián."
+      },
+      {
+        "zh": "遇到一个不礼貌的店员，就说这个城市的人都没礼貌，这是以偏概全。",
+        "py": "Yùdào yí ge bù lǐmào de diànyuán, jiù shuō zhège chéngshì de rén dōu méi lǐmào, zhè shì yǐ piān gài quán."
+      },
+      {
+        "zh": "写议论文时要注意论据的代表性，避免以偏概全。",
+        "py": "Xiě yìlùnwén shí yào zhùyì lùnjù de dàibiǎoxìng, bìmiǎn yǐ piān gài quán."
+      },
+      {
+        "zh": "不能凭网上几条差评就以偏概全，否定这家店的整体水平。",
+        "py": "Bù néng píng wǎng shang jǐ tiáo chàpíng jiù yǐ piān gài quán, fǒudìng zhè jiā diàn de zhěngtǐ shuǐpíng."
+      },
+      {
+        "zh": "用一次考试成绩来评价一个学生，难免以偏概全。",
+        "py": "Yòng yí cì kǎoshì chéngjì lái píngjià yí ge xuésheng, nánmiǎn yǐ piān gài quán."
+      }
+    ]
+  },
+  {
+    "成语": "断章取义",
+    "拼音": "duàn zhāng qǔ yì",
+    "释义": "不顾全篇文章或整段谈话的完整意思，只截取其中的一段或一句，按自己的需要去理解或引用。",
+    "用法": "多作谓语、定语、状语，带贬义。常用来批评歪曲别人原意的做法，如“这完全是断章取义”“断章取义地引用”。在新闻报道、学术引用和网络讨论中经常出现。",
+    "例句": [
+      {
+        "zh": "有些媒体断章取义，把专家的话完全歪曲了。",
+        "py": "Yǒuxiē méitǐ duàn zhāng qǔ yì, bǎ zhuānjiā de huà wánquán wāiqū le."
+      },
+      {
+        "zh": "引用别人的观点时要尊重原意，不能断章取义。",
+        "py": "Yǐnyòng biérén de guāndiǎn shí yào zūnzhòng yuányì, bù néng duàn zhāng qǔ yì."
+      },
+      {
+        "zh": "我那句话是开玩笑的，你别断章取义。",
+        "py": "Wǒ nà jù huà shì kāi wánxiào de, nǐ bié duàn zhāng qǔ yì."
+      },
+      {
+        "zh": "这段视频被人断章取义地剪辑后，在网上引起了很大的争议。",
+        "py": "Zhè duàn shìpín bèi rén duàn zhāng qǔ yì de jiǎnjí hòu, zài wǎng shang yǐnqǐ le hěn dà de zhēngyì."
+      },
+      {
+        "zh": "只看标题就下结论，很容易断章取义。",
+        "py": "Zhǐ kàn biāotí jiù xià jiélùn, hěn róngyì duàn zhāng qǔ yì."
+      }
+    ]
+  },
+  {
+    "成语": "一概而论",
+    "拼音": "yí gài ér lùn",
+    "释义": "用同一个标准来对待或评论不同的事物。“一概”是“一律”的意思。",
+    "用法": "多用于否定句，如“不能一概而论”“不可一概而论”，强调情况各不相同，需要具体分析。在讨论和议论文中非常常用，语气客观、谨慎。",
+    "例句": [
+      {
+        "zh": "留学的利弊因人而异，不能一概而论。",
+        "py": "Liúxué de lìbì yīn rén ér yì, bù néng yí gài ér lùn."
+      },
+      {
+        "zh": "网络游戏对孩子的影响有好有坏，不可一概而论。",
+        "py": "Wǎngluò yóuxì duì háizi de yǐngxiǎng yǒu hǎo yǒu huài, bù kě yí gài ér lùn."
+      },
+      {
+        "zh": "每个地区的情况都不一样，这个问题很难一概而论。",
+        "py": "Měi ge dìqū de qíngkuàng dōu bù yíyàng, zhège wèntí hěn nán yí gài ér lùn."
+      },
+      {
+        "zh": "并不是所有“网红”产品质量都差，我们不能一概而论。",
+        "py": "Bìng bú shì suǒyǒu “wǎnghóng” chǎnpǐn zhìliàng dōu chà, wǒmen bù néng yí gài ér lùn."
+      },
+      {
+        "zh": "加班是好是坏，要看具体情况，不宜一概而论。",
+        "py": "Jiābān shì hǎo shì huài, yào kàn jùtǐ qíngkuàng, bù yí yí gài ér lùn."
+      }
+    ]
+  },
+  {
+    "成语": "归根结底",
+    "拼音": "guī gēn jié dǐ",
+    "释义": "归结到根本上。指把各种原因和情况归纳起来，得出最根本的结论。",
+    "用法": "多作插入语，放在句首或句中，引出最根本的原因或结论，如“归根结底，……”。也说“归根到底”。语气比较正式，常用于议论文和总结性的发言。",
+    "例句": [
+      {
+        "zh": "归根结底，学习好不好还是取决于自己是否努力。",
+        "py": "Guī gēn jié dǐ, xuéxí hǎo bu hǎo háishi qǔjué yú zìjǐ shìfǒu nǔlì."
+      },
+      {
+        "zh": "这些问题归根结底是管理上的问题。",
+        "py": "Zhèxiē wèntí guī gēn jié dǐ shì guǎnlǐ shang de wèntí."
+      },
+      {
+        "zh": "很多矛盾归根结底都源于沟通不畅。",
+        "py": "Hěn duō máodùn guī gēn jié dǐ dōu yuányú gōutōng bú chàng."
+      },
+      {
+        "zh": "归根结底，健康比什么都重要。",
+        "py": "Guī gēn jié dǐ, jiànkāng bǐ shénme dōu zhòngyào."
+      },
+      {
+        "zh": "房价居高不下，归根结底是供求关系失衡造成的。",
+        "py": "Fángjià jū gāo bú xià, guī gēn jié dǐ shì gōngqiú guānxi shīhéng zàochéng de."
+      }
+    ]
+  },
+  {
+    "成语": "总而言之",
+    "拼音": "zǒng ér yán zhī",
+    "释义": "总的来说。用来对前面所说的内容进行概括和总结。",
+    "用法": "多作插入语，放在句首，引出总结性的话，如“总而言之，……”，常用于文章或发言的结尾。口语中也常说“总之”“总的来说”，相比之下“总而言之”稍显正式。",
+    "例句": [
+      {
+        "zh": "总而言之，这次活动办得非常成功。",
+        "py": "Zǒng ér yán zhī, zhè cì huódòng bàn de fēicháng chénggōng."
+      },
+      {
+        "zh": "价格合理，服务周到，环境也不错，总而言之，值得一去。",
+        "py": "Jiàgé hélǐ, fúwù zhōudào, huánjìng yě búcuò, zǒng ér yán zhī, zhíde yí qù."
+      },
+      {
+        "zh": "总而言之，我们必须在下周五之前完成这个项目。",
+        "py": "Zǒng ér yán zhī, wǒmen bìxū zài xià zhōuwǔ zhīqián wánchéng zhège xiàngmù."
+      },
+      {
+        "zh": "总而言之，科技既带来了便利，也带来了新的挑战。",
+        "py": "Zǒng ér yán zhī, kējì jì dàilái le biànlì, yě dàilái le xīn de tiǎozhàn."
+      },
+      {
+        "zh": "他讲了一大堆理由，总而言之就是不想去。",
+        "py": "Tā jiǎng le yí dà duī lǐyóu, zǒng ér yán zhī jiù shì bù xiǎng qù."
+      }
+    ]
+  },
+  {
+    "成语": "见仁见智",
+    "拼音": "jiàn rén jiàn zhì",
+    "释义": "语出《周易》：“仁者见之谓之仁，知者见之谓之知。”指对同一个问题，不同的人从不同的角度出发，会有不同的看法。",
+    "用法": "多作谓语，常用格式有“这个问题见仁见智”“……可谓见仁见智”。多用于讨论没有标准答案的问题，语气客观、包容，表示尊重不同的意见。",
+    "例句": [
+      {
+        "zh": "这部电影到底好不好看，见仁见智。",
+        "py": "Zhè bù diànyǐng dàodǐ hǎo bu hǎokàn, jiàn rén jiàn zhì."
+      },
+      {
+        "zh": "关于孩子该不该学奥数，家长们的看法见仁见智。",
+        "py": "Guānyú háizi gāi bu gāi xué àoshù, jiāzhǎngmen de kànfǎ jiàn rén jiàn zhì."
+      },
+      {
+        "zh": "艺术作品的价值往往见仁见智，很难有统一的标准。",
+        "py": "Yìshù zuòpǐn de jiàzhí wǎngwǎng jiàn rén jiàn zhì, hěn nán yǒu tǒngyī de biāozhǔn."
+      },
+      {
+        "zh": "远程办公到底是利大于弊还是弊大于利，可以说见仁见智。",
+        "py": "Yuǎnchéng bàngōng dàodǐ shì lì dà yú bì háishi bì dà yú lì, kěyǐ shuō jiàn rén jiàn zhì."
+      },
+      {
+        "zh": "这个问题见仁见智，我们不妨听听大家的意见。",
+        "py": "Zhège wèntí jiàn rén jiàn zhì, wǒmen bùfáng tīngting dàjiā de yìjiàn."
+      }
+    ]
+  },
+  {
+    "成语": "一丝不苟",
+    "拼音": "yì sī bù gǒu",
+    "释义": "形容做事认真细致，连最细微的地方也不马虎。“苟”是“随便、马虎”的意思。",
+    "用法": "多作谓语、定语、状语，如“工作一丝不苟”“一丝不苟的态度”“一丝不苟地检查”。是褒义词，常用来称赞人认真负责。和“精益求精”相比，“一丝不苟”侧重认真细致、不出差错，“精益求精”侧重不断追求更好。",
+    "例句": [
+      {
+        "zh": "王老师批改作业一丝不苟，连标点符号的错误都会指出来。",
+        "py": "Wáng lǎoshī pīgǎi zuòyè yì sī bù gǒu, lián biāodiǎn fúhào de cuòwù dōu huì zhǐ chūlai."
+      },
+      {
+        "zh": "做实验必须一丝不苟，任何小错误都可能影响结果。",
+        "py": "Zuò shíyàn bìxū yì sī bù gǒu, rènhé xiǎo cuòwù dōu kěnéng yǐngxiǎng jiéguǒ."
+      },
+      {
+        "zh": "她一丝不苟地核对了每一笔账目。",
+        "py": "Tā yì sī bù gǒu de héduì le měi yì bǐ zhàngmù."
+      },
+      {
+        "zh": "正是这种一丝不苟的精神，让他成为了行业里的专家。",
+        "py": "Zhèng shì zhè zhǒng yì sī bù gǒu de jīngshén, ràng tā chéngwéi le hángyè li de zhuānjiā."
+      },
+      {
+        "zh": "他平时看起来大大咧咧，工作起来却一丝不苟。",
+        "py": "Tā píngshí kàn qǐlai dàdaliēliē, gōngzuò qǐlai què yì sī bù gǒu."
+      }
+    ]
+  },
+  {
+    "成语": "有条不紊",
+    "拼音": "yǒu tiáo bù wěn",
+    "释义": "做事或说话有条理、有秩序，一点儿也不乱。“紊”是“乱”的意思。",
+    "用法": "多作谓语、状语、补语，如“工作有条不紊”“有条不紊地进行”“安排得有条不紊”。是褒义词，常用来形容工作安排、组织活动、处理事务等。注意“紊”的读音与“稳”相同。",
+    "例句": [
+      {
+        "zh": "虽然事情很多，但她安排得有条不紊。",
+        "py": "Suīrán shìqing hěn duō, dàn tā ānpái de yǒu tiáo bù wěn."
+      },
+      {
+        "zh": "救援工作正在有条不紊地进行。",
+        "py": "Jiùyuán gōngzuò zhèngzài yǒu tiáo bù wěn de jìnxíng."
+      },
+      {
+        "zh": "他讲话有条不紊，逻辑非常清楚。",
+        "py": "Tā jiǎnghuà yǒu tiáo bù wěn, luójí fēicháng qīngchu."
+      },
+      {
+        "zh": "考试前把复习计划列出来，才能有条不紊地准备。",
+        "py": "Kǎoshì qián bǎ fùxí jìhuà liè chūlai, cái néng yǒu tiáo bù wěn de zhǔnbèi."
+      },
+      {
+        "zh": "即使在最忙的时候，经理也能把一切处理得有条不紊。",
+        "py": "Jíshǐ zài zuì máng de shíhou, jīnglǐ yě néng bǎ yíqiè chǔlǐ de yǒu tiáo bù wěn."
+      }
+    ]
+  },
+  {
+    "成语": "按部就班",
+    "拼音": "àn bù jiù bān",
+    "释义": "按照一定的步骤、顺序或规矩做事。“部”“班”指门类和次序。",
+    "用法": "多作谓语、状语。可以是中性或褒义，表示做事有步骤、稳妥，如“按部就班地推进”；也可以带贬义，指墨守成规、缺乏创新，如“工作只会按部就班”。具体含义要看语境。",
+    "例句": [
+      {
+        "zh": "学外语要按部就班，先打好基础，再学难的内容。",
+        "py": "Xué wàiyǔ yào àn bù jiù bān, xiān dǎhǎo jīchǔ, zài xué nán de nèiróng."
+      },
+      {
+        "zh": "项目正在按部就班地推进，预计年底完成。",
+        "py": "Xiàngmù zhèngzài àn bù jiù bān de tuījìn, yùjì niándǐ wánchéng."
+      },
+      {
+        "zh": "他做事总是按部就班，很少出错，但也缺少一些创意。",
+        "py": "Tā zuòshì zǒngshì àn bù jiù bān, hěn shǎo chūcuò, dàn yě quēshǎo yìxiē chuàngyì."
+      },
+      {
+        "zh": "公司的老员工习惯了按部就班，对新的工作方式有些抵触。",
+        "py": "Gōngsī de lǎo yuángōng xíguàn le àn bù jiù bān, duì xīn de gōngzuò fāngshì yǒuxiē dǐchù."
+      },
+      {
+        "zh": "只要按部就班地执行计划，目标一定能实现。",
+        "py": "Zhǐyào àn bù jiù bān de zhíxíng jìhuà, mùbiāo yídìng néng shíxiàn."
+      }
+    ]
+  },
+  {
+    "成语": "学以致用",
+    "拼音": "xué yǐ zhì yòng",
+    "释义": "为了实际应用而学习，把学到的知识用到实际工作和生活中去。",
+    "用法": "多作谓语，也可以作宾语，如“做到学以致用”。是褒义词，常用于谈论教育、学习方法和职业发展。注意“致”不要写成“至”。",
+    "例句": [
+      {
+        "zh": "学习的最终目的是学以致用。",
+        "py": "Xuéxí de zuìzhōng mùdì shì xué yǐ zhì yòng."
+      },
+      {
+        "zh": "他大学学的是会计，毕业后在公司做财务，可以说是学以致用。",
+        "py": "Tā dàxué xué de shì kuàijì, bìyè hòu zài gōngsī zuò cáiwù, kěyǐ shuō shì xué yǐ zhì yòng."
+      },
+      {
+        "zh": "实习是学以致用的好机会。",
+        "py": "Shíxí shì xué yǐ zhì yòng de hǎo jīhuì."
+      },
+      {
+        "zh": "学了两年中文，这次去中国旅行，我终于能学以致用了。",
+        "py": "Xué le liǎng nián Zhōngwén, zhè cì qù Zhōngguó lǚxíng, wǒ zhōngyú néng xué yǐ zhì yòng le."
+      },
+      {
+        "zh": "很多学生只会应付考试，却很难做到学以致用。",
+        "py": "Hěn duō xuésheng zhǐ huì yìngfu kǎoshì, què hěn nán zuòdào xué yǐ zhì yòng."
+      }
+    ]
+  },
+  {
+    "成语": "取长补短",
+    "拼音": "qǔ cháng bǔ duǎn",
+    "释义": "吸取别人的长处，来弥补自己的不足。",
+    "用法": "多作谓语，常用“互相取长补短”“与……取长补短”。是褒义词，常用于团队合作、交流学习、文化交流等场景。",
+    "例句": [
+      {
+        "zh": "同学之间应该互相学习，取长补短。",
+        "py": "Tóngxué zhījiān yīnggāi hùxiāng xuéxí, qǔ cháng bǔ duǎn."
+      },
+      {
+        "zh": "两家公司合作，可以取长补短，实现共赢。",
+        "py": "Liǎng jiā gōngsī hézuò, kěyǐ qǔ cháng bǔ duǎn, shíxiàn gòngyíng."
+      },
+      {
+        "zh": "他擅长技术，她擅长沟通，两人正好取长补短。",
+        "py": "Tā shàncháng jìshù, tā shàncháng gōutōng, liǎng rén zhènghǎo qǔ cháng bǔ duǎn."
+      },
+      {
+        "zh": "不同文化之间的交流，能让我们取长补短，共同进步。",
+        "py": "Bù tóng wénhuà zhījiān de jiāoliú, néng ràng wǒmen qǔ cháng bǔ duǎn, gòngtóng jìnbù."
+      },
+      {
+        "zh": "小组讨论的好处是大家可以取长补短，想出更好的方案。",
+        "py": "Xiǎozǔ tǎolùn de hǎochù shì dàjiā kěyǐ qǔ cháng bǔ duǎn, xiǎngchū gèng hǎo de fāng'àn."
+      }
+    ]
+  },
+  {
+    "成语": "无能为力",
+    "拼音": "wú néng wéi lì",
+    "释义": "没有能力去做，或者有力也使不上。指对某件事没有办法帮忙或解决。",
+    "用法": "多作谓语，常用格式有“对……无能为力”“感到无能为力”，常用来表达遗憾和无奈。注意“为”读第二声，是“做、施展”的意思。",
+    "例句": [
+      {
+        "zh": "这件事我真的无能为力，你还是去问问别人吧。",
+        "py": "Zhè jiàn shì wǒ zhēn de wú néng wéi lì, nǐ háishi qù wènwen biérén ba."
+      },
+      {
+        "zh": "面对突如其来的大火，人们一时无能为力。",
+        "py": "Miànduì tū rú qí lái de dà huǒ, rénmen yìshí wú néng wéi lì."
+      },
+      {
+        "zh": "医生说，对于这种罕见病，目前的医学还无能为力。",
+        "py": "Yīshēng shuō, duìyú zhè zhǒng hǎnjiànbìng, mùqián de yīxué hái wú néng wéi lì."
+      },
+      {
+        "zh": "看着朋友那么难过，我却无能为力，心里很不是滋味。",
+        "py": "Kàn zhe péngyou nàme nánguò, wǒ què wú néng wéi lì, xīnli hěn bú shì zīwèi."
+      },
+      {
+        "zh": "天气谁也控制不了，对此我们无能为力。",
+        "py": "Tiānqì shéi yě kòngzhì bu liǎo, duì cǐ wǒmen wú néng wéi lì."
+      }
+    ]
+  },
+  {
+    "成语": "手忙脚乱",
+    "拼音": "shǒu máng jiǎo luàn",
+    "释义": "手也忙了，脚也乱了。形容做事慌张，没有条理，忙得不知道该先做什么。",
+    "用法": "多作谓语、状语、补语，如“忙得手忙脚乱”“手忙脚乱地收拾”。口语中很常用，带有一点儿狼狈的色彩。反义词是“有条不紊”。",
+    "例句": [
+      {
+        "zh": "第一次一个人带孩子，他忙得手忙脚乱。",
+        "py": "Dì yī cì yí ge rén dài háizi, tā máng de shǒu máng jiǎo luàn."
+      },
+      {
+        "zh": "客人突然来了，我们手忙脚乱地收拾房间。",
+        "py": "Kèrén tūrán lái le, wǒmen shǒu máng jiǎo luàn de shōushi fángjiān."
+      },
+      {
+        "zh": "早上起晚了，我手忙脚乱地出了门，结果忘了带钥匙。",
+        "py": "Zǎoshang qǐwǎn le, wǒ shǒu máng jiǎo luàn de chū le mén, jiéguǒ wàng le dài yàoshi."
+      },
+      {
+        "zh": "提前做好准备，就不会在考试前手忙脚乱了。",
+        "py": "Tíqián zuòhǎo zhǔnbèi, jiù bú huì zài kǎoshì qián shǒu máng jiǎo luàn le."
+      },
+      {
+        "zh": "店里突然来了一大群客人，新来的服务员顿时手忙脚乱。",
+        "py": "Diàn li tūrán lái le yí dà qún kèrén, xīn lái de fúwùyuán dùnshí shǒu máng jiǎo luàn."
+      }
+    ]
+  },
+  {
+    "成语": "犹豫不决",
+    "拼音": "yóu yù bù jué",
+    "释义": "拿不定主意，迟迟下不了决心。",
+    "用法": "多作谓语、定语，如“他犹豫不决”“犹豫不决的态度”。常用来形容在选择面前反复考虑、无法决定的状态，有时带有批评意味，指人不够果断。反义词有“当机立断”。",
+    "例句": [
+      {
+        "zh": "两个工作机会都不错，他犹豫不决，不知道该选哪个。",
+        "py": "Liǎng ge gōngzuò jīhuì dōu búcuò, tā yóu yù bù jué, bù zhīdào gāi xuǎn nǎge."
+      },
+      {
+        "zh": "别再犹豫不决了，机会可不等人。",
+        "py": "Bié zài yóu yù bù jué le, jīhuì kě bù děng rén."
+      },
+      {
+        "zh": "她在买房这件事上犹豫不决，结果房价又涨了。",
+        "py": "Tā zài mǎi fáng zhè jiàn shì shang yóu yù bù jué, jiéguǒ fángjià yòu zhǎng le."
+      },
+      {
+        "zh": "面对重大决定，犹豫不决是很正常的。",
+        "py": "Miànduì zhòngdà juédìng, yóu yù bù jué shì hěn zhèngcháng de."
+      },
+      {
+        "zh": "他犹豫不决的态度让合作伙伴失去了耐心。",
+        "py": "Tā yóu yù bù jué de tàidu ràng hézuò huǒbàn shīqù le nàixīn."
+      }
+    ]
+  },
+  {
+    "成语": "半信半疑",
+    "拼音": "bàn xìn bàn yí",
+    "释义": "有点儿相信，又有点儿怀疑。形容对某件事拿不准真假。",
+    "用法": "多作谓语、状语、定语，如“我对此半信半疑”“半信半疑地点点头”。口语和书面语都常用，语气比“怀疑”轻一些。",
+    "例句": [
+      {
+        "zh": "他说自己一个月就学会了游泳，我听了半信半疑。",
+        "py": "Tā shuō zìjǐ yí ge yuè jiù xuéhuì le yóuyǒng, wǒ tīng le bàn xìn bàn yí."
+      },
+      {
+        "zh": "对于网上的减肥广告，我一向半信半疑。",
+        "py": "Duìyú wǎng shang de jiǎnféi guǎnggào, wǒ yíxiàng bàn xìn bàn yí."
+      },
+      {
+        "zh": "她半信半疑地照着视频操作，没想到洗衣机真的修好了。",
+        "py": "Tā bàn xìn bàn yí de zhào zhe shìpín cāozuò, méi xiǎngdào xǐyījī zhēn de xiūhǎo le."
+      },
+      {
+        "zh": "刚开始大家对这个新方法半信半疑，后来的效果证明它确实有用。",
+        "py": "Gāng kāishǐ dàjiā duì zhège xīn fāngfǎ bàn xìn bàn yí, hòulái de xiàoguǒ zhèngmíng tā quèshí yǒuyòng."
+      },
+      {
+        "zh": "听了他的解释，经理还是半信半疑。",
+        "py": "Tīng le tā de jiěshì, jīnglǐ háishi bàn xìn bàn yí."
+      }
+    ]
+  },
+  {
+    "成语": "自以为是",
+    "拼音": "zì yǐ wéi shì",
+    "释义": "总认为自己是对的，听不进别人的意见。形容主观、骄傲自大。",
+    "用法": "多作谓语、定语，带贬义，如“他太自以为是了”“自以为是的态度”。常用来批评人固执己见、不虚心。注意“为”读第二声。",
+    "例句": [
+      {
+        "zh": "他太自以为是了，从来不听别人的建议。",
+        "py": "Tā tài zì yǐ wéi shì le, cónglái bù tīng biérén de jiànyì."
+      },
+      {
+        "zh": "自以为是的人很难进步，因为他们看不到自己的问题。",
+        "py": "Zì yǐ wéi shì de rén hěn nán jìnbù, yīnwèi tāmen kàn bu dào zìjǐ de wèntí."
+      },
+      {
+        "zh": "刚工作的时候我有些自以为是，后来吃了不少亏。",
+        "py": "Gāng gōngzuò de shíhou wǒ yǒuxiē zì yǐ wéi shì, hòulái chī le bù shǎo kuī."
+      },
+      {
+        "zh": "别自以为是地替别人做决定。",
+        "py": "Bié zì yǐ wéi shì de tì biérén zuò juédìng."
+      },
+      {
+        "zh": "真正有学问的人往往很谦虚，一知半解的人反而容易自以为是。",
+        "py": "Zhēnzhèng yǒu xuéwen de rén wǎngwǎng hěn qiānxū, yì zhī bàn jiě de rén fǎn'ér róngyì zì yǐ wéi shì."
+      }
+    ]
+  },
+  {
+    "成语": "斤斤计较",
+    "拼音": "jīn jīn jì jiào",
+    "释义": "对微小的利益或无关紧要的小事过分计较。“斤斤”形容过分在意、看得很细。",
+    "用法": "多作谓语，常用格式有“在……上斤斤计较”“对……斤斤计较”。带贬义，口语中非常常用，多用来批评人小气或心胸狭窄。",
+    "例句": [
+      {
+        "zh": "朋友之间别为了几块钱斤斤计较。",
+        "py": "Péngyou zhījiān bié wèile jǐ kuài qián jīn jīn jì jiào."
+      },
+      {
+        "zh": "他这个人太爱斤斤计较，谁都不愿意和他合租。",
+        "py": "Tā zhège rén tài ài jīn jīn jì jiào, shéi dōu bú yuànyì hé tā hézū."
+      },
+      {
+        "zh": "在小事上斤斤计较，只会让自己越来越不开心。",
+        "py": "Zài xiǎoshì shang jīn jīn jì jiào, zhǐ huì ràng zìjǐ yuè lái yuè bù kāixīn."
+      },
+      {
+        "zh": "她从不在分工上斤斤计较，所以同事们都很喜欢她。",
+        "py": "Tā cóng bú zài fēngōng shang jīn jīn jì jiào, suǒyǐ tóngshìmen dōu hěn xǐhuan tā."
+      },
+      {
+        "zh": "夫妻之间如果事事斤斤计较，感情很难长久。",
+        "py": "Fūqī zhījiān rúguǒ shìshì jīn jīn jì jiào, gǎnqíng hěn nán chángjiǔ."
+      }
+    ]
+  },
+  {
+    "成语": "亡羊补牢",
+    "拼音": "wáng yáng bǔ láo",
+    "释义": "语出《战国策》：“亡羊而补牢，未为迟也。”羊丢了以后赶紧修补羊圈，还不算晚。比喻出了问题以后及时想办法补救，可以避免再受损失。",
+    "用法": "多作谓语、宾语，常和“为时不晚”连用，如“亡羊补牢，为时不晚”。一般带有积极、鼓励的意味，强调及时改正。",
+    "例句": [
+      {
+        "zh": "这次考试没考好，亡羊补牢，为时不晚，下次好好准备就是了。",
+        "py": "Zhè cì kǎoshì méi kǎohǎo, wáng yáng bǔ láo, wéi shí bù wǎn, xià cì hǎohǎo zhǔnbèi jiù shì le."
+      },
+      {
+        "zh": "数据泄露以后，公司亡羊补牢，加强了网络安全措施。",
+        "py": "Shùjù xièlòu yǐhòu, gōngsī wáng yáng bǔ láo, jiāqiáng le wǎngluò ānquán cuòshī."
+      },
+      {
+        "zh": "发现漏洞要及时修补，亡羊补牢总比什么都不做好。",
+        "py": "Fāxiàn lòudòng yào jíshí xiūbǔ, wáng yáng bǔ láo zǒng bǐ shénme dōu bú zuò hǎo."
+      },
+      {
+        "zh": "体检发现血压偏高以后，他开始亡羊补牢，每天坚持锻炼。",
+        "py": "Tǐjiǎn fāxiàn xuèyā piān gāo yǐhòu, tā kāishǐ wáng yáng bǔ láo, měi tiān jiānchí duànliàn."
+      },
+      {
+        "zh": "事故发生后才加强安全检查，虽说是亡羊补牢，但总算吸取了教训。",
+        "py": "Shìgù fāshēng hòu cái jiāqiáng ānquán jiǎnchá, suī shuō shì wáng yáng bǔ láo, dàn zǒngsuàn xīqǔ le jiàoxun."
+      }
+    ]
+  },
+  {
+    "成语": "杞人忧天",
+    "拼音": "qǐ rén yōu tiān",
+    "释义": "语出《列子》。杞国有个人整天担心天会塌下来，愁得吃不下饭、睡不着觉。比喻毫无必要的担忧和顾虑。",
+    "用法": "多作谓语、宾语，带贬义或调侃的意味。常用来劝人不要无端担忧，如“你这是杞人忧天”。",
+    "例句": [
+      {
+        "zh": "你担心飞机会掉下来？这简直是杞人忧天。",
+        "py": "Nǐ dānxīn fēijī huì diào xiàlai? Zhè jiǎnzhí shì qǐ rén yōu tiān."
+      },
+      {
+        "zh": "考试还没开始，你就担心考不上大学，未免有点杞人忧天。",
+        "py": "Kǎoshì hái méi kāishǐ, nǐ jiù dānxīn kǎo bu shàng dàxué, wèimiǎn yǒudiǎn qǐ rén yōu tiān."
+      },
+      {
+        "zh": "有人担心人工智能会取代所有工作，也有人认为这是杞人忧天。",
+        "py": "Yǒu rén dānxīn réngōng zhìnéng huì qǔdài suǒyǒu gōngzuò, yě yǒu rén rènwéi zhè shì qǐ rén yōu tiān."
+      },
+      {
+        "zh": "别杞人忧天了，事情没有你想的那么糟糕。",
+        "py": "Bié qǐ rén yōu tiān le, shìqing méiyǒu nǐ xiǎng de nàme zāogāo."
+      },
+      {
+        "zh": "提前做好准备是必要的，但过度担心就成了杞人忧天。",
+        "py": "Tíqián zuòhǎo zhǔnbèi shì bìyào de, dàn guòdù dānxīn jiù chéng le qǐ rén yōu tiān."
+      }
+    ]
+  },
+  {
+    "成语": "众说纷纭",
+    "拼音": "zhòng shuō fēn yún",
+    "释义": "人多嘴杂，各种说法都有，意见很不一致。“纷纭”是多而杂乱的样子。",
+    "用法": "多作谓语，常用格式有“对于……众说纷纭”“……至今众说纷纭”。多用来描述某个问题没有定论、看法分歧很大的情况，常见于新闻报道和学术讨论。",
+    "例句": [
+      {
+        "zh": "关于恐龙灭绝的原因，科学界至今众说纷纭。",
+        "py": "Guānyú kǒnglóng mièjué de yuányīn, kēxuéjiè zhìjīn zhòng shuō fēn yún."
+      },
+      {
+        "zh": "这起事故的真相到底是什么，网上众说纷纭。",
+        "py": "Zhè qǐ shìgù de zhēnxiàng dàodǐ shì shénme, wǎng shang zhòng shuō fēn yún."
+      },
+      {
+        "zh": "对于这个品牌为什么突然倒闭，业内人士众说纷纭。",
+        "py": "Duìyú zhège pǐnpái wèi shénme tūrán dǎobì, yènèi rénshì zhòng shuō fēn yún."
+      },
+      {
+        "zh": "在众说纷纭之中，我们更需要独立思考，用事实说话。",
+        "py": "Zài zhòng shuō fēn yún zhī zhōng, wǒmen gèng xūyào dúlì sīkǎo, yòng shìshí shuōhuà."
+      },
+      {
+        "zh": "那位作家为什么突然封笔，至今仍众说纷纭。",
+        "py": "Nà wèi zuòjiā wèi shénme tūrán fēngbǐ, zhìjīn réng zhòng shuō fēn yún."
+      }
+    ]
+  },
+  {
+    "成语": "无可厚非",
+    "拼音": "wú kě hòu fēi",
+    "释义": "没有什么可以过分指责的。“厚非”是过分责备的意思。指言行虽然有不足之处，但可以理解，不必过多批评。",
+    "用法": "多作谓语，常用格式有“……本无可厚非”“……无可厚非，但……”。常用来先承认某种做法情有可原，再提出不同意见。注意它的意思不是“完全正确”，更不能理解为“非常好”。",
+    "例句": [
+      {
+        "zh": "追求高薪本身无可厚非，但不能为此牺牲健康。",
+        "py": "Zhuīqiú gāoxīn běnshēn wú kě hòu fēi, dàn bù néng wèi cǐ xīshēng jiànkāng."
+      },
+      {
+        "zh": "父母希望孩子成功，这无可厚非，可是给的压力不能太大。",
+        "py": "Fùmǔ xīwàng háizi chénggōng, zhè wú kě hòu fēi, kěshì gěi de yālì bù néng tài dà."
+      },
+      {
+        "zh": "企业追求利润无可厚非，但也要承担社会责任。",
+        "py": "Qǐyè zhuīqiú lìrùn wú kě hòu fēi, dàn yě yào chéngdān shèhuì zérèn."
+      },
+      {
+        "zh": "他第一次上台，有些紧张也无可厚非。",
+        "py": "Tā dì yī cì shàngtái, yǒuxiē jǐnzhāng yě wú kě hòu fēi."
+      },
+      {
+        "zh": "年轻人跳槽寻找更好的发展机会，本来无可厚非。",
+        "py": "Niánqīngrén tiàocáo xúnzhǎo gèng hǎo de fāzhǎn jīhuì, běnlái wú kě hòu fēi."
+      }
+    ]
+  },
+  {
+    "成语": "似是而非",
+    "拼音": "sì shì ér fēi",
+    "释义": "好像是对的，实际上却不对。形容某种说法或观点表面上有道理，其实经不起推敲。",
+    "用法": "多作定语或谓语，如“似是而非的观点”“这种说法似是而非”。常用于学术讨论和议论文，指出论证中的问题，带有批评意味。",
+    "例句": [
+      {
+        "zh": "网上流传着很多似是而非的健康知识，大家要学会辨别。",
+        "py": "Wǎng shang liúchuán zhe hěn duō sì shì ér fēi de jiànkāng zhīshi, dàjiā yào xuéhuì biànbié."
+      },
+      {
+        "zh": "他的论证看起来很严密，其实似是而非。",
+        "py": "Tā de lùnzhèng kàn qǐlai hěn yánmì, qíshí sì shì ér fēi."
+      },
+      {
+        "zh": "“吃得越少越健康”是一种似是而非的说法。",
+        "py": "“Chī de yuè shǎo yuè jiànkāng” shì yì zhǒng sì shì ér fēi de shuōfǎ."
+      },
+      {
+        "zh": "学语法时，最怕的就是那些似是而非的理解。",
+        "py": "Xué yǔfǎ shí, zuì pà de jiù shì nàxiē sì shì ér fēi de lǐjiě."
+      },
+      {
+        "zh": "这篇文章用了很多似是而非的数据，结论自然站不住脚。",
+        "py": "Zhè piān wénzhāng yòng le hěn duō sì shì ér fēi de shùjù, jiélùn zìrán zhàn bu zhù jiǎo."
+      }
+    ]
+  },
+  {
+    "成语": "自圆其说",
+    "拼音": "zì yuán qí shuō",
+    "释义": "使自己的说法前后一致，没有漏洞和矛盾。“圆”是使周全、圆满的意思。",
+    "用法": "多作谓语，常用于否定句，如“无法自圆其说”“很难自圆其说”，指说法前后矛盾、站不住脚。常见于辩论、调查、学术讨论等场合。",
+    "例句": [
+      {
+        "zh": "他的解释漏洞百出，根本无法自圆其说。",
+        "py": "Tā de jiěshì lòudòng bǎi chū, gēnběn wúfǎ zì yuán qí shuō."
+      },
+      {
+        "zh": "撒了一个谎，就要编更多的谎来自圆其说。",
+        "py": "Sā le yí ge huǎng, jiù yào biān gèng duō de huǎng lái zì yuán qí shuō."
+      },
+      {
+        "zh": "这个理论解释不了新的实验结果，已经很难自圆其说了。",
+        "py": "Zhège lǐlùn jiěshì bu liǎo xīn de shíyàn jiéguǒ, yǐjīng hěn nán zì yuán qí shuō le."
+      },
+      {
+        "zh": "面对记者的追问，那位发言人显然难以自圆其说。",
+        "py": "Miànduì jìzhě de zhuīwèn, nà wèi fāyánrén xiǎnrán nányǐ zì yuán qí shuō."
+      },
+      {
+        "zh": "写论文时，观点和论据必须前后一致，能够自圆其说。",
+        "py": "Xiě lùnwén shí, guāndiǎn hé lùnjù bìxū qiánhòu yízhì, nénggòu zì yuán qí shuō."
+      }
+    ]
+  },
+  {
+    "成语": "深入浅出",
+    "拼音": "shēn rù qiǎn chū",
+    "释义": "内容深刻，表达却浅显易懂。形容讲话或文章能把深奥的道理用通俗的方式说清楚。",
+    "用法": "多作谓语、定语、状语，如“讲解深入浅出”“深入浅出的讲解”“深入浅出地介绍”。是褒义词，常用来称赞老师、作者或演讲者。",
+    "例句": [
+      {
+        "zh": "这位教授讲课深入浅出，再难的理论学生也能听懂。",
+        "py": "Zhè wèi jiàoshòu jiǎngkè shēn rù qiǎn chū, zài nán de lǐlùn xuésheng yě néng tīngdǒng."
+      },
+      {
+        "zh": "这本书深入浅出地介绍了经济学的基本原理。",
+        "py": "Zhè běn shū shēn rù qiǎn chū de jièshào le jīngjìxué de jīběn yuánlǐ."
+      },
+      {
+        "zh": "好的科普文章应该深入浅出，让普通读者也能读懂。",
+        "py": "Hǎo de kēpǔ wénzhāng yīnggāi shēn rù qiǎn chū, ràng pǔtōng dúzhě yě néng dúdǒng."
+      },
+      {
+        "zh": "他用几个生活中的例子，深入浅出地解释了这个复杂的概念。",
+        "py": "Tā yòng jǐ ge shēnghuó zhōng de lìzi, shēn rù qiǎn chū de jiěshì le zhège fùzá de gàiniàn."
+      },
+      {
+        "zh": "要做到深入浅出，首先自己得真正理解透彻。",
+        "py": "Yào zuòdào shēn rù qiǎn chū, shǒuxiān zìjǐ děi zhēnzhèng lǐjiě tòuchè."
+      }
+    ]
+  },
+  {
+    "成语": "循序渐进",
+    "拼音": "xún xù jiàn jìn",
+    "释义": "按照一定的顺序和步骤，逐步深入或提高。",
+    "用法": "多作谓语、状语、定语，如“学习要循序渐进”“循序渐进地增加运动量”“循序渐进的过程”。常用于学习、训练、改革等需要逐步推进的事情。反义词有“急于求成”“一蹴而就”。",
+    "例句": [
+      {
+        "zh": "学外语要循序渐进，不能指望一口吃成个胖子。",
+        "py": "Xué wàiyǔ yào xún xù jiàn jìn, bù néng zhǐwàng yì kǒu chīchéng ge pàngzi."
+      },
+      {
+        "zh": "健身应该循序渐进地增加强度，否则容易受伤。",
+        "py": "Jiànshēn yīnggāi xún xù jiàn jìn de zēngjiā qiángdù, fǒuzé róngyì shòushāng."
+      },
+      {
+        "zh": "改革是一个循序渐进的过程，不可能一蹴而就。",
+        "py": "Gǎigé shì yí ge xún xù jiàn jìn de guòchéng, bù kěnéng yí cù ér jiù."
+      },
+      {
+        "zh": "这套教材由浅入深、循序渐进，很适合初学者。",
+        "py": "Zhè tào jiàocái yóu qiǎn rù shēn, xún xù jiàn jìn, hěn shìhé chūxuézhě."
+      },
+      {
+        "zh": "养成早起的习惯也要循序渐进，可以每天提前十分钟起床。",
+        "py": "Yǎngchéng zǎoqǐ de xíguàn yě yào xún xù jiàn jìn, kěyǐ měi tiān tíqián shí fēnzhōng qǐchuáng."
+      }
+    ]
+  },
+  {
+    "成语": "实事求是",
+    "拼音": "shí shì qiú shì",
+    "释义": "从实际情况出发，正确地认识和处理问题。“实事”指客观存在的事实，“求是”指探求其中的规律和真相。",
+    "用法": "多作谓语、定语、状语，如“实事求是的态度”“实事求是地分析问题”。是褒义词，常见于正式文件、学术研究和工作总结，强调尊重事实，既不夸大，也不缩小。",
+    "例句": [
+      {
+        "zh": "写研究报告必须实事求是，不能为了结论修改数据。",
+        "py": "Xiě yánjiū bàogào bìxū shí shì qiú shì, bù néng wèile jiélùn xiūgǎi shùjù."
+      },
+      {
+        "zh": "我们要实事求是地评价自己的优点和不足。",
+        "py": "Wǒmen yào shí shì qiú shì de píngjià zìjǐ de yōudiǎn hé bùzú."
+      },
+      {
+        "zh": "他工作一向实事求是，从不说空话。",
+        "py": "Tā gōngzuò yíxiàng shí shì qiú shì, cóng bù shuō kōnghuà."
+      },
+      {
+        "zh": "面对问题，实事求是的态度比找借口更重要。",
+        "py": "Miànduì wèntí, shí shì qiú shì de tàidu bǐ zhǎo jièkǒu gèng zhòngyào."
+      },
+      {
+        "zh": "实事求是地说，这次比赛输了，主要是因为我们准备不足。",
+        "py": "Shí shì qiú shì de shuō, zhè cì bǐsài shū le, zhǔyào shì yīnwèi wǒmen zhǔnbèi bùzú."
+      }
+    ]
+  },
+  {
+    "成语": "半途而废",
+    "拼音": "bàn tú ér fèi",
+    "释义": "走到半路就停了下来。比喻事情没有做完就中途放弃。",
+    "用法": "多作谓语，常用“不能半途而废”“做事半途而废”。带贬义，常用来批评缺乏毅力，或鼓励别人坚持到底。反义词有“坚持不懈”“善始善终”。",
+    "例句": [
+      {
+        "zh": "既然已经开始了，就不要半途而废。",
+        "py": "Jìrán yǐjīng kāishǐ le, jiù bú yào bàn tú ér fèi."
+      },
+      {
+        "zh": "他学过钢琴、画画和游泳，可每一样都半途而废了。",
+        "py": "Tā xuéguo gāngqín, huàhuà hé yóuyǒng, kě měi yí yàng dōu bàn tú ér fèi le."
+      },
+      {
+        "zh": "因为资金不足，这个项目最后半途而废。",
+        "py": "Yīnwèi zījīn bùzú, zhège xiàngmù zuìhòu bàn tú ér fèi."
+      },
+      {
+        "zh": "学语言最怕半途而废，坚持下去才能看到效果。",
+        "py": "Xué yǔyán zuì pà bàn tú ér fèi, jiānchí xiàqu cái néng kàndào xiàoguǒ."
+      },
+      {
+        "zh": "减肥计划总是半途而废，问题可能出在目标定得太高。",
+        "py": "Jiǎnféi jìhuà zǒngshì bàn tú ér fèi, wèntí kěnéng chū zài mùbiāo dìng de tài gāo."
+      }
+    ]
+  },
+  {
+    "成语": "坚持不懈",
+    "拼音": "jiān chí bú xiè",
+    "释义": "坚持到底，一点儿也不松懈。“懈”是松懈、懈怠的意思。",
+    "用法": "多作谓语、状语、定语，如“坚持不懈地努力”“坚持不懈的精神”。是褒义词，常用于学习、工作、科研、体育等需要长期付出的场景。",
+    "例句": [
+      {
+        "zh": "只要坚持不懈，总有一天会实现梦想。",
+        "py": "Zhǐyào jiān chí bú xiè, zǒng yǒu yì tiān huì shíxiàn mèngxiǎng."
+      },
+      {
+        "zh": "经过十年坚持不懈的研究，他终于取得了突破。",
+        "py": "Jīngguò shí nián jiān chí bú xiè de yánjiū, tā zhōngyú qǔdé le tūpò."
+      },
+      {
+        "zh": "学好一门语言，靠的不是天赋，而是坚持不懈的练习。",
+        "py": "Xuéhǎo yì mén yǔyán, kào de bú shì tiānfù, ér shì jiān chí bú xiè de liànxí."
+      },
+      {
+        "zh": "她每天坚持不懈地跑步，半年瘦了十公斤。",
+        "py": "Tā měi tiān jiān chí bú xiè de pǎobù, bàn nián shòu le shí gōngjīn."
+      },
+      {
+        "zh": "在大家坚持不懈的努力下，这个小镇终于摆脱了贫困。",
+        "py": "Zài dàjiā jiān chí bú xiè de nǔlì xià, zhège xiǎozhèn zhōngyú bǎituō le pínkùn."
+      }
+    ]
+  },
+  {
+    "成语": "全力以赴",
+    "拼音": "quán lì yǐ fù",
+    "释义": "把全部力量都投入进去。“赴”是前往、投入的意思。",
+    "用法": "多作谓语、状语，如“我们一定全力以赴”“全力以赴地准备”。是褒义词，常用于表决心、鼓励他人或描述认真投入的状态，口语和书面语都常用。",
+    "例句": [
+      {
+        "zh": "离考试只有一个月了，我要全力以赴。",
+        "py": "Lí kǎoshì zhǐ yǒu yí ge yuè le, wǒ yào quán lì yǐ fù."
+      },
+      {
+        "zh": "不管结果如何，我们都会全力以赴。",
+        "py": "Bùguǎn jiéguǒ rúhé, wǒmen dōu huì quán lì yǐ fù."
+      },
+      {
+        "zh": "为了这次比赛，队员们全力以赴地训练了半年。",
+        "py": "Wèile zhè cì bǐsài, duìyuánmen quán lì yǐ fù de xùnliàn le bàn nián."
+      },
+      {
+        "zh": "地震发生后，救援人员全力以赴搜救幸存者。",
+        "py": "Dìzhèn fāshēng hòu, jiùyuán rényuán quán lì yǐ fù sōujiù xìngcúnzhě."
+      },
+      {
+        "zh": "只要全力以赴了，即使失败也不会后悔。",
+        "py": "Zhǐyào quán lì yǐ fù le, jíshǐ shībài yě bú huì hòuhuǐ."
+      }
+    ]
+  },
+  {
+    "成语": "脚踏实地",
+    "拼音": "jiǎo tà shí dì",
+    "释义": "脚踩在坚实的地面上。比喻做事踏实认真，一步一个脚印，不浮夸，不空想。",
+    "用法": "多作谓语、状语、定语，如“做事脚踏实地”“脚踏实地地工作”“脚踏实地的作风”。是褒义词，常和“好高骛远”对比使用。",
+    "例句": [
+      {
+        "zh": "年轻人既要有远大的理想，也要脚踏实地。",
+        "py": "Niánqīngrén jì yào yǒu yuǎndà de lǐxiǎng, yě yào jiǎo tà shí dì."
+      },
+      {
+        "zh": "他脚踏实地地干了十年，从普通员工做到了部门经理。",
+        "py": "Tā jiǎo tà shí dì de gàn le shí nián, cóng pǔtōng yuángōng zuòdào le bùmén jīnglǐ."
+      },
+      {
+        "zh": "成功没有捷径，只有脚踏实地，一步一个脚印。",
+        "py": "Chénggōng méiyǒu jiéjìng, zhǐyǒu jiǎo tà shí dì, yí bù yí ge jiǎoyìn."
+      },
+      {
+        "zh": "与其整天幻想发财，不如脚踏实地做好眼前的工作。",
+        "py": "Yǔqí zhěngtiān huànxiǎng fācái, bùrú jiǎo tà shí dì zuòhǎo yǎnqián de gōngzuò."
+      },
+      {
+        "zh": "老板很欣赏她脚踏实地的工作态度。",
+        "py": "Lǎobǎn hěn xīnshǎng tā jiǎo tà shí dì de gōngzuò tàidu."
+      }
+    ]
+  },
+  {
+    "成语": "好高骛远",
+    "拼音": "hào gāo wù yuǎn",
+    "释义": "不切实际地追求过高、过远的目标。“好”是喜欢，“骛”是追求。",
+    "用法": "多作谓语、定语，带贬义。常用来批评人不踏实、眼高手低，如“做事不能好高骛远”。注意“好”在这里读第四声，“骛”不要写成“鹜”。",
+    "例句": [
+      {
+        "zh": "刚毕业就想当总经理，未免太好高骛远了。",
+        "py": "Gāng bìyè jiù xiǎng dāng zǒngjīnglǐ, wèimiǎn tài hào gāo wù yuǎn le."
+      },
+      {
+        "zh": "学习要打好基础，不能好高骛远。",
+        "py": "Xuéxí yào dǎhǎo jīchǔ, bù néng hào gāo wù yuǎn."
+      },
+      {
+        "zh": "他这个人有点好高骛远，小事不愿意做，大事又做不来。",
+        "py": "Tā zhège rén yǒudiǎn hào gāo wù yuǎn, xiǎoshì bú yuànyì zuò, dàshì yòu zuò bu lái."
+      },
+      {
+        "zh": "制定目标时要量力而行，避免好高骛远。",
+        "py": "Zhìdìng mùbiāo shí yào liàng lì ér xíng, bìmiǎn hào gāo wù yuǎn."
+      },
+      {
+        "zh": "好高骛远的人往往看不起基础工作，结果什么都做不好。",
+        "py": "Hào gāo wù yuǎn de rén wǎngwǎng kàn bu qǐ jīchǔ gōngzuò, jiéguǒ shénme dōu zuò bu hǎo."
+      }
+    ]
+  },
+  {
+    "成语": "小题大做",
+    "拼音": "xiǎo tí dà zuò",
+    "释义": "拿小题目做大文章。比喻把小事当作大事来处理，有故意夸大、借题发挥的意思。",
+    "用法": "多作谓语，带贬义。常用来批评别人反应过度，如“你别小题大做”“这有点儿小题大做了”。近义词“大惊小怪”侧重对平常的事表现得过于惊讶，“小题大做”侧重把小事当成大事来处理。",
+    "例句": [
+      {
+        "zh": "不就是迟到了五分钟吗？你别小题大做。",
+        "py": "Bú jiù shì chídào le wǔ fēnzhōng ma? Nǐ bié xiǎo tí dà zuò."
+      },
+      {
+        "zh": "为了一句玩笑话吵成这样，实在是小题大做。",
+        "py": "Wèile yí jù wánxiàohuà chǎo chéng zhèyàng, shízài shì xiǎo tí dà zuò."
+      },
+      {
+        "zh": "孩子只是摔了一跤，家长就跑到学校去讨说法，有点小题大做了。",
+        "py": "Háizi zhǐshì shuāi le yì jiāo, jiāzhǎng jiù pǎo dào xuéxiào qù tǎo shuōfǎ, yǒudiǎn xiǎo tí dà zuò le."
+      },
+      {
+        "zh": "发现系统漏洞马上处理，这不是小题大做，而是防患于未然。",
+        "py": "Fāxiàn xìtǒng lòudòng mǎshàng chǔlǐ, zhè bú shì xiǎo tí dà zuò, ér shì fáng huàn yú wèi rán."
+      },
+      {
+        "zh": "有些媒体喜欢小题大做，把小事炒作成大新闻。",
+        "py": "Yǒuxiē méitǐ xǐhuan xiǎo tí dà zuò, bǎ xiǎoshì chǎozuò chéng dà xīnwén."
+      }
+    ]
+  },
+  {
+    "成语": "一针见血",
+    "拼音": "yì zhēn jiàn xiě",
+    "释义": "一针扎下去就见到血。比喻说话或写文章简短有力，直截了当地切中要害。",
+    "用法": "多作谓语、定语、状语，如“他的评价一针见血”“一针见血的批评”“一针见血地指出”。多为褒义，形容观点深刻、直指问题的本质。注意“血”在这里读口语音，与“写”同音。",
+    "例句": [
+      {
+        "zh": "老师的评语一针见血，指出了我文章最大的问题。",
+        "py": "Lǎoshī de píngyǔ yì zhēn jiàn xiě, zhǐchū le wǒ wénzhāng zuì dà de wèntí."
+      },
+      {
+        "zh": "他一针见血地说：“问题不在于钱，而在于管理。”",
+        "py": "Tā yì zhēn jiàn xiě de shuō: “Wèntí bú zàiyú qián, ér zàiyú guǎnlǐ.”"
+      },
+      {
+        "zh": "这篇评论一针见血，很多读者都表示赞同。",
+        "py": "Zhè piān pínglùn yì zhēn jiàn xiě, hěn duō dúzhě dōu biǎoshì zàntóng."
+      },
+      {
+        "zh": "她总能一针见血地抓住问题的关键。",
+        "py": "Tā zǒng néng yì zhēn jiàn xiě de zhuāzhù wèntí de guānjiàn."
+      },
+      {
+        "zh": "朋友一针见血的提醒让我清醒了过来。",
+        "py": "Péngyou yì zhēn jiàn xiě de tíxǐng ràng wǒ qīngxǐng le guòlai."
+      }
+    ]
+  },
+  {
+    "成语": "哭笑不得",
+    "拼音": "kū xiào bù dé",
+    "释义": "哭也不是，笑也不是。形容处境尴尬，或者对某件事既觉得好笑，又感到无奈。",
+    "用法": "多作谓语、补语，如“让人哭笑不得”“弄得我哭笑不得”。口语中非常常用，多描写荒唐、尴尬的事情带来的复杂心情。",
+    "例句": [
+      {
+        "zh": "他把盐当成糖放进了咖啡里，让人哭笑不得。",
+        "py": "Tā bǎ yán dàngchéng táng fàngjìn le kāfēi li, ràng rén kū xiào bù dé."
+      },
+      {
+        "zh": "孩子一本正经地解释为什么没写作业，弄得老师哭笑不得。",
+        "py": "Háizi yì běn zhèng jīng de jiěshì wèi shénme méi xiě zuòyè, nòng de lǎoshī kū xiào bù dé."
+      },
+      {
+        "zh": "导航把我们带到了一片稻田里，真是哭笑不得。",
+        "py": "Dǎoháng bǎ wǒmen dài dào le yí piàn dàotián li, zhēn shì kū xiào bù dé."
+      },
+      {
+        "zh": "网上有很多让人哭笑不得的翻译错误。",
+        "py": "Wǎng shang yǒu hěn duō ràng rén kū xiào bù dé de fānyì cuòwù."
+      },
+      {
+        "zh": "他为了省钱坐了十个小时的火车，算下来却比坐飞机还贵，真是哭笑不得。",
+        "py": "Tā wèile shěng qián zuò le shí ge xiǎoshí de huǒchē, suàn xiàlai què bǐ zuò fēijī hái guì, zhēn shì kū xiào bù dé."
+      }
+    ]
+  },
+  {
+    "成语": "喜出望外",
+    "拼音": "xǐ chū wàng wài",
+    "释义": "遇到意想不到的好事，高兴得超出了原来的期望。",
+    "用法": "多作谓语、状语，如“他喜出望外”“喜出望外地说”。常用来描写收到好消息、得到意外惊喜时的心情。它强调“出乎意料”，一般的高兴不宜用这个成语。",
+    "例句": [
+      {
+        "zh": "收到录取通知书的那一刻，她喜出望外。",
+        "py": "Shōudào lùqǔ tōngzhīshū de nà yí kè, tā xǐ chū wàng wài."
+      },
+      {
+        "zh": "本来只想试试看，没想到真的中了大奖，他喜出望外。",
+        "py": "Běnlái zhǐ xiǎng shìshi kàn, méi xiǎngdào zhēn de zhòng le dàjiǎng, tā xǐ chū wàng wài."
+      },
+      {
+        "zh": "多年没见的老同学突然来访，让我喜出望外。",
+        "py": "Duō nián méi jiàn de lǎo tóngxué tūrán láifǎng, ràng wǒ xǐ chū wàng wài."
+      },
+      {
+        "zh": "听说自己的作品获得了一等奖，他喜出望外地跳了起来。",
+        "py": "Tīngshuō zìjǐ de zuòpǐn huòdé le yī děng jiǎng, tā xǐ chū wàng wài de tiào le qǐlai."
+      },
+      {
+        "zh": "面试时我以为自己表现得很差，没想到却被录用了，真是喜出望外。",
+        "py": "Miànshì shí wǒ yǐwéi zìjǐ biǎoxiàn de hěn chà, méi xiǎngdào què bèi lùyòng le, zhēn shì xǐ chū wàng wài."
+      }
+    ]
+  },
+  {
+    "成语": "忐忑不安",
+    "拼音": "tǎn tè bù ān",
+    "释义": "心神不定，十分不安。“忐忑”形容心里七上八下、不踏实的样子。",
+    "用法": "多作谓语、状语、定语，如“心里忐忑不安”“忐忑不安地等待”“忐忑不安的心情”。常用来描写等待结果、担心出事时的紧张心情，书面语和口语都可以用。",
+    "例句": [
+      {
+        "zh": "等待面试结果的那几天，我一直忐忑不安。",
+        "py": "Děngdài miànshì jiéguǒ de nà jǐ tiān, wǒ yìzhí tǎn tè bù ān."
+      },
+      {
+        "zh": "第一次上台演讲，他心里忐忑不安。",
+        "py": "Dì yī cì shàngtái yǎnjiǎng, tā xīnli tǎn tè bù ān."
+      },
+      {
+        "zh": "她忐忑不安地敲开了老板办公室的门。",
+        "py": "Tā tǎn tè bù ān de qiāokāi le lǎobǎn bàngōngshì de mén."
+      },
+      {
+        "zh": "孩子这么晚还没回家，妈妈忐忑不安地在门口等着。",
+        "py": "Háizi zhème wǎn hái méi huí jiā, māma tǎn tè bù ān de zài ménkǒu děng zhe."
+      },
+      {
+        "zh": "带着忐忑不安的心情，我打开了成绩查询页面。",
+        "py": "Dài zhe tǎn tè bù ān de xīnqíng, wǒ dǎkāi le chéngjì cháxún yèmiàn."
+      }
+    ]
+  },
+  {
+    "成语": "不知不觉",
+    "拼音": "bù zhī bù jué",
+    "释义": "没有察觉到，没有意识到。形容事情在人没有注意的时候悄悄发生了。",
+    "用法": "多作状语，常放在句首或谓语前，如“不知不觉，……”“不知不觉地睡着了”“在不知不觉中”。口语和书面语都非常常用，多用来感叹时间过得快，或者变化在悄然发生。",
+    "例句": [
+      {
+        "zh": "不知不觉，我来中国已经三年了。",
+        "py": "Bù zhī bù jué, wǒ lái Zhōngguó yǐjīng sān nián le."
+      },
+      {
+        "zh": "看书看得太入迷，不知不觉就到了半夜。",
+        "py": "Kàn shū kàn de tài rùmí, bù zhī bù jué jiù dào le bànyè."
+      },
+      {
+        "zh": "跟他聊天很开心，不知不觉两个小时就过去了。",
+        "py": "Gēn tā liáotiān hěn kāixīn, bù zhī bù jué liǎng ge xiǎoshí jiù guòqu le."
+      },
+      {
+        "zh": "长期刷短视频，会让人在不知不觉中失去专注力。",
+        "py": "Chángqī shuā duǎn shìpín, huì ràng rén zài bù zhī bù jué zhōng shīqù zhuānzhùlì."
+      },
+      {
+        "zh": "孩子们在玩游戏的过程中，不知不觉地学会了很多单词。",
+        "py": "Háizimen zài wán yóuxì de guòchéng zhōng, bù zhī bù jué de xuéhuì le hěn duō dāncí."
+      }
+    ]
+  },
+  {
+    "成语": "拔苗助长",
+    "拼音": "bá miáo zhù zhǎng",
+    "释义": "语出《孟子》。宋国有个人嫌禾苗长得太慢，就把禾苗一棵棵往上拔，回家还说自己帮禾苗长高了，结果禾苗全都枯死了。比喻违反事物的发展规律，急于求成，反而把事情弄糟。也说“揠苗助长”。",
+    "用法": "多作谓语、宾语，带贬义。常用来批评教育、管理等方面急功近利的做法。",
+    "例句": [
+      {
+        "zh": "让三岁的孩子每天上五个补习班，这简直是拔苗助长。",
+        "py": "Ràng sān suì de háizi měi tiān shàng wǔ ge bǔxíbān, zhè jiǎnzhí shì bá miáo zhù zhǎng."
+      },
+      {
+        "zh": "学习不能拔苗助长，要遵循循序渐进的规律。",
+        "py": "Xuéxí bù néng bá miáo zhù zhǎng, yào zūnxún xún xù jiàn jìn de guīlǜ."
+      },
+      {
+        "zh": "企业盲目扩张，就像拔苗助长，换来的增长很难持久。",
+        "py": "Qǐyè mángmù kuòzhāng, jiù xiàng bá miáo zhù zhǎng, huànlái de zēngzhǎng hěn nán chíjiǔ."
+      },
+      {
+        "zh": "有些家长望子成龙心切，结果却拔苗助长。",
+        "py": "Yǒuxiē jiāzhǎng wàng zǐ chéng lóng xīnqiè, jiéguǒ què bá miáo zhù zhǎng."
+      },
+      {
+        "zh": "新员工需要时间成长，过早让他们承担重任，无异于拔苗助长。",
+        "py": "Xīn yuángōng xūyào shíjiān chéngzhǎng, guò zǎo ràng tāmen chéngdān zhòngrèn, wúyì yú bá miáo zhù zhǎng."
+      }
+    ]
+  },
+  {
+    "成语": "塞翁失马",
+    "拼音": "sài wēng shī mǎ",
+    "释义": "语出《淮南子》。边塞上有位老人丢了一匹马，邻居们来安慰他，他却说这未必不是好事。几个月后，那匹马竟然带着一匹骏马回来了。比喻一时虽然受到损失，却可能因此得到好处，坏事在一定条件下也能变成好事。",
+    "用法": "常说“塞翁失马，焉知非福”，多作分句，用来安慰遭遇挫折的人，或表达豁达的人生态度。也可以单独作谓语或宾语。",
+    "例句": [
+      {
+        "zh": "别难过，塞翁失马，焉知非福，说不定下一份工作更适合你。",
+        "py": "Bié nánguò, sài wēng shī mǎ, yān zhī fēi fú, shuō bu dìng xià yí fèn gōngzuò gèng shìhé nǐ."
+      },
+      {
+        "zh": "当年没考上理想的大学，现在想来也是塞翁失马。",
+        "py": "Dāngnián méi kǎoshàng lǐxiǎng de dàxué, xiànzài xiǎnglái yě shì sài wēng shī mǎ."
+      },
+      {
+        "zh": "航班取消让我多留了一天，结果认识了现在的妻子，真是塞翁失马，焉知非福。",
+        "py": "Hángbān qǔxiāo ràng wǒ duō liú le yì tiān, jiéguǒ rènshi le xiànzài de qīzi, zhēn shì sài wēng shī mǎ, yān zhī fēi fú."
+      },
+      {
+        "zh": "公司裁员后，他干脆自己创业，现在生意做得很好，可谓塞翁失马。",
+        "py": "Gōngsī cáiyuán hòu, tā gāncuì zìjǐ chuàngyè, xiànzài shēngyi zuò de hěn hǎo, kěwèi sài wēng shī mǎ."
+      },
+      {
+        "zh": "遇到挫折时，不妨用“塞翁失马”的心态看待问题。",
+        "py": "Yùdào cuòzhé shí, bùfáng yòng “sài wēng shī mǎ” de xīntài kàndài wèntí."
+      }
+    ]
+  },
+  {
+    "成语": "求同存异",
+    "拼音": "qiú tóng cún yì",
+    "释义": "找出共同点，保留不同点。指在合作或交往中，先在一致的地方达成共识，把分歧暂时放在一边，彼此尊重。",
+    "用法": "多作谓语、定语，常见于外交、合作和人际交往等场合，如“双方本着求同存异的原则”。是褒义词，体现包容、务实的态度。",
+    "例句": [
+      {
+        "zh": "两国本着求同存异的原则，签署了合作协议。",
+        "py": "Liǎng guó běn zhe qiú tóng cún yì de yuánzé, qiānshǔ le hézuò xiéyì."
+      },
+      {
+        "zh": "朋友之间观点不同很正常，求同存异就好。",
+        "py": "Péngyou zhījiān guāndiǎn bù tóng hěn zhèngcháng, qiú tóng cún yì jiù hǎo."
+      },
+      {
+        "zh": "团队合作需要求同存异，而不是要求每个人的想法都一致。",
+        "py": "Tuánduì hézuò xūyào qiú tóng cún yì, ér bú shì yāoqiú měi ge rén de xiǎngfǎ dōu yízhì."
+      },
+      {
+        "zh": "在家庭中，两代人也要学会求同存异，互相理解。",
+        "py": "Zài jiātíng zhōng, liǎng dài rén yě yào xuéhuì qiú tóng cún yì, hùxiāng lǐjiě."
+      },
+      {
+        "zh": "这次谈判之所以成功，关键在于双方都愿意求同存异。",
+        "py": "Zhè cì tánpàn zhī suǒyǐ chénggōng, guānjiàn zàiyú shuāngfāng dōu yuànyì qiú tóng cún yì."
+      }
+    ]
+  },
+  {
+    "成语": "与时俱进",
+    "拼音": "yǔ shí jù jìn",
+    "释义": "随着时代的发展而不断进步。指思想观念和做法要适应时代的变化，不断更新。",
+    "用法": "多作谓语、定语，如“教育理念要与时俱进”“与时俱进的精神”。是褒义词，常见于正式讲话、新闻报道和议论文，日常口语中也可以带点幽默地使用。",
+    "例句": [
+      {
+        "zh": "教学方法也要与时俱进，不能一直照本宣科。",
+        "py": "Jiàoxué fāngfǎ yě yào yǔ shí jù jìn, bù néng yìzhí zhào běn xuān kē."
+      },
+      {
+        "zh": "这家老字号不断与时俱进，开发了很多受年轻人欢迎的新产品。",
+        "py": "Zhè jiā lǎozìhao búduàn yǔ shí jù jìn, kāifā le hěn duō shòu niánqīngrén huānyíng de xīn chǎnpǐn."
+      },
+      {
+        "zh": "法律也需要与时俱进，才能应对网络时代的新问题。",
+        "py": "Fǎlǜ yě xūyào yǔ shí jù jìn, cái néng yìngduì wǎngluò shídài de xīn wèntí."
+      },
+      {
+        "zh": "我爷爷七十多岁了，还在学用智能手机，真是与时俱进。",
+        "py": "Wǒ yéye qīshí duō suì le, hái zài xué yòng zhìnéng shǒujī, zhēn shì yǔ shí jù jìn."
+      },
+      {
+        "zh": "企业只有与时俱进，才能在激烈的竞争中生存下来。",
+        "py": "Qǐyè zhǐyǒu yǔ shí jù jìn, cái néng zài jīliè de jìngzhēng zhōng shēngcún xiàlai."
+      }
+    ]
+  },
+  {
+    "成语": "前所未有",
+    "拼音": "qián suǒ wèi yǒu",
+    "释义": "以前从来没有过。形容某种情况、规模或程度是历史上第一次出现。",
+    "用法": "多作定语，如“前所未有的挑战／机遇／规模”，也可以作谓语。语气比较正式，常用于新闻报道、演讲和学术写作，强调事物的新奇或重大。",
+    "例句": [
+      {
+        "zh": "人工智能的发展给教育带来了前所未有的挑战。",
+        "py": "Réngōng zhìnéng de fāzhǎn gěi jiàoyù dàilái le qián suǒ wèi yǒu de tiǎozhàn."
+      },
+      {
+        "zh": "这次展览的参观人数之多，是前所未有的。",
+        "py": "Zhè cì zhǎnlǎn de cānguān rénshù zhī duō, shì qián suǒ wèi yǒu de."
+      },
+      {
+        "zh": "疫情期间，远程办公以前所未有的速度普及开来。",
+        "py": "Yìqíng qījiān, yuǎnchéng bàngōng yǐ qián suǒ wèi yǒu de sùdù pǔjí kāilai."
+      },
+      {
+        "zh": "这种规模的合作在两国历史上是前所未有的。",
+        "py": "Zhè zhǒng guīmó de hézuò zài liǎng guó lìshǐ shang shì qián suǒ wèi yǒu de."
+      },
+      {
+        "zh": "站在领奖台上，她感受到一种前所未有的成就感。",
+        "py": "Zhàn zài lǐngjiǎngtái shang, tā gǎnshòu dào yì zhǒng qián suǒ wèi yǒu de chéngjiùgǎn."
+      }
+    ]
+  },
+  {
+    "成语": "日新月异",
+    "拼音": "rì xīn yuè yì",
+    "释义": "每天都在更新，每月都有变化。形容发展迅速，新事物、新气象不断出现。",
+    "用法": "多作谓语、定语，如“科技日新月异”“日新月异的时代”。是褒义词，多用于描写科技、城市和社会的快速发展，一般不用来形容个人的外貌或细小的变化。",
+    "例句": [
+      {
+        "zh": "当今科技日新月异，知识更新的速度越来越快。",
+        "py": "Dāngjīn kējì rì xīn yuè yì, zhīshi gēngxīn de sùdù yuè lái yuè kuài."
+      },
+      {
+        "zh": "这些年家乡日新月异，我回去的时候几乎认不出来了。",
+        "py": "Zhèxiē nián jiāxiāng rì xīn yuè yì, wǒ huíqu de shíhou jīhū rèn bu chūlái le."
+      },
+      {
+        "zh": "在这个日新月异的时代，终身学习显得尤为重要。",
+        "py": "Zài zhège rì xīn yuè yì de shídài, zhōngshēn xuéxí xiǎnde yóuwéi zhòngyào."
+      },
+      {
+        "zh": "手机技术日新月异，去年的新款今年就已经过时了。",
+        "py": "Shǒujī jìshù rì xīn yuè yì, qùnián de xīnkuǎn jīnnián jiù yǐjīng guòshí le."
+      },
+      {
+        "zh": "这座城市的面貌日新月异，高楼一座接一座地建了起来。",
+        "py": "Zhè zuò chéngshì de miànmào rì xīn yuè yì, gāolóu yí zuò jiē yí zuò de jiàn le qǐlai."
+      }
+    ]
+  },
+  {
+    "成语": "层出不穷",
+    "拼音": "céng chū bù qióng",
+    "释义": "接连不断地出现，没有穷尽。形容新事物、新问题等不断涌现。",
+    "用法": "多作谓语，主语通常是“新产品”“新问题”“新手段”等表示事物的名词。是中性词，既可以形容好事，如“人才层出不穷”，也可以形容坏事，如“诈骗手段层出不穷”。",
+    "例句": [
+      {
+        "zh": "网络诈骗的手段层出不穷，大家一定要提高警惕。",
+        "py": "Wǎngluò zhàpiàn de shǒuduàn céng chū bù qióng, dàjiā yídìng yào tígāo jǐngtì."
+      },
+      {
+        "zh": "这个领域新的研究成果层出不穷。",
+        "py": "Zhège lǐngyù xīn de yánjiū chéngguǒ céng chū bù qióng."
+      },
+      {
+        "zh": "中国乒乓球队人才层出不穷，长期保持着世界领先水平。",
+        "py": "Zhōngguó pīngpāngqiú duì réncái céng chū bù qióng, chángqī bǎochí zhe shìjiè lǐngxiān shuǐpíng."
+      },
+      {
+        "zh": "搬进新家以后，各种小问题层出不穷，让人头疼。",
+        "py": "Bānjìn xīn jiā yǐhòu, gè zhǒng xiǎo wèntí céng chū bù qióng, ràng rén tóuténg."
+      },
+      {
+        "zh": "如今各种手机应用层出不穷，几乎每天都有新软件上线。",
+        "py": "Rújīn gè zhǒng shǒujī yìngyòng céng chū bù qióng, jīhū měi tiān dōu yǒu xīn ruǎnjiàn shàngxiàn."
+      }
+    ]
+  },
+  {
+    "成语": "供不应求",
+    "拼音": "gōng bú yìng qiú",
+    "释义": "供应的数量满足不了需求。形容某种商品或资源非常紧缺。",
+    "用法": "多作谓语，常用于经济、商业领域，如“产品供不应求”“市场上供不应求”。反义词是“供过于求”。注意“供”读第一声，“应”读第四声。",
+    "例句": [
+      {
+        "zh": "新款手机一上市就供不应求，很多人排了一夜的队。",
+        "py": "Xīnkuǎn shǒujī yí shàngshì jiù gōng bú yìng qiú, hěn duō rén pái le yí yè de duì."
+      },
+      {
+        "zh": "由于原材料短缺，这种药品一度供不应求。",
+        "py": "Yóuyú yuáncáiliào duǎnquē, zhè zhǒng yàopǐn yídù gōng bú yìng qiú."
+      },
+      {
+        "zh": "大城市的优质教育资源供不应求，导致学区房价格飞涨。",
+        "py": "Dà chéngshì de yōuzhì jiàoyù zīyuán gōng bú yìng qiú, dǎozhì xuéqūfáng jiàgé fēizhǎng."
+      },
+      {
+        "zh": "这家店的面包每天都供不应求，不到下午就卖光了。",
+        "py": "Zhè jiā diàn de miànbāo měi tiān dōu gōng bú yìng qiú, bú dào xiàwǔ jiù màiguāng le."
+      },
+      {
+        "zh": "在人才市场上，精通多种语言的人才供不应求。",
+        "py": "Zài réncái shìchǎng shang, jīngtōng duō zhǒng yǔyán de réncái gōng bú yìng qiú."
+      }
+    ]
+  },
+  {
+    "成语": "当务之急",
+    "拼音": "dāng wù zhī jí",
+    "释义": "当前任务中最急迫、最需要先办的事情。",
+    "用法": "多作主语或宾语，常用格式有“当务之急是……”“……是当务之急”。语气正式，常见于工作讨论、新闻报道和议论文，用来突出最需要优先解决的问题。",
+    "例句": [
+      {
+        "zh": "现在的当务之急是把病人送到医院。",
+        "py": "Xiànzài de dāng wù zhī jí shì bǎ bìngrén sòngdào yīyuàn."
+      },
+      {
+        "zh": "离截止日期只剩三天，当务之急是先把论文初稿写完。",
+        "py": "Lí jiézhǐ rìqī zhǐ shèng sān tiān, dāng wù zhī jí shì xiān bǎ lùnwén chūgǎo xiěwán."
+      },
+      {
+        "zh": "对这家公司来说，降低成本已经成为当务之急。",
+        "py": "Duì zhè jiā gōngsī lái shuō, jiàngdī chéngběn yǐjīng chéngwéi dāng wù zhī jí."
+      },
+      {
+        "zh": "洪水过后，当务之急是恢复供水和供电。",
+        "py": "Hóngshuǐ guòhòu, dāng wù zhī jí shì huīfù gōngshuǐ hé gōngdiàn."
+      },
+      {
+        "zh": "找工作当然重要，但你现在的当务之急是顺利毕业。",
+        "py": "Zhǎo gōngzuò dāngrán zhòngyào, dàn nǐ xiànzài de dāng wù zhī jí shì shùnlì bìyè."
+      }
+    ]
+  },
+  {
+    "成语": "量力而行",
+    "拼音": "liàng lì ér xíng",
+    "释义": "根据自己的能力去做事，不勉强去做力所不及的事。",
+    "用法": "多作谓语，常用来劝人做事要考虑自身条件，如“运动要量力而行”“捐款应量力而行”。注意“量”读第四声，是“估量、衡量”的意思。",
+    "例句": [
+      {
+        "zh": "锻炼身体要量力而行，不要一开始就跑十公里。",
+        "py": "Duànliàn shēntǐ yào liàng lì ér xíng, bú yào yì kāishǐ jiù pǎo shí gōnglǐ."
+      },
+      {
+        "zh": "买房要量力而行，别给自己背上太重的贷款。",
+        "py": "Mǎi fáng yào liàng lì ér xíng, bié gěi zìjǐ bēi shàng tài zhòng de dàikuǎn."
+      },
+      {
+        "zh": "帮助别人是好事，但也要量力而行。",
+        "py": "Bāngzhù biérén shì hǎoshì, dàn yě yào liàng lì ér xíng."
+      },
+      {
+        "zh": "选课的时候要量力而行，一个学期选太多课只会把自己累垮。",
+        "py": "Xuǎnkè de shíhou yào liàng lì ér xíng, yí ge xuéqī xuǎn tài duō kè zhǐ huì bǎ zìjǐ lèikuǎ."
+      },
+      {
+        "zh": "制定学习计划应当量力而行，目标定得太高反而容易放弃。",
+        "py": "Zhìdìng xuéxí jìhuà yīngdāng liàng lì ér xíng, mùbiāo dìng de tài gāo fǎn'ér róngyì fàngqì."
+      }
+    ]
+  },
+  {
+    "成语": "再接再厉",
+    "拼音": "zài jiē zài lì",
+    "释义": "原指公鸡相斗，每次交锋之前都要先把嘴磨得锋利些。比喻一次又一次地继续努力，争取更好的成绩。",
+    "用法": "多作谓语，常用于取得一定成绩之后的鼓励，如“希望你再接再厉”“我们要再接再厉”。注意“厉”同“砺”，是磨快的意思，不要写成“励”。",
+    "例句": [
+      {
+        "zh": "这次考得不错，希望你再接再厉，争取更大的进步。",
+        "py": "Zhè cì kǎo de búcuò, xīwàng nǐ zài jiē zài lì, zhēngqǔ gèng dà de jìnbù."
+      },
+      {
+        "zh": "虽然拿了冠军，但我们还要再接再厉。",
+        "py": "Suīrán ná le guànjūn, dàn wǒmen hái yào zài jiē zài lì."
+      },
+      {
+        "zh": "公司上半年业绩很好，下半年大家要再接再厉。",
+        "py": "Gōngsī shàng bàn nián yèjì hěn hǎo, xià bàn nián dàjiā yào zài jiē zài lì."
+      },
+      {
+        "zh": "老师在我的作文本上写了四个字：“再接再厉”。",
+        "py": "Lǎoshī zài wǒ de zuòwénběn shang xiě le sì ge zì: “Zài jiē zài lì”."
+      },
+      {
+        "zh": "看到初步成果后，研究团队决定再接再厉，扩大实验规模。",
+        "py": "Kàndào chūbù chéngguǒ hòu, yánjiū tuánduì juédìng zài jiē zài lì, kuòdà shíyàn guīmó."
+      }
+    ]
+  },
+  {
+    "成语": "力不从心",
+    "拼音": "lì bù cóng xīn",
+    "释义": "心里想做，但是能力或体力跟不上。形容想做却做不到。",
+    "用法": "多作谓语，常用格式有“感到力不从心”“有些力不从心”。多用于年纪大、身体差、任务太重或能力不足的情况，语气中常带有无奈。反义词是“得心应手”。",
+    "例句": [
+      {
+        "zh": "爷爷年纪大了，想帮忙干农活也力不从心。",
+        "py": "Yéye niánjì dà le, xiǎng bāngmáng gàn nónghuó yě lì bù cóng xīn."
+      },
+      {
+        "zh": "一个人同时打三份工，他渐渐感到力不从心。",
+        "py": "Yí ge rén tóngshí dǎ sān fèn gōng, tā jiànjiàn gǎndào lì bù cóng xīn."
+      },
+      {
+        "zh": "刚升职的时候，她管理这么大的团队有些力不从心。",
+        "py": "Gāng shēngzhí de shíhou, tā guǎnlǐ zhème dà de tuánduì yǒuxiē lì bù cóng xīn."
+      },
+      {
+        "zh": "研究生的课程难度很大，很多同学一开始都觉得力不从心。",
+        "py": "Yánjiūshēng de kèchéng nándù hěn dà, hěn duō tóngxué yì kāishǐ dōu juéde lì bù cóng xīn."
+      },
+      {
+        "zh": "我很想帮你，可是最近实在力不从心。",
+        "py": "Wǒ hěn xiǎng bāng nǐ, kěshì zuìjìn shízài lì bù cóng xīn."
+      }
+    ]
+  },
+  {
+    "成语": "得心应手",
+    "拼音": "dé xīn yìng shǒu",
+    "释义": "心里怎么想，手就能怎么做。形容技艺纯熟，做起事来非常顺手。",
+    "用法": "多作谓语、补语，如“工作越来越得心应手”“用起来得心应手”。是褒义词。注意“应”读第四声，是“配合、应和”的意思。反义词是“力不从心”。",
+    "例句": [
+      {
+        "zh": "经过一年的锻炼，她处理这些工作已经得心应手了。",
+        "py": "Jīngguò yì nián de duànliàn, tā chǔlǐ zhèxiē gōngzuò yǐjīng dé xīn yìng shǒu le."
+      },
+      {
+        "zh": "这款软件我用了很多年，用起来得心应手。",
+        "py": "Zhè kuǎn ruǎnjiàn wǒ yòng le hěn duō nián, yòng qǐlai dé xīn yìng shǒu."
+      },
+      {
+        "zh": "刚开始写代码很吃力，现在越来越得心应手了。",
+        "py": "Gāng kāishǐ xiě dàimǎ hěn chīlì, xiànzài yuè lái yuè dé xīn yìng shǒu le."
+      },
+      {
+        "zh": "他在舞台上表演得心应手，一点也不紧张。",
+        "py": "Tā zài wǔtái shang biǎoyǎn dé xīn yìng shǒu, yìdiǎn yě bù jǐnzhāng."
+      },
+      {
+        "zh": "选择一个让自己得心应手的工具，可以大大提高效率。",
+        "py": "Xuǎnzé yí ge ràng zìjǐ dé xīn yìng shǒu de gōngjù, kěyǐ dàdà tígāo xiàolǜ."
+      }
+    ]
+  },
+  {
+    "成语": "胸有成竹",
+    "拼音": "xiōng yǒu chéng zhú",
+    "释义": "源自宋代苏轼的文章。画家文与可画竹子之前，心中早已有了竹子的完整形象。比喻做事之前已经有了通盘的考虑，很有把握。",
+    "用法": "多作谓语、状语、定语，如“他对这次比赛胸有成竹”“胸有成竹地回答”“胸有成竹的样子”。是褒义词，形容很有把握、从容自信。",
+    "例句": [
+      {
+        "zh": "他准备得很充分，对这次面试胸有成竹。",
+        "py": "Tā zhǔnbèi de hěn chōngfèn, duì zhè cì miànshì xiōng yǒu chéng zhú."
+      },
+      {
+        "zh": "看她胸有成竹的样子，这个问题应该难不倒她。",
+        "py": "Kàn tā xiōng yǒu chéng zhú de yàngzi, zhège wèntí yīnggāi nán bu dǎo tā."
+      },
+      {
+        "zh": "面对记者的提问，部长胸有成竹地一一作答。",
+        "py": "Miànduì jìzhě de tíwèn, bùzhǎng xiōng yǒu chéng zhú de yīyī zuòdá."
+      },
+      {
+        "zh": "只有平时下够功夫，考试时才能胸有成竹。",
+        "py": "Zhǐyǒu píngshí xià gòu gōngfu, kǎoshì shí cái néng xiōng yǒu chéng zhú."
+      },
+      {
+        "zh": "别看他平时话不多，做起项目来总是胸有成竹。",
+        "py": "Bié kàn tā píngshí huà bù duō, zuò qǐ xiàngmù lái zǒngshì xiōng yǒu chéng zhú."
+      }
+    ]
+  },
+  {
+    "成语": "乱七八糟",
+    "拼音": "luàn qī bā zāo",
+    "释义": "形容非常混乱，毫无条理和秩序。",
+    "用法": "多作谓语、定语、补语，如“房间乱七八糟”“乱七八糟的东西”“弄得乱七八糟”。口语中非常常用，可以形容环境、事情，也可以形容思路和心情。",
+    "例句": [
+      {
+        "zh": "他的房间乱七八糟，到处都是衣服和书。",
+        "py": "Tā de fángjiān luàn qī bā zāo, dàochù dōu shì yīfu hé shū."
+      },
+      {
+        "zh": "孩子把客厅弄得乱七八糟。",
+        "py": "Háizi bǎ kètīng nòng de luàn qī bā zāo."
+      },
+      {
+        "zh": "这篇文章写得乱七八糟，完全看不出作者想说什么。",
+        "py": "Zhè piān wénzhāng xiě de luàn qī bā zāo, wánquán kàn bu chū zuòzhě xiǎng shuō shénme."
+      },
+      {
+        "zh": "最近事情太多，我心里乱七八糟的。",
+        "py": "Zuìjìn shìqing tài duō, wǒ xīnli luàn qī bā zāo de."
+      },
+      {
+        "zh": "别听那些乱七八糟的传言，等官方消息吧。",
+        "py": "Bié tīng nàxiē luàn qī bā zāo de chuányán, děng guānfāng xiāoxi ba."
+      }
+    ]
+  },
+  {
+    "成语": "不约而同",
+    "拼音": "bù yuē ér tóng",
+    "释义": "事先没有约定，彼此的言行或想法却完全一致。",
+    "用法": "多作状语，常用格式是“不约而同地……”，如“大家不约而同地笑了”。口语和书面语都常用，强调巧合与一致。",
+    "例句": [
+      {
+        "zh": "听到这个消息，大家不约而同地鼓起掌来。",
+        "py": "Tīngdào zhège xiāoxi, dàjiā bù yuē ér tóng de gǔ qǐ zhǎng lái."
+      },
+      {
+        "zh": "我们俩不约而同地选了同一家餐厅。",
+        "py": "Wǒmen liǎ bù yuē ér tóng de xuǎn le tóng yì jiā cāntīng."
+      },
+      {
+        "zh": "老师问谁愿意参加比赛，几个同学不约而同地举起了手。",
+        "py": "Lǎoshī wèn shéi yuànyì cānjiā bǐsài, jǐ ge tóngxué bù yuē ér tóng de jǔ qǐ le shǒu."
+      },
+      {
+        "zh": "许多专家不约而同地指出，教育公平是问题的关键。",
+        "py": "Xǔduō zhuānjiā bù yuē ér tóng de zhǐchū, jiàoyù gōngpíng shì wèntí de guānjiàn."
+      },
+      {
+        "zh": "毕业十年后，大家不约而同地回到了母校。",
+        "py": "Bìyè shí nián hòu, dàjiā bù yuē ér tóng de huídào le mǔxiào."
+      }
+    ]
+  },
+  {
+    "成语": "入乡随俗",
+    "拼音": "rù xiāng suí sú",
+    "释义": "到一个地方，就顺从当地的风俗习惯。",
+    "用法": "多作谓语，常用来提醒人到了新的环境要尊重并适应当地的习惯。口语和书面语都常用，也说“入境随俗”。",
+    "例句": [
+      {
+        "zh": "去国外旅行要入乡随俗，尊重当地的文化。",
+        "py": "Qù guówài lǚxíng yào rù xiāng suí sú, zūnzhòng dāngdì de wénhuà."
+      },
+      {
+        "zh": "在日本吃面发出声音并不失礼，我们也就入乡随俗了。",
+        "py": "Zài Rìběn chī miàn fāchū shēngyīn bìng bù shīlǐ, wǒmen yě jiù rù xiāng suí sú le."
+      },
+      {
+        "zh": "刚到南方的时候，他吃不惯偏甜的菜，后来也入乡随俗了。",
+        "py": "Gāng dào nánfāng de shíhou, tā chī bu guàn piān tián de cài, hòulái yě rù xiāng suí sú le."
+      },
+      {
+        "zh": "入乡随俗不等于放弃自己的文化，而是一种尊重。",
+        "py": "Rù xiāng suí sú bù děngyú fàngqì zìjǐ de wénhuà, ér shì yì zhǒng zūnzhòng."
+      },
+      {
+        "zh": "到了新公司要入乡随俗，先了解一下团队的工作习惯。",
+        "py": "Dào le xīn gōngsī yào rù xiāng suí sú, xiān liǎojiě yíxià tuánduì de gōngzuò xíguàn."
+      }
+    ]
+  },
+  {
+    "成语": "精打细算",
+    "拼音": "jīng dǎ xì suàn",
+    "释义": "在使用人力、物力或财力时，精确地计算，仔细地安排，不浪费。",
+    "用法": "多作谓语、状语，如“过日子精打细算”“精打细算地安排开支”。多为褒义，形容会理财、懂节约；有时也略带“过于计较”的意味。",
+    "例句": [
+      {
+        "zh": "刚工作的时候工资不高，每个月都得精打细算。",
+        "py": "Gāng gōngzuò de shíhou gōngzī bù gāo, měi ge yuè dōu děi jīng dǎ xì suàn."
+      },
+      {
+        "zh": "妈妈过日子精打细算，从来不乱花一分钱。",
+        "py": "Māma guò rìzi jīng dǎ xì suàn, cónglái bú luàn huā yì fēn qián."
+      },
+      {
+        "zh": "留学生活开销大，必须精打细算地安排每一笔支出。",
+        "py": "Liúxué shēnghuó kāixiāo dà, bìxū jīng dǎ xì suàn de ānpái měi yì bǐ zhīchū."
+      },
+      {
+        "zh": "小公司资金有限，每一个项目都要精打细算。",
+        "py": "Xiǎo gōngsī zījīn yǒuxiàn, měi yí ge xiàngmù dōu yào jīng dǎ xì suàn."
+      },
+      {
+        "zh": "经过一番精打细算，我们发现坐火车比自驾更划算。",
+        "py": "Jīngguò yì fān jīng dǎ xì suàn, wǒmen fāxiàn zuò huǒchē bǐ zìjià gèng huásuàn."
+      }
+    ]
+  },
+  {
+    "成语": "焦头烂额",
+    "拼音": "jiāo tóu làn é",
+    "释义": "原指救火时被烧焦了头、烧伤了额。比喻处境非常狼狈，被各种麻烦事弄得疲于应付。",
+    "用法": "多作谓语、补语，常用格式有“忙得焦头烂额”“被……弄得焦头烂额”。口语中很常用，带有夸张色彩。",
+    "例句": [
+      {
+        "zh": "期末考试和实习撞在一起，我最近忙得焦头烂额。",
+        "py": "Qīmò kǎoshì hé shíxí zhuàng zài yìqǐ, wǒ zuìjìn máng de jiāo tóu làn é."
+      },
+      {
+        "zh": "公司接连出了几次事故，经理被弄得焦头烂额。",
+        "py": "Gōngsī jiēlián chū le jǐ cì shìgù, jīnglǐ bèi nòng de jiāo tóu làn é."
+      },
+      {
+        "zh": "装修房子的事让他焦头烂额，连周末都没法休息。",
+        "py": "Zhuāngxiū fángzi de shì ràng tā jiāo tóu làn é, lián zhōumò dōu méi fǎ xiūxi."
+      },
+      {
+        "zh": "双胞胎刚出生那几个月，年轻的父母每天都焦头烂额。",
+        "py": "Shuāngbāotāi gāng chūshēng nà jǐ ge yuè, niánqīng de fùmǔ měi tiān dōu jiāo tóu làn é."
+      },
+      {
+        "zh": "如果早点做好计划，就不会到最后弄得焦头烂额了。",
+        "py": "Rúguǒ zǎo diǎn zuòhǎo jìhuà, jiù bú huì dào zuìhòu nòng de jiāo tóu làn é le."
+      }
+    ]
+  },
+  {
+    "成语": "随波逐流",
+    "拼音": "suí bō zhú liú",
+    "释义": "随着波浪起伏，跟着流水漂荡。比喻没有自己的立场和主见，只是跟着潮流或别人走。",
+    "用法": "多作谓语、状语，带贬义。常用来批评缺乏独立思考、盲目从众的态度，如“做人不能随波逐流”。",
+    "例句": [
+      {
+        "zh": "选专业要考虑自己的兴趣，不能随波逐流。",
+        "py": "Xuǎn zhuānyè yào kǎolǜ zìjǐ de xìngqù, bù néng suí bō zhú liú."
+      },
+      {
+        "zh": "看到别人都去考公务员，他也随波逐流地报了名。",
+        "py": "Kàndào biérén dōu qù kǎo gōngwùyuán, tā yě suí bō zhú liú de bào le míng."
+      },
+      {
+        "zh": "在信息爆炸的时代，保持独立思考、不随波逐流越来越难。",
+        "py": "Zài xìnxī bàozhà de shídài, bǎochí dúlì sīkǎo, bù suí bō zhú liú yuè lái yuè nán."
+      },
+      {
+        "zh": "她从不随波逐流，一直坚持自己的风格。",
+        "py": "Tā cóng bù suí bō zhú liú, yìzhí jiānchí zìjǐ de fēnggé."
+      },
+      {
+        "zh": "很多人消费时随波逐流，买了一堆根本用不上的东西。",
+        "py": "Hěn duō rén xiāofèi shí suí bō zhú liú, mǎi le yì duī gēnběn yòng bu shàng de dōngxi."
+      }
+    ]
+  },
+  {
+    "成语": "对牛弹琴",
+    "拼音": "duì niú tán qín",
+    "释义": "语出汉代牟融《理惑论》。古代音乐家公明仪对着牛弹奏高雅的乐曲，牛却照样低头吃草，毫无反应。比喻对不懂道理的人讲道理，或者对外行说内行话，白费力气；现在也用来讥讽说话不看对象。",
+    "用法": "多作谓语、宾语，带贬义或调侃意味，如“跟他讲这些简直是对牛弹琴”。当面这样说别人可能显得不礼貌，使用时要注意场合。",
+    "例句": [
+      {
+        "zh": "跟他讲环保的重要性，简直是对牛弹琴。",
+        "py": "Gēn tā jiǎng huánbǎo de zhòngyàoxìng, jiǎnzhí shì duì niú tán qín."
+      },
+      {
+        "zh": "给小学生讲高等数学，无异于对牛弹琴。",
+        "py": "Gěi xiǎoxuéshēng jiǎng gāoděng shùxué, wúyì yú duì niú tán qín."
+      },
+      {
+        "zh": "我说了半天，他一句也没听进去，真是对牛弹琴。",
+        "py": "Wǒ shuō le bàntiān, tā yí jù yě méi tīng jìnqu, zhēn shì duì niú tán qín."
+      },
+      {
+        "zh": "演讲前要了解听众，否则很容易变成对牛弹琴。",
+        "py": "Yǎnjiǎng qián yào liǎojiě tīngzhòng, fǒuzé hěn róngyì biànchéng duì niú tán qín."
+      },
+      {
+        "zh": "别怪别人听不懂，有时候是我们说得太专业，才成了对牛弹琴。",
+        "py": "Bié guài biérén tīng bu dǒng, yǒu shíhou shì wǒmen shuō de tài zhuānyè, cái chéng le duì niú tán qín."
+      }
+    ]
+  },
+  {
+    "成语": "自相矛盾",
+    "拼音": "zì xiāng máo dùn",
+    "释义": "语出《韩非子》。楚国有个卖矛和盾的人，先夸自己的盾坚固得什么都刺不穿，又夸自己的矛锋利得什么都能刺穿。有人问：“用你的矛刺你的盾，会怎么样？”他就答不上来了。比喻自己的言行前后抵触，互相矛盾。",
+    "用法": "多作谓语、定语，带贬义，如“他的说法自相矛盾”“自相矛盾的观点”。常用于分析论证中的逻辑问题。",
+    "例句": [
+      {
+        "zh": "他刚才说同意，现在又说反对，真是自相矛盾。",
+        "py": "Tā gāngcái shuō tóngyì, xiànzài yòu shuō fǎnduì, zhēn shì zì xiāng máo dùn."
+      },
+      {
+        "zh": "这篇文章前后观点自相矛盾，读者看了很困惑。",
+        "py": "Zhè piān wénzhāng qiánhòu guāndiǎn zì xiāng máo dùn, dúzhě kàn le hěn kùnhuò."
+      },
+      {
+        "zh": "他一边说要减肥，一边每天喝奶茶，这不是自相矛盾吗？",
+        "py": "Tā yìbiān shuō yào jiǎnféi, yìbiān měi tiān hē nǎichá, zhè bú shì zì xiāng máo dùn ma?"
+      },
+      {
+        "zh": "证人的说法自相矛盾，法官对其可信度产生了怀疑。",
+        "py": "Zhèngrén de shuōfǎ zì xiāng máo dùn, fǎguān duì qí kěxìndù chǎnshēng le huáiyí."
+      },
+      {
+        "zh": "公司一方面要求员工创新，另一方面又不允许犯错，这种做法自相矛盾。",
+        "py": "Gōngsī yì fāngmiàn yāoqiú yuángōng chuàngxīn, lìng yì fāngmiàn yòu bù yǔnxǔ fàn cuò, zhè zhǒng zuòfǎ zì xiāng máo dùn."
+      }
+    ]
+  },
+  {
+    "成语": "微不足道",
+    "拼音": "wēi bù zú dào",
+    "释义": "非常渺小，不值得一提。形容意义、价值或数量极小。",
+    "用法": "多作谓语、定语，如“这点困难微不足道”“微不足道的小事”。常用于自谦，如“我只是做了一点微不足道的工作”；也可以表示与更大的事物相比显得渺小。",
+    "例句": [
+      {
+        "zh": "和父母的付出相比，我做的这些微不足道。",
+        "py": "Hé fùmǔ de fùchū xiāngbǐ, wǒ zuò de zhèxiē wēi bù zú dào."
+      },
+      {
+        "zh": "别为这些微不足道的小事生气了。",
+        "py": "Bié wèi zhèxiē wēi bù zú dào de xiǎoshì shēngqì le."
+      },
+      {
+        "zh": "在浩瀚的宇宙面前，人类显得微不足道。",
+        "py": "Zài hàohàn de yǔzhòu miànqián, rénlèi xiǎnde wēi bù zú dào."
+      },
+      {
+        "zh": "一个人的力量也许微不足道，但大家团结起来就能改变很多。",
+        "py": "Yí ge rén de lìliàng yěxǔ wēi bù zú dào, dàn dàjiā tuánjié qǐlai jiù néng gǎibiàn hěn duō."
+      },
+      {
+        "zh": "这次实验的误差微不足道，不会影响最终结论。",
+        "py": "Zhè cì shíyàn de wùchā wēi bù zú dào, bú huì yǐngxiǎng zuìzhōng jiélùn."
+      }
+    ]
+  },
+  {
+    "成语": "有目共睹",
+    "拼音": "yǒu mù gòng dǔ",
+    "释义": "凡是有眼睛的人都能看见。形容事情非常明显，大家都看得清清楚楚。",
+    "用法": "多作谓语，常用格式是“……是有目共睹的”。多用于肯定成绩、进步或变化，语气正式。和“众所周知”相比，“有目共睹”强调人人亲眼所见，多用于成绩和变化。",
+    "例句": [
+      {
+        "zh": "这几年他在工作上的进步是有目共睹的。",
+        "py": "Zhè jǐ nián tā zài gōngzuò shang de jìnbù shì yǒu mù gòng dǔ de."
+      },
+      {
+        "zh": "这座城市的变化有目共睹。",
+        "py": "Zhè zuò chéngshì de biànhuà yǒu mù gòng dǔ."
+      },
+      {
+        "zh": "她为公司做出的贡献有目共睹，升职是早晚的事。",
+        "py": "Tā wèi gōngsī zuòchū de gòngxiàn yǒu mù gòng dǔ, shēngzhí shì zǎowǎn de shì."
+      },
+      {
+        "zh": "新政策实施以来，交通状况的改善有目共睹。",
+        "py": "Xīn zhèngcè shíshī yǐlái, jiāotōng zhuàngkuàng de gǎishàn yǒu mù gòng dǔ."
+      },
+      {
+        "zh": "球队取得的成绩有目共睹，球迷们都为他们骄傲。",
+        "py": "Qiúduì qǔdé de chéngjì yǒu mù gòng dǔ, qiúmímen dōu wèi tāmen jiāo'ào."
+      }
+    ]
+  },
+  {
+    "成语": "名副其实",
+    "拼音": "míng fù qí shí",
+    "释义": "名称或名声与实际情况相符合。“副”是“相称、符合”的意思。",
+    "用法": "多作谓语、定语，如“这个称号名副其实”“名副其实的专家”。是褒义词。规范写法是“名副其实”，“副”不要写成“付”。反义词是“名不副实”。",
+    "例句": [
+      {
+        "zh": "她精通五种语言，是名副其实的语言天才。",
+        "py": "Tā jīngtōng wǔ zhǒng yǔyán, shì míng fù qí shí de yǔyán tiāncái."
+      },
+      {
+        "zh": "杭州西湖风景如画，“人间天堂”的美誉名副其实。",
+        "py": "Hángzhōu Xīhú fēngjǐng rú huà, “rénjiān tiāntáng” de měiyù míng fù qí shí."
+      },
+      {
+        "zh": "他每天工作十四个小时，是个名副其实的工作狂。",
+        "py": "Tā měi tiān gōngzuò shísì ge xiǎoshí, shì ge míng fù qí shí de gōngzuòkuáng."
+      },
+      {
+        "zh": "这家店号称“百年老店”，可它的味道真的名副其实吗？",
+        "py": "Zhè jiā diàn hàochēng “bǎi nián lǎo diàn”, kě tā de wèidao zhēn de míng fù qí shí ma?"
+      },
+      {
+        "zh": "经过几年的发展，这里成了名副其实的科技中心。",
+        "py": "Jīngguò jǐ nián de fāzhǎn, zhèli chéng le míng fù qí shí de kējì zhōngxīn."
+      }
+    ]
+  },
+  {
+    "成语": "事半功倍",
+    "拼音": "shì bàn gōng bèi",
+    "释义": "只用一半的力气，却收到加倍的效果。形容方法得当，效率很高。",
+    "用法": "多作谓语，也常用“收到事半功倍的效果”。是褒义词，常用于讨论学习方法和工作效率。反义词是“事倍功半”。",
+    "例句": [
+      {
+        "zh": "找到适合自己的学习方法，往往可以事半功倍。",
+        "py": "Zhǎodào shìhé zìjǐ de xuéxí fāngfǎ, wǎngwǎng kěyǐ shì bàn gōng bèi."
+      },
+      {
+        "zh": "先把思路理清楚再动笔，写论文会事半功倍。",
+        "py": "Xiān bǎ sīlù lǐ qīngchu zài dòngbǐ, xiě lùnwén huì shì bàn gōng bèi."
+      },
+      {
+        "zh": "合理利用工具，能让工作事半功倍。",
+        "py": "Hélǐ lìyòng gōngjù, néng ràng gōngzuò shì bàn gōng bèi."
+      },
+      {
+        "zh": "早上头脑清醒，这时候背单词能收到事半功倍的效果。",
+        "py": "Zǎoshang tóunǎo qīngxǐng, zhè shíhou bèi dāncí néng shōudào shì bàn gōng bèi de xiàoguǒ."
+      },
+      {
+        "zh": "方法不对，再努力也很难事半功倍，反而可能事倍功半。",
+        "py": "Fāngfǎ bú duì, zài nǔlì yě hěn nán shì bàn gōng bèi, fǎn'ér kěnéng shì bèi gōng bàn."
+      }
+    ]
+  },
+  {
+    "成语": "得不偿失",
+    "拼音": "dé bù cháng shī",
+    "释义": "得到的抵不上失去的。“偿”是抵偿、补偿的意思。",
+    "用法": "多作谓语，常用来评价某种做法不划算、不值得，如“为了……而……，实在得不偿失”。口语和书面语都常用。",
+    "例句": [
+      {
+        "zh": "为了省一点钱而买质量差的东西，结果常常得不偿失。",
+        "py": "Wèile shěng yìdiǎn qián ér mǎi zhìliàng chà de dōngxi, jiéguǒ chángcháng dé bù cháng shī."
+      },
+      {
+        "zh": "熬夜复习，第二天考试却没精神，真是得不偿失。",
+        "py": "Áoyè fùxí, dì èr tiān kǎoshì què méi jīngshen, zhēn shì dé bù cháng shī."
+      },
+      {
+        "zh": "为了赚钱牺牲健康，实在得不偿失。",
+        "py": "Wèile zhuàn qián xīshēng jiànkāng, shízài dé bù cháng shī."
+      },
+      {
+        "zh": "为了一点小利益跟朋友闹翻，未免得不偿失。",
+        "py": "Wèile yìdiǎn xiǎo lìyì gēn péngyou nàofān, wèimiǎn dé bù cháng shī."
+      },
+      {
+        "zh": "这项政策短期内能增加收入，但从长远来看可能得不偿失。",
+        "py": "Zhè xiàng zhèngcè duǎnqī nèi néng zēngjiā shōurù, dàn cóng chángyuǎn lái kàn kěnéng dé bù cháng shī."
+      }
+    ]
+  },
+  {
+    "成语": "千篇一律",
+    "拼音": "qiān piān yí lǜ",
+    "释义": "原指许多文章的格式和内容都一个样。现在泛指事物都按同一个模式，毫无变化和新意。",
+    "用法": "多作谓语、定语，带贬义，如“这些设计千篇一律”“千篇一律的城市建筑”。常用来批评文章、作品、产品、城市风貌等缺乏个性。",
+    "例句": [
+      {
+        "zh": "很多城市的建筑千篇一律，缺少自己的特色。",
+        "py": "Hěn duō chéngshì de jiànzhù qiān piān yí lǜ, quēshǎo zìjǐ de tèsè."
+      },
+      {
+        "zh": "学生的作文开头千篇一律，老师都看腻了。",
+        "py": "Xuésheng de zuòwén kāitóu qiān piān yí lǜ, lǎoshī dōu kànnì le."
+      },
+      {
+        "zh": "这些手机外观千篇一律，几乎分不出是哪个品牌。",
+        "py": "Zhèxiē shǒujī wàiguān qiān piān yí lǜ, jīhū fēn bu chū shì nǎge pǐnpái."
+      },
+      {
+        "zh": "千篇一律的求职信很难给招聘人员留下深刻的印象。",
+        "py": "Qiān piān yí lǜ de qiúzhíxìn hěn nán gěi zhāopìn rényuán liúxià shēnkè de yìnxiàng."
+      },
+      {
+        "zh": "网上的旅游攻略大多千篇一律，不如自己去探索。",
+        "py": "Wǎng shang de lǚyóu gōnglüè dàduō qiān piān yí lǜ, bùrú zìjǐ qù tànsuǒ."
+      }
+    ]
+  },
+  {
+    "成语": "一目了然",
+    "拼音": "yí mù liǎo rán",
+    "释义": "一眼就能看得清清楚楚。形容事物条理清楚，很容易看明白。",
+    "用法": "多作谓语、补语，如“表格一目了然”“写得一目了然”。常用来称赞图表、设计、说明等清楚明了。注意“了”在这里读第三声，是“明白、清楚”的意思。",
+    "例句": [
+      {
+        "zh": "用图表来展示数据，结果一目了然。",
+        "py": "Yòng túbiǎo lái zhǎnshì shùjù, jiéguǒ yí mù liǎo rán."
+      },
+      {
+        "zh": "这个网站设计得很简洁，各种功能一目了然。",
+        "py": "Zhège wǎngzhàn shèjì de hěn jiǎnjié, gè zhǒng gōngnéng yí mù liǎo rán."
+      },
+      {
+        "zh": "把优缺点列在纸上，该怎么选就一目了然了。",
+        "py": "Bǎ yōuquēdiǎn liè zài zhǐ shang, gāi zěnme xuǎn jiù yí mù liǎo rán le."
+      },
+      {
+        "zh": "地铁线路图画得一目了然，第一次来的游客也不会迷路。",
+        "py": "Dìtiě xiànlùtú huà de yí mù liǎo rán, dì yī cì lái de yóukè yě bú huì mílù."
+      },
+      {
+        "zh": "好的论文结构应该让读者一目了然。",
+        "py": "Hǎo de lùnwén jiégòu yīnggāi ràng dúzhě yí mù liǎo rán."
+      }
+    ]
+  },
+  {
+    "成语": "一举两得",
+    "拼音": "yì jǔ liǎng dé",
+    "释义": "做一件事，同时得到两方面的好处。",
+    "用法": "多作谓语、定语，如“这样做一举两得”“一举两得的办法”。口语和书面语都常用，是褒义词。近义词有“一箭双雕”“两全其美”。",
+    "例句": [
+      {
+        "zh": "骑自行车上班，既锻炼身体又环保，真是一举两得。",
+        "py": "Qí zìxíngchē shàngbān, jì duànliàn shēntǐ yòu huánbǎo, zhēn shì yì jǔ liǎng dé."
+      },
+      {
+        "zh": "和中国朋友互相教语言，是个一举两得的好办法。",
+        "py": "Hé Zhōngguó péngyou hùxiāng jiāo yǔyán, shì ge yì jǔ liǎng dé de hǎo bànfǎ."
+      },
+      {
+        "zh": "去国外做交换生，既能学习专业知识，又能提高外语水平，可谓一举两得。",
+        "py": "Qù guówài zuò jiāohuànshēng, jì néng xuéxí zhuānyè zhīshi, yòu néng tígāo wàiyǔ shuǐpíng, kěwèi yì jǔ liǎng dé."
+      },
+      {
+        "zh": "把旧衣服捐给需要的人，既帮助了别人，又清理了衣柜，一举两得。",
+        "py": "Bǎ jiù yīfu juān gěi xūyào de rén, jì bāngzhù le biérén, yòu qīnglǐ le yīguì, yì jǔ liǎng dé."
+      },
+      {
+        "zh": "公司推行弹性工作制，既提高了效率，又留住了人才，一举两得。",
+        "py": "Gōngsī tuīxíng tánxìng gōngzuòzhì, jì tígāo le xiàolǜ, yòu liúzhù le réncái, yì jǔ liǎng dé."
+      }
+    ]
+  },
+  {
+    "成语": "千方百计",
+    "拼音": "qiān fāng bǎi jì",
+    "释义": "想尽一切办法，用尽各种计策。",
+    "用法": "多作状语，常用格式有“千方百计地……”“千方百计想……”。是中性词，既可以用于积极的事情，如“千方百计帮助学生”，也可以用于消极的事情，如“千方百计逃避责任”。",
+    "例句": [
+      {
+        "zh": "为了让孩子多吃蔬菜，妈妈千方百计地变换做法。",
+        "py": "Wèile ràng háizi duō chī shūcài, māma qiān fāng bǎi jì de biànhuàn zuòfǎ."
+      },
+      {
+        "zh": "医生们千方百计地抢救，病人终于脱离了危险。",
+        "py": "Yīshēngmen qiān fāng bǎi jì de qiǎngjiù, bìngrén zhōngyú tuōlí le wēixiǎn."
+      },
+      {
+        "zh": "他千方百计地逃避责任，最后还是被发现了。",
+        "py": "Tā qiān fāng bǎi jì de táobì zérèn, zuìhòu háishi bèi fāxiàn le."
+      },
+      {
+        "zh": "商家千方百计地吸引顾客，各种优惠活动层出不穷。",
+        "py": "Shāngjiā qiān fāng bǎi jì de xīyǐn gùkè, gè zhǒng yōuhuì huódòng céng chū bù qióng."
+      },
+      {
+        "zh": "为了留住优秀员工，公司千方百计改善工作环境。",
+        "py": "Wèile liúzhù yōuxiù yuángōng, gōngsī qiān fāng bǎi jì gǎishàn gōngzuò huánjìng."
+      }
+    ]
+  },
+  {
+    "成语": "心不在焉",
+    "拼音": "xīn bú zài yān",
+    "释义": "心思不在这里。形容思想不集中，注意力不在眼前的事情上。“焉”是“这里”的意思。",
+    "用法": "多作谓语、状语，如“他上课总是心不在焉”“心不在焉地听着”。口语和书面语都常用，带有轻微的批评意味。反义词有“全神贯注”“聚精会神”。",
+    "例句": [
+      {
+        "zh": "他上课心不在焉，老师叫他回答问题，他都没听见。",
+        "py": "Tā shàngkè xīn bú zài yān, lǎoshī jiào tā huídá wèntí, tā dōu méi tīngjiàn."
+      },
+      {
+        "zh": "她一边看手机，一边心不在焉地听我说话。",
+        "py": "Tā yìbiān kàn shǒujī, yìbiān xīn bú zài yān de tīng wǒ shuōhuà."
+      },
+      {
+        "zh": "开会时心不在焉，很容易漏掉重要的信息。",
+        "py": "Kāihuì shí xīn bú zài yān, hěn róngyì lòudiào zhòngyào de xìnxī."
+      },
+      {
+        "zh": "你今天怎么心不在焉的？是不是有什么心事？",
+        "py": "Nǐ jīntiān zěnme xīn bú zài yān de? Shì bu shì yǒu shénme xīnshì?"
+      },
+      {
+        "zh": "开车的时候千万不能心不在焉。",
+        "py": "Kāichē de shíhou qiānwàn bù néng xīn bú zài yān."
+      }
+    ]
+  },
+  {
+    "成语": "全神贯注",
+    "拼音": "quán shén guàn zhù",
+    "释义": "全部精神都集中在一点上。形容注意力高度集中。",
+    "用法": "多作状语、谓语，如“全神贯注地听讲”“他做事时全神贯注”。是褒义词。近义词有“聚精会神”“专心致志”，反义词有“心不在焉”。",
+    "例句": [
+      {
+        "zh": "同学们全神贯注地听老师讲解实验步骤。",
+        "py": "Tóngxuémen quán shén guàn zhù de tīng lǎoshī jiǎngjiě shíyàn bùzhòu."
+      },
+      {
+        "zh": "他全神贯注地盯着屏幕，连我进门都没发现。",
+        "py": "Tā quán shén guàn zhù de dīng zhe píngmù, lián wǒ jìn mén dōu méi fāxiàn."
+      },
+      {
+        "zh": "做手术时，医生必须全神贯注，不能有一丝疏忽。",
+        "py": "Zuò shǒushù shí, yīshēng bìxū quán shén guàn zhù, bù néng yǒu yì sī shūhu."
+      },
+      {
+        "zh": "要想全神贯注地学习，最好把手机放在另一个房间。",
+        "py": "Yào xiǎng quán shén guàn zhù de xuéxí, zuìhǎo bǎ shǒujī fàng zài lìng yí ge fángjiān."
+      },
+      {
+        "zh": "观众们全神贯注，生怕错过比赛的任何一个精彩瞬间。",
+        "py": "Guānzhòngmen quán shén guàn zhù, shēngpà cuòguò bǐsài de rènhé yí ge jīngcǎi shùnjiān."
+      }
+    ]
+  },
+  {
+    "成语": "三心二意",
+    "拼音": "sān xīn èr yì",
+    "释义": "又想这样，又想那样。形容心思不专一，或者拿不定主意。",
+    "用法": "多作谓语、状语，带贬义，如“做事不能三心二意”“三心二意地学习”。常用来批评注意力不集中或意志不坚定。反义词是“一心一意”。",
+    "例句": [
+      {
+        "zh": "学习的时候不能三心二意，又看书又刷手机。",
+        "py": "Xuéxí de shíhou bù néng sān xīn èr yì, yòu kàn shū yòu shuā shǒujī."
+      },
+      {
+        "zh": "他做什么事都三心二意，所以一事无成。",
+        "py": "Tā zuò shénme shì dōu sān xīn èr yì, suǒyǐ yí shì wú chéng."
+      },
+      {
+        "zh": "既然选择了这个专业，就别再三心二意了。",
+        "py": "Jìrán xuǎnzé le zhège zhuānyè, jiù bié zài sān xīn èr yì le."
+      },
+      {
+        "zh": "三心二意地工作，效率自然很低。",
+        "py": "Sān xīn èr yì de gōngzuò, xiàolǜ zìrán hěn dī."
+      },
+      {
+        "zh": "对待感情不能三心二意。",
+        "py": "Duìdài gǎnqíng bù néng sān xīn èr yì."
+      }
+    ]
+  },
+  {
+    "成语": "久而久之",
+    "拼音": "jiǔ ér jiǔ zhī",
+    "释义": "经过相当长的一段时间以后。",
+    "用法": "多作插入语或状语，常放在句首或分句开头，引出长期积累后产生的结果，如“久而久之，……”。口语和书面语都常用。",
+    "例句": [
+      {
+        "zh": "他每天读一篇英文文章，久而久之，阅读速度提高了很多。",
+        "py": "Tā měi tiān dú yì piān Yīngwén wénzhāng, jiǔ ér jiǔ zhī, yuèdú sùdù tígāo le hěn duō."
+      },
+      {
+        "zh": "小问题不及时解决，久而久之就会变成大问题。",
+        "py": "Xiǎo wèntí bù jíshí jiějué, jiǔ ér jiǔ zhī jiù huì biànchéng dà wèntí."
+      },
+      {
+        "zh": "长期熬夜，久而久之身体一定会出问题。",
+        "py": "Chángqī áoyè, jiǔ ér jiǔ zhī shēntǐ yídìng huì chū wèntí."
+      },
+      {
+        "zh": "刚开始我不习惯早起，久而久之也就成了习惯。",
+        "py": "Gāng kāishǐ wǒ bù xíguàn zǎoqǐ, jiǔ ér jiǔ zhī yě jiù chéng le xíguàn."
+      },
+      {
+        "zh": "他总是说话不算数，久而久之，大家都不再相信他了。",
+        "py": "Tā zǒngshì shuōhuà bú suànshù, jiǔ ér jiǔ zhī, dàjiā dōu bú zài xiāngxìn tā le."
+      }
+    ]
+  },
+  {
+    "成语": "来之不易",
+    "拼音": "lái zhī bú yì",
+    "释义": "得来很不容易。形容成果、机会或幸福生活是经过艰苦努力才取得的。",
+    "用法": "多作谓语、定语，如“这份成绩来之不易”“来之不易的机会”。常用来提醒人要珍惜。",
+    "例句": [
+      {
+        "zh": "这次的冠军来之不易，是全队一年苦练的结果。",
+        "py": "Zhè cì de guànjūn lái zhī bú yì, shì quán duì yì nián kǔliàn de jiéguǒ."
+      },
+      {
+        "zh": "今天的和平生活来之不易，我们要好好珍惜。",
+        "py": "Jīntiān de hépíng shēnghuó lái zhī bú yì, wǒmen yào hǎohǎo zhēnxī."
+      },
+      {
+        "zh": "这份工作机会来之不易，你千万别轻易放弃。",
+        "py": "Zhè fèn gōngzuò jīhuì lái zhī bú yì, nǐ qiānwàn bié qīngyì fàngqì."
+      },
+      {
+        "zh": "父母挣的钱来之不易，花钱要有计划。",
+        "py": "Fùmǔ zhèng de qián lái zhī bú yì, huā qián yào yǒu jìhuà."
+      },
+      {
+        "zh": "这项研究成果经历了几十次失败，可谓来之不易。",
+        "py": "Zhè xiàng yánjiū chéngguǒ jīnglì le jǐ shí cì shībài, kěwèi lái zhī bú yì."
+      }
+    ]
+  },
+  {
+    "成语": "司空见惯",
+    "拼音": "sī kōng jiàn guàn",
+    "释义": "源自唐代刘禹锡的诗句“司空见惯浑闲事”。“司空”是古代官名，意思是这样的场面司空早就看惯了，一点也不觉得稀奇。后来形容某种事情经常见到，不足为奇。",
+    "用法": "多作谓语、定语，常用格式有“……早已司空见惯”“司空见惯的事”。和“习以为常”相近，“司空见惯”侧重经常看到，“习以为常”侧重经常做或经历，已经成了习惯。",
+    "例句": [
+      {
+        "zh": "在大城市，上下班堵车早已司空见惯。",
+        "py": "Zài dà chéngshì, shàngxiàbān dǔchē zǎoyǐ sī kōng jiàn guàn."
+      },
+      {
+        "zh": "用手机付款在中国已经司空见惯，很多人出门根本不带现金。",
+        "py": "Yòng shǒujī fùkuǎn zài Zhōngguó yǐjīng sī kōng jiàn guàn, hěn duō rén chūmén gēnběn bú dài xiànjīn."
+      },
+      {
+        "zh": "对急诊科医生来说，深夜加班是司空见惯的事。",
+        "py": "Duì jízhěnkē yīshēng lái shuō, shēnyè jiābān shì sī kōng jiàn guàn de shì."
+      },
+      {
+        "zh": "这种营销手段大家已经司空见惯，不会再轻易上当了。",
+        "py": "Zhè zhǒng yíngxiāo shǒuduàn dàjiā yǐjīng sī kōng jiàn guàn, bú huì zài qīngyì shàngdàng le."
+      },
+      {
+        "zh": "二十年前还很新奇的网购，如今早已司空见惯。",
+        "py": "Èrshí nián qián hái hěn xīnqí de wǎnggòu, rújīn zǎoyǐ sī kōng jiàn guàn."
+      }
+    ]
+  },
+  {
+    "成语": "得寸进尺",
+    "拼音": "dé cùn jìn chǐ",
+    "释义": "得到了一寸，又想再进一尺。比喻贪心不足，得到一点好处后，又想要得更多。",
+    "用法": "多作谓语，带贬义，常用来批评别人的要求越来越过分，如“你别得寸进尺”。口语中很常用。",
+    "例句": [
+      {
+        "zh": "我已经借给你一千块了，你还想再借五千，别得寸进尺！",
+        "py": "Wǒ yǐjīng jiè gěi nǐ yìqiān kuài le, nǐ hái xiǎng zài jiè wǔqiān, bié dé cùn jìn chǐ!"
+      },
+      {
+        "zh": "对方一再让步，他却得寸进尺，提出了更多的要求。",
+        "py": "Duìfāng yízài ràngbù, tā què dé cùn jìn chǐ, tíchū le gèng duō de yāoqiú."
+      },
+      {
+        "zh": "对孩子不能太迁就，否则他会得寸进尺。",
+        "py": "Duì háizi bù néng tài qiānjiù, fǒuzé tā huì dé cùn jìn chǐ."
+      },
+      {
+        "zh": "房东先是涨了房租，后来又得寸进尺，要我们自己付维修费。",
+        "py": "Fángdōng xiān shì zhǎng le fángzū, hòulái yòu dé cùn jìn chǐ, yào wǒmen zìjǐ fù wéixiūfèi."
+      },
+      {
+        "zh": "帮助别人要有底线，不然有些人会得寸进尺。",
+        "py": "Bāngzhù biérén yào yǒu dǐxiàn, bùrán yǒuxiē rén huì dé cùn jìn chǐ."
+      }
+    ]
+  },
+  {
+    "成语": "美中不足",
+    "拼音": "měi zhōng bù zú",
+    "释义": "总体上很好，但还有不够完美的地方。",
+    "用法": "多作谓语或主语，常用格式是“美中不足的是……”，先肯定整体，再指出小缺点。语气委婉，常用于评价、评论和日常对话。",
+    "例句": [
+      {
+        "zh": "这家酒店环境很好，美中不足的是离地铁站有点远。",
+        "py": "Zhè jiā jiǔdiàn huánjìng hěn hǎo, měi zhōng bù zú de shì lí dìtiězhàn yǒudiǎn yuǎn."
+      },
+      {
+        "zh": "旅行很愉快，唯一美中不足的是一直在下雨。",
+        "py": "Lǚxíng hěn yúkuài, wéiyī měi zhōng bù zú de shì yìzhí zài xià yǔ."
+      },
+      {
+        "zh": "这篇论文论证充分，美中不足的是参考文献有点少。",
+        "py": "Zhè piān lùnwén lùnzhèng chōngfèn, měi zhōng bù zú de shì cānkǎo wénxiàn yǒudiǎn shǎo."
+      },
+      {
+        "zh": "这部手机性能出色，美中不足的是电池不太耐用。",
+        "py": "Zhè bù shǒujī xìngnéng chūsè, měi zhōng bù zú de shì diànchí bú tài nàiyòng."
+      },
+      {
+        "zh": "晚会办得很成功，只是音响效果稍差，有些美中不足。",
+        "py": "Wǎnhuì bàn de hěn chénggōng, zhǐshì yīnxiǎng xiàoguǒ shāo chà, yǒuxiē měi zhōng bù zú."
+      }
+    ]
+  },
+  {
+    "成语": "一如既往",
+    "拼音": "yì rú jì wǎng",
+    "释义": "完全跟过去一样。“既往”指过去、以前。",
+    "用法": "多作状语，常用格式是“一如既往地……”，如“一如既往地支持”。常见于正式场合和书面语，表示态度或做法始终不变，多带有积极意味。",
+    "例句": [
+      {
+        "zh": "感谢大家一直以来的支持，我们会一如既往地为您服务。",
+        "py": "Gǎnxiè dàjiā yìzhí yǐlái de zhīchí, wǒmen huì yì rú jì wǎng de wèi nín fúwù."
+      },
+      {
+        "zh": "不管结果如何，我都会一如既往地支持你。",
+        "py": "Bùguǎn jiéguǒ rúhé, wǒ dōu huì yì rú jì wǎng de zhīchí nǐ."
+      },
+      {
+        "zh": "成名之后，他依然一如既往地低调。",
+        "py": "Chéngmíng zhīhòu, tā yīrán yì rú jì wǎng de dīdiào."
+      },
+      {
+        "zh": "这家餐厅的菜一如既往地好吃。",
+        "py": "Zhè jiā cāntīng de cài yì rú jì wǎng de hǎochī."
+      },
+      {
+        "zh": "尽管工作很忙，她仍一如既往地坚持每天读书。",
+        "py": "Jǐnguǎn gōngzuò hěn máng, tā réng yì rú jì wǎng de jiānchí měi tiān dú shū."
+      }
+    ]
+  },
+  {
+    "成语": "雪中送炭",
+    "拼音": "xuě zhōng sòng tàn",
+    "释义": "在下雪天给人送去取暖的炭。比喻在别人急需帮助的时候及时给予帮助。",
+    "用法": "多作谓语、宾语，是褒义词。常和“锦上添花”对比使用：“锦上添花”是在好上加好，“雪中送炭”是在困难时伸出援手，人们往往更看重后者。",
+    "例句": [
+      {
+        "zh": "我刚失业的时候，朋友借给我一笔钱，真是雪中送炭。",
+        "py": "Wǒ gāng shīyè de shíhou, péngyou jiè gěi wǒ yì bǐ qián, zhēn shì xuě zhōng sòng tàn."
+      },
+      {
+        "zh": "锦上添花容易，雪中送炭难。",
+        "py": "Jǐn shàng tiān huā róngyì, xuě zhōng sòng tàn nán."
+      },
+      {
+        "zh": "这笔助学金对家庭困难的学生来说，无疑是雪中送炭。",
+        "py": "Zhè bǐ zhùxuéjīn duì jiātíng kùnnan de xuésheng lái shuō, wúyí shì xuě zhōng sòng tàn."
+      },
+      {
+        "zh": "在公司最困难的时候，这笔投资可谓雪中送炭。",
+        "py": "Zài gōngsī zuì kùnnan de shíhou, zhè bǐ tóuzī kěwèi xuě zhōng sòng tàn."
+      },
+      {
+        "zh": "真正的朋友，是在你需要时雪中送炭的人。",
+        "py": "Zhēnzhèng de péngyou, shì zài nǐ xūyào shí xuě zhōng sòng tàn de rén."
+      }
+    ]
+  },
+  {
+    "成语": "坐井观天",
+    "拼音": "zuò jǐng guān tiān",
+    "释义": "语出唐代韩愈《原道》：“坐井而观天，曰天小者，非天小也。”坐在井底看天，就以为天只有井口那么大。比喻眼界狭小，见识短浅。",
+    "用法": "多作谓语、宾语，带贬义，常用来批评或自嘲见识有限，如“不出去看看，就容易坐井观天”。近义词是“井底之蛙”。",
+    "例句": [
+      {
+        "zh": "只看国内的研究，不了解国际前沿，难免坐井观天。",
+        "py": "Zhǐ kàn guónèi de yánjiū, bù liǎojiě guójì qiányán, nánmiǎn zuò jǐng guān tiān."
+      },
+      {
+        "zh": "出国以后我才发现，以前的自己是在坐井观天。",
+        "py": "Chūguó yǐhòu wǒ cái fāxiàn, yǐqián de zìjǐ shì zài zuò jǐng guān tiān."
+      },
+      {
+        "zh": "多读书、多旅行，可以避免坐井观天。",
+        "py": "Duō dú shū, duō lǚxíng, kěyǐ bìmiǎn zuò jǐng guān tiān."
+      },
+      {
+        "zh": "他总觉得自己的公司天下第一，其实是坐井观天。",
+        "py": "Tā zǒng juéde zìjǐ de gōngsī tiānxià dì yī, qíshí shì zuò jǐng guān tiān."
+      },
+      {
+        "zh": "互联网让我们看到了更大的世界，不再坐井观天。",
+        "py": "Hùliánwǎng ràng wǒmen kàndào le gèng dà de shìjiè, bú zài zuò jǐng guān tiān."
+      }
+    ]
+  }
+]

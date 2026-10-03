@@ -108,3 +108,35 @@ Example:
 - Avoid bilingual explanations unless the schema explicitly requires them.
 - Never mix Vietnamese explanations into the learning content just to make it
   easier to understand.
+
+## Card format and conventions
+
+### Fields
+
+- English: `Word`, `IPA`, `Definition`, `Usage`, `Examples`.
+- Chinese: `成语`, `拼音`, `释义`, `用法`, `例句` (each 例句 has the sentence and its pinyin).
+- 4–6 example sentences per card, each containing the headword. Mix academic and
+  everyday contexts.
+- Usage notes cover grammar patterns, collocations, register, nuance, and
+  comparisons with near-synonyms where helpful.
+
+### English
+
+- British spelling with Oxford `-ize` endings: criticize, organize, colour, centre,
+  analyse, sceptical.
+- British IPA in the style of the Oxford Learner's Dictionaries, between slashes,
+  with `ˈ ˌ ː` (not ASCII `'` or `:`) and `(r)` for a linking r: /ˈhɪndə(r)/.
+
+### Chinese
+
+- Simplified characters only.
+- 成语 are genuine four-character idioms (not 惯用语 such as 三分钟热度).
+- Pinyin uses tone marks. 一 and 不 are written with their tone changes
+  (yí ge, bú shì, yì zhī bàn jiě), but 一 keeps yī as a number or ordinal
+  (dì yī, quē yī bù kě, jǔ yī fǎn sān). Neutral tones are unmarked (péngyou, kàn le).
+- Headword pinyin is spaced by syllable (yì jǔ liǎng dé); sentence pinyin is spaced
+  by word, starts with a capital letter, and mirrors the sentence's punctuation.
+- 释义 and 用法 contain no Latin letters; use …… as a placeholder, not A/B.
+- Avoid 儿化 in example sentences, so that the pinyin stays unambiguous.
+
+Run `python scripts/check.py` before building; it enforces most of these rules.
