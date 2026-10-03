@@ -146,6 +146,7 @@ IRREGULAR = {
     "eat": "ate eaten", "teach": "taught", "buy": "bought", "fight": "fought",
     "criterion": "criteria", "phenomenon": "phenomena", "hypothesis": "hypotheses",
     "uphold": "upheld", "oversee": "oversaw overseen", "withhold": "withheld",
+    "resit": "resat", "undergo": "underwent undergone", "overcome": "overcame",
 }
 
 

@@ -75,3 +75,5 @@
 [superfluous] primary stress on syllable 1, CMU says [0]: /suːˈpɜːfluəs/
 [superfluous] 4 syllables, CMU says [3]: /suːˈpɜːfluəs/
 [acumen] primary stress on syllable 0, CMU says [1]: /ˈækjəmən/
+[play a key role] example 2 may not contain the collocation: Exercise plays a vital role in mental health.
+[play a key role] example 4 may not contain the collocation: Technology will play a crucial role in fighting climate change.

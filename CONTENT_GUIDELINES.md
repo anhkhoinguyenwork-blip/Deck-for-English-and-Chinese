@@ -1,6 +1,7 @@
 # Content Guidelines
 
-Rules for writing card content in the English deck and the Chinese 成语 deck.
+Rules for writing card content in the English decks (vocabulary and collocations)
+and the Chinese 成语 deck.
 
 ## Language of explanations
 
@@ -113,7 +114,13 @@ Example:
 
 ### Fields
 
-- English: `Word`, `IPA`, `Definition`, `Usage`, `Examples`.
+- English: `Word`, `IPA`, `Definition`, `Usage`, `Examples`. Cards beyond the core
+  100 have a `level` of `C1` or `C2`, which becomes an Anki tag.
+- Collocations: `Collocation`, `Meaning`, `Usage`, `Examples`, plus a `domain` of
+  `academic`, `business` or `everyday` (an Anki tag). The collocations deck follows
+  the English deck's language rules. Every example contains all of the collocation's
+  content words. A form may vary (`made a mistake`, `my best`), and so may a
+  placeholder such as `someone`.
 - Chinese: `成语`, `拼音`, `释义`, `用法`, `例句` (each 例句 has the sentence and its pinyin).
 - 4–6 example sentences per card, each containing the headword. Mix academic and
   everyday contexts.
