@@ -1,7 +1,8 @@
 """Build Anki packages (.apkg) from the JSON files in data/.
 
 Usage: python scripts/build.py
-Output: dist/English-Vocabulary.apkg, dist/Chinese-Chengyu.apkg
+Output: dist/English-Vocabulary.apkg, dist/English-Collocations.apkg,
+        dist/Chinese-Chengyu.apkg
 
 Model, deck and note IDs are fixed, so re-importing an updated package
 updates existing notes instead of creating duplicates, and keeps review history.
@@ -69,6 +70,24 @@ ENGLISH_MODEL = genanki.Model(
     sort_field_index=0,
 )
 
+COLLOCATION_MODEL = genanki.Model(
+    1735200003,
+    "English Collocation",
+    fields=[{"name": n} for n in ("Collocation", "Meaning", "Usage", "Examples")],
+    templates=[{
+        "name": "Recognition",
+        "qfmt": '<div class="head"><span class="term colloc">{{Collocation}}</span></div>',
+        "afmt": (
+            '{{FrontSide}}<hr id="answer">'
+            '<div class="label">Meaning</div><div>{{Meaning}}</div>'
+            '<div class="label">Usage</div><div>{{Usage}}</div>'
+            '<div class="label">Examples</div>{{Examples}}'
+        ),
+    }],
+    css=BASE_CSS + ".term.colloc { font-size: 32px; }",
+    sort_field_index=0,
+)
+
 CHENGYU_MODEL = genanki.Model(
     1735200002,
     "汉语成语",
@@ -107,6 +126,55 @@ def target_pattern(word):
     return re.compile(r"\b" + re.escape(stem) + r"\w*", re.IGNORECASE)
 
 
+# Function words that are not highlighted or required in collocation examples.
+STOPWORDS = set("""a an the to of in on at for with by from into up out off your you
+someone someone's something it and or as be""".split())
+
+IRREGULAR = {
+    "make": "made", "take": "took taken", "do": "did done does", "have": "has had",
+    "get": "got gotten", "keep": "kept", "break": "broke broken", "catch": "caught",
+    "pay": "paid", "run": "ran", "come": "came", "go": "went gone goes", "tell": "told",
+    "say": "said", "lose": "lost", "feel": "felt", "draw": "drew drawn", "stand": "stood",
+    "hold": "held", "throw": "threw thrown", "bear": "bore borne", "give": "gave given",
+    "meet": "met", "sleep": "slept", "ring": "rang rung", "blow": "blew blown",
+    "fall": "fell fallen", "spend": "spent", "lend": "lent", "win": "won", "lead": "led",
+    "build": "built", "lay": "laid", "strike": "struck", "seek": "sought",
+    "bring": "brought", "think": "thought", "sell": "sold", "deal": "dealt",
+    "leave": "left", "write": "wrote written", "rise": "rose risen", "grow": "grew grown",
+    "know": "knew known", "sit": "sat", "find": "found", "shed": "shed", "lie": "lay lain",
+    "undertake": "undertook undertaken", "withstand": "withstood", "wake": "woke woken",
+    "eat": "ate eaten", "teach": "taught", "buy": "bought", "fight": "fought",
+    "criterion": "criteria", "phenomenon": "phenomena", "hypothesis": "hypotheses",
+    "uphold": "upheld", "oversee": "oversaw overseen", "withhold": "withheld",
+}
+
+
+def word_forms(word):
+    """Regex alternatives for a word and its inflections, including irregular verbs."""
+    if word.endswith("ing"):
+        stem = word[:-3]
+    elif word[-1] in "ey" and len(word) > 3:
+        stem = word[:-1]
+    else:
+        stem = word
+    forms = [re.escape(stem) + r"\w*"] + [re.escape(f) for f in IRREGULAR.get(word, "").split()]
+    return "|".join(forms)
+
+
+def target_pattern(word):
+    """Match a headword and its inflected forms: cope/coping, imply/implied."""
+    return re.compile(r"\b(?:" + word_forms(word) + r")\b", re.IGNORECASE)
+
+
+def collocation_words(colloc):
+    """Content words of a collocation, e.g. 'make a decision' -> ['make', 'decision']."""
+    return [w for w in re.findall(r"[a-z'-]+", colloc.lower()) if w not in STOPWORDS]
+
+
+def collocation_patterns(colloc):
+    return [target_pattern(w) for w in collocation_words(colloc)]
+
+
 def english_notes(cards):
     for c in cards:
         word = c["word"]
@@ -117,6 +185,21 @@ def english_notes(cards):
             fields=[html.escape(word), html.escape(c["ipa"]), para(c["definition"]),
                     para(c["usage"]), f'<ol class="ex">{examples}</ol>'],
             guid=genanki.guid_for("english", word),
+            tags=[c["level"]] if c.get("level") else [],
+        )
+
+
+def collocation_notes(cards):
+    for c in cards:
+        term = c["collocation"]
+        pat = re.compile("|".join(p.pattern for p in collocation_patterns(term)), re.IGNORECASE)
+        examples = "".join(f"<li>{bold(e, pat)}</li>" for e in c["examples"])
+        yield genanki.Note(
+            model=COLLOCATION_MODEL,
+            fields=[html.escape(term), para(c["meaning"]), para(c["usage"]),
+                    f'<ol class="ex">{examples}</ol>'],
+            guid=genanki.guid_for("collocation", term),
+            tags=[c["domain"]],
         )
 
 
@@ -149,4 +232,6 @@ def build(deck_id, deck_name, data_file, notes, out_file):
 if __name__ == "__main__":
     build(1735200101, "English Vocabulary — Academic & Everyday", "english.json",
           english_notes, "English-Vocabulary.apkg")
+    build(1735200103, "English Collocations — Academic, Business & Everyday",
+          "collocations.json", collocation_notes, "English-Collocations.apkg")
     build(1735200102, "常用成语", "chengyu.json", chengyu_notes, "Chinese-Chengyu.apkg")

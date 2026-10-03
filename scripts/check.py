@@ -8,7 +8,7 @@ is not automatically an error.
 
 Notes listed in scripts/reviewed.txt were verified by hand and are not shown.
 
-Usage: python scripts/check.py [english|chengyu] [--strict]
+Usage: python scripts/check.py [english|collocations|chengyu] [--strict]
 """
 
 import json
@@ -20,7 +20,7 @@ from pathlib import Path
 import pronouncing
 from pypinyin import Style, pinyin
 
-from build import target_pattern
+from build import collocation_patterns, target_pattern
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -109,6 +109,9 @@ def check_english(cards, rep):
             rep.error(key, "duplicate word")
         seen.add(key)
 
+        if card.get("level") not in (None, "C1", "C2"):
+            rep.error(key, f"level must be C1 or C2: {card.get('level')}")
+
         examples = card.get("examples", [])
         if not MIN_EXAMPLES <= len(examples) <= MAX_EXAMPLES:
             rep.error(key, f"{len(examples)} examples (need {MIN_EXAMPLES}-{MAX_EXAMPLES})")
@@ -144,6 +147,40 @@ def check_english(cards, rep):
         if not any(c == count for c, _ in variants):
             rep.review(key, f"{count} syllables, CMU says "
                             f"{sorted({c for c, _ in variants})}: {ipa}")
+
+
+# ---------------------------------------------------------------- Collocations
+
+DOMAINS = ("academic", "business", "everyday")
+
+
+def check_collocations(cards, rep):
+    seen = set()
+    for card in cards:
+        key = card.get("collocation", "?")
+        for field in ("collocation", "domain", "meaning", "usage", "examples"):
+            if not card.get(field):
+                rep.error(key, f"missing field '{field}'")
+        if key.lower() in seen:
+            rep.error(key, "duplicate collocation")
+        seen.add(key.lower())
+        if card.get("domain") not in DOMAINS:
+            rep.error(key, f"domain must be one of {DOMAINS}")
+
+        examples = card.get("examples", [])
+        if not MIN_EXAMPLES <= len(examples) <= MAX_EXAMPLES:
+            rep.error(key, f"{len(examples)} examples (need {MIN_EXAMPLES}-{MAX_EXAMPLES})")
+        pats = collocation_patterns(key)
+        for n, ex in enumerate(examples, 1):
+            missing = [p.pattern for p in pats if not p.search(ex)]
+            if missing:
+                rep.review(key, f"example {n} may not contain the collocation: {ex}")
+
+        text = " ".join([card.get("meaning", ""), card.get("usage", "")] + examples)
+        if CJK.search(text):
+            rep.error(key, "Chinese characters in English content")
+        if VIETNAMESE.search(text):
+            rep.error(key, "Vietnamese letters in English content")
 
 
 # ---------------------------------------------------------------- Chinese
@@ -257,7 +294,8 @@ def check_chengyu(cards, rep):
 
 # ---------------------------------------------------------------- main
 
-DECKS = {"english": check_english, "chengyu": check_chengyu}
+DECKS = {"english": check_english, "collocations": check_collocations,
+         "chengyu": check_chengyu}
 
 
 def main(argv):

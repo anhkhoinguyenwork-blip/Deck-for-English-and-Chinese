@@ -41,3 +41,37 @@
 [胸有成竹] 例句3: '一' written yī, rule gives yì: 面对记者的提问，部长胸有成竹地一一作答。
 [胸有成竹] 例句3: '一' written yī, rule gives yí: 面对记者的提问，部长胸有成竹地一一作答。
 [量力而行] 例句2: polyphone '背' written bēi, pypinyin prefers bèi: 买房要量力而行，别给自己背上太重的贷款。
+[aspire] 3 syllables, CMU says [2]: /əˈspaɪə(r)/
+[contemporary] 4 syllables, CMU says [5]: /kənˈtemprəri/
+[cordial] 3 syllables, CMU says [2]: /ˈkɔːdiəl/
+[debris] primary stress on syllable 0, CMU says [1]: /ˈdebriː/
+[ingenious] 4 syllables, CMU says [3]: /ɪnˈdʒiːniəs/
+[invaluable] 5 syllables, CMU says [4]: /ɪnˈvæljuəbl/
+[overhaul] primary stress on syllable 2, CMU says [0]: /ˌəʊvəˈhɔːl/
+[oversee] primary stress on syllable 2, CMU says [0]: /ˌəʊvəˈsiː/
+[resilient] 4 syllables, CMU says [3]: /rɪˈzɪliənt/
+[rudimentary] 4 syllables, CMU says [5]: /ˌruːdɪˈmentri/
+[transient] 3 syllables, CMU says [2]: /ˈtrænziənt/
+[undertake] primary stress on syllable 2, CMU says [0]: /ˌʌndəˈteɪk/
+[voluntary] 3 syllables, CMU says [4]: /ˈvɒləntri/
+[nonchalant] primary stress on syllable 0, CMU says [2]: /ˈnɒnʃələnt/
+[sombre] not in CMU dict, check IPA by hand: /ˈsɒmbə(r)/
+[generalize] 3 syllables, CMU says [4]: /ˈdʒenrəlaɪz/
+[theoretical] primary stress on syllable 1, CMU says [2]: /ˌθɪəˈretɪkl/
+[theoretical] 4 syllables, CMU says [5]: /ˌθɪəˈretɪkl/
+[underpin] primary stress on syllable 2, CMU says [0]: /ˌʌndəˈpɪn/
+[thereby] primary stress on syllable 1, CMU says [0]: /ˌðeəˈbaɪ/
+[outsource] primary stress on syllable 0, CMU says [1]: /ˈaʊtsɔːs/
+[alienate] 4 syllables, CMU says [3]: /ˈeɪliəneɪt/
+[cliché] not in CMU dict, check IPA by hand: /ˈkliːʃeɪ/
+[heterogeneous] 6 syllables, CMU says [5]: /ˌhetərəˈdʒiːniəs/
+[impoverished] 4 syllables, CMU says [3]: /ɪmˈpɒvərɪʃt/
+[meagre] not in CMU dict, check IPA by hand: /ˈmiːgə(r)/
+[partisan] primary stress on syllable 2, CMU says [0]: /ˌpɑːtɪˈzæn/
+[qualm] not in CMU dict, check IPA by hand: /kwɑːm/
+[verbose] not in CMU dict, check IPA by hand: /vɜːˈbəʊs/
+[candour] not in CMU dict, check IPA by hand: /ˈkændə(r)/
+[sedentary] 3 syllables, CMU says [4]: /ˈsedntri/
+[superfluous] primary stress on syllable 1, CMU says [0]: /suːˈpɜːfluəs/
+[superfluous] 4 syllables, CMU says [3]: /suːˈpɜːfluəs/
+[acumen] primary stress on syllable 0, CMU says [1]: /ˈækjəmən/
