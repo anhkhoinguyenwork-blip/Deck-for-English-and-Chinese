@@ -1,7 +1,7 @@
 # Content Guidelines
 
-Rules for writing card content in the English decks (vocabulary and collocations)
-and the Chinese 成语 deck.
+Rules for writing card content in the English decks (vocabulary, collocations and
+chunks) and the Chinese decks (成语 and 语块).
 
 ## Language of explanations
 
@@ -121,7 +121,17 @@ Example:
   the English deck's language rules. Every example contains all of the collocation's
   content words. A form may vary (`made a mistake`, `my best`), and so may a
   placeholder such as `someone`.
+- English chunks: `Chunk`, `Meaning`, `Usage`, `Examples`, plus a `category` (an Anki
+  tag): `opinion`, `agreeing`, `hedging`, `linking`, `clarifying`, `requests`,
+  `social`, `conversation`, `academic` or `business`. Mark a slot with `…` and an
+  optional word with brackets: `I'd say (that) …`. Capitalize chunks that start a
+  sentence and drop the final full stop (keep `?` and `!`). Every example contains
+  the fixed parts exactly as written, in order. Do not repeat a collocation-deck entry.
 - Chinese: `成语`, `拼音`, `释义`, `用法`, `例句` (each 例句 has the sentence and its pinyin).
+- Chinese chunks (语块): `语块`, `拼音`, `释义`, `用法`, `例句`, plus a `类别` (an Anki tag):
+  关联词, 句式, 观点, 回应, 推测, 过渡, 书面, 交际, 口语 or 情绪. Mark a slot with ……
+  (虽然……但是……). Every 例句 contains the fixed parts exactly as written, in
+  order. Do not repeat a 成语-deck entry.
 - 4–6 example sentences per card, each containing the headword. Mix academic and
   everyday contexts.
 - Usage notes cover grammar patterns, collocations, register, nuance, and
@@ -141,8 +151,10 @@ Example:
 - Pinyin uses tone marks. 一 and 不 are written with their tone changes
   (yí ge, bú shì, yì zhī bàn jiě), but 一 keeps yī as a number or ordinal
   (dì yī, quē yī bù kě, jǔ yī fǎn sān). Neutral tones are unmarked (péngyou, kàn le).
-- Headword pinyin is spaced by syllable (yì jǔ liǎng dé); sentence pinyin is spaced
-  by word, starts with a capital letter, and mirrors the sentence's punctuation.
+- 成语 pinyin is spaced by syllable (yì jǔ liǎng dé). 语块 pinyin is spaced by word,
+  in lower case, and keeps the …… slots (suīrán …… dànshì ……). A 一 written before a
+  slot keeps yī. Sentence pinyin is spaced by word, starts with a capital letter, and
+  mirrors the sentence's punctuation, including quotation marks in dialogues.
 - 释义 and 用法 contain no Latin letters; use …… as a placeholder, not A/B.
 - Avoid 儿化 in example sentences, so that the pinyin stays unambiguous.
 

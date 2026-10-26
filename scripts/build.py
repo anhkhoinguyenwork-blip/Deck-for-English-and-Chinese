@@ -2,7 +2,7 @@
 
 Usage: python scripts/build.py
 Output: dist/English-Vocabulary.apkg, dist/English-Collocations.apkg,
-        dist/Chinese-Chengyu.apkg
+        dist/English-Chunks.apkg, dist/Chinese-Chengyu.apkg, dist/Chinese-Chunks.apkg
 
 Model, deck and note IDs are fixed, so re-importing an updated package
 updates existing notes instead of creating duplicates, and keeps review history.
@@ -107,23 +107,49 @@ CHENGYU_MODEL = genanki.Model(
 )
 
 
+CHUNK_MODEL = genanki.Model(
+    1735200004,
+    "English Chunk",
+    fields=[{"name": n} for n in ("Chunk", "Meaning", "Usage", "Examples")],
+    templates=[{
+        "name": "Recognition",
+        "qfmt": '<div class="head"><span class="term chunk">{{Chunk}}</span></div>',
+        "afmt": (
+            '{{FrontSide}}<hr id="answer">'
+            '<div class="label">Meaning</div><div>{{Meaning}}</div>'
+            '<div class="label">Usage</div><div>{{Usage}}</div>'
+            '<div class="label">Examples</div>{{Examples}}'
+        ),
+    }],
+    css=BASE_CSS + ".term.chunk { font-size: 30px; }",
+    sort_field_index=0,
+)
+
+YUKUAI_MODEL = genanki.Model(
+    1735200005,
+    "汉语语块",
+    fields=[{"name": n} for n in ("语块", "拼音", "释义", "用法", "例句")],
+    templates=[{
+        "name": "认读",
+        "qfmt": '<div class="head"><span class="term chunk">{{语块}}</span></div>',
+        "afmt": (
+            '{{FrontSide}}<div class="pron">{{拼音}}</div><hr id="answer">'
+            '<div class="label">释义</div><div>{{释义}}</div>'
+            '<div class="label">用法</div><div>{{用法}}</div>'
+            '<div class="label">例句</div>{{例句}}'
+        ),
+    }],
+    css=BASE_CSS + ZH_CSS + ".term.chunk { font-size: 38px; letter-spacing: .06em; }",
+    sort_field_index=0,
+)
+
+
 def para(text):
     return html.escape(text).replace("\n", "<br>")
 
 
 def bold(text, pattern):
     return pattern.sub(lambda m: f"<b>{m.group(0)}</b>", html.escape(text))
-
-
-def target_pattern(word):
-    """Match a headword and its inflected forms: cope/coping, imply/implied."""
-    if word.endswith("ing"):
-        stem = word[:-3]
-    elif word[-1] in "ey" and len(word) > 3:
-        stem = word[:-1]
-    else:
-        stem = word
-    return re.compile(r"\b" + re.escape(stem) + r"\w*", re.IGNORECASE)
 
 
 # Function words that are not highlighted or required in collocation examples.
@@ -176,6 +202,59 @@ def collocation_patterns(colloc):
     return [target_pattern(w) for w in collocation_words(colloc)]
 
 
+def chunk_segments(chunk, slot):
+    """Fixed parts of a chunk: 'Not only … but also …' -> ['Not only', 'but also'].
+
+    Words in brackets are optional and not required: 'I'd say (that) …'.
+    """
+    chunk = re.sub(r"\([^)]*\)", "", chunk)
+    parts = (p.strip(" ,.?!，。？！") for p in chunk.split(slot))
+    return [p for p in parts if p]
+
+
+def english_chunk_patterns(chunk):
+    pats = []
+    for seg in chunk_segments(chunk, "…"):
+        words = [re.escape(w).replace("'", "['’]") for w in seg.split()]
+        pats.append(re.compile(r"(?<![\w'])" + r"\s+".join(words) + r"(?![\w'])", re.IGNORECASE))
+    return pats
+
+
+def chinese_chunk_patterns(chunk):
+    return [re.compile(re.escape(seg)) for seg in chunk_segments(chunk, "……")]
+
+
+def chunk_spans(text, patterns):
+    """Spans of the chunk's fixed parts, in order, or None if a part is missing.
+
+    Picks the tightest match, so 在……方面 marks the 在 next to 方面, not the
+    one in 现在 earlier in the sentence.
+    """
+    best = None
+    first, rest = patterns[0], patterns[1:]
+    for m in first.finditer(text):
+        spans, pos = [m.span()], m.end()
+        for p in rest:
+            n = p.search(text, pos)
+            if not n:
+                break
+            spans.append(n.span())
+            pos = n.end()
+        else:
+            if best is None or spans[-1][1] - spans[0][0] < best[-1][1] - best[0][0]:
+                best = spans
+    return best
+
+
+def bold_spans(text, spans):
+    out, pos = [], 0
+    for a, b in spans or []:
+        out += [html.escape(text[pos:a]), "<b>", html.escape(text[a:b]), "</b>"]
+        pos = b
+    out.append(html.escape(text[pos:]))
+    return "".join(out)
+
+
 def english_notes(cards):
     for c in cards:
         word = c["word"]
@@ -201,6 +280,39 @@ def collocation_notes(cards):
                     f'<ol class="ex">{examples}</ol>'],
             guid=genanki.guid_for("collocation", term),
             tags=[c["domain"]],
+        )
+
+
+def chunk_notes(cards):
+    for c in cards:
+        term = c["chunk"]
+        pats = english_chunk_patterns(term)
+        examples = "".join(f"<li>{bold_spans(e, chunk_spans(e, pats))}</li>"
+                           for e in c["examples"])
+        yield genanki.Note(
+            model=CHUNK_MODEL,
+            fields=[html.escape(term), para(c["meaning"]), para(c["usage"]),
+                    f'<ol class="ex">{examples}</ol>'],
+            guid=genanki.guid_for("chunk", term),
+            tags=[c["category"]],
+        )
+
+
+def yukuai_notes(cards):
+    for c in cards:
+        term = c["语块"]
+        pats = chinese_chunk_patterns(term)
+        examples = "".join(
+            f'<li><div>{bold_spans(e["zh"], chunk_spans(e["zh"], pats))}</div>'
+            f'<div class="py">{html.escape(e["py"])}</div></li>'
+            for e in c["例句"]
+        )
+        yield genanki.Note(
+            model=YUKUAI_MODEL,
+            fields=[html.escape(term), html.escape(c["拼音"]), para(c["释义"]),
+                    para(c["用法"]), f'<ol class="ex">{examples}</ol>'],
+            guid=genanki.guid_for("yukuai", term),
+            tags=[c["类别"]],
         )
 
 
@@ -235,4 +347,7 @@ if __name__ == "__main__":
           english_notes, "English-Vocabulary.apkg")
     build(1735200103, "English Collocations — Academic, Business & Everyday",
           "collocations.json", collocation_notes, "English-Collocations.apkg")
+    build(1735200104, "English Chunks — Spoken & Written", "chunks.json", chunk_notes,
+          "English-Chunks.apkg")
     build(1735200102, "常用成语", "chengyu.json", chengyu_notes, "Chinese-Chengyu.apkg")
+    build(1735200105, "常用语块", "yukuai.json", yukuai_notes, "Chinese-Chunks.apkg")

@@ -77,3 +77,75 @@
 [acumen] primary stress on syllable 0, CMU says [1]: /ˈækjəmən/
 [play a key role] example 2 may not contain the collocation: Exercise plays a vital role in mental health.
 [play a key role] example 4 may not contain the collocation: Technology will play a crucial role in fighting climate change.
+[无论……都……] 例句3: polyphone '还' written hái, pypinyin prefers huán: 无论是学生还是老师，都对这个决定表示支持。
+[不管……都……] 例句2: polyphone '都' written dōu, pypinyin prefers dū: 不管多晚，妈妈都会等我回家。
+[一……就……] 拼音: '一' written yī, rule gives yí: 一……就……
+[由于……因此……] 例句3: polyphone '为' written wéi, pypinyin prefers wèi: 由于他表现出色，因此被提拔为部门经理。
+[以……为……] 例句2: polyphone '为' written wéi, pypinyin prefers wèi: 我们的服务以客户为中心。
+[以……为……] 例句3: polyphone '为' written wéi, pypinyin prefers wèi: 父母一直以她为荣。
+[以……为……] 例句4: polyphone '为' written wéi, pypinyin prefers wèi: 这家餐厅的菜以清淡为特色。
+[为了……而……] 例句2: polyphone '为' written wèi, pypinyin prefers wéi: 很多人为了工作而离开家乡。
+[给……带来……] 例句3: polyphone '场' written cháng, pypinyin prefers chǎng: 这场大雨给交通带来了很大影响。
+[对……产生……影响] 例句1: polyphone '长' written cháng, pypinyin prefers zhǎng: 长时间看手机会对视力产生影响。
+[再……也……] 例句2: polyphone '得' written děi, pypinyin prefers dé: 这件事再难也得做下去。
+[说句不好听的] 例句2: polyphone '当' written dàng, pypinyin prefers dāng: 说句不好听的，他根本没把你当朋友。
+[我比较倾向于] 例句1: '一' written yī, rule gives yí: 这两个方案我比较倾向于第一个。
+[问题是] 例句3: polyphone '谁' written shéi, pypinyin prefers shuí: 问题是，谁来负责这件事？
+[谁说不是呢] 拼音: polyphone '谁' written shéi, pypinyin prefers shuí: 谁说不是呢
+[谁说不是呢] 例句1: polyphone '谁' written shéi, pypinyin prefers shuí: “现在找工作太难了。”“谁说不是呢！”
+[谁说不是呢] 例句2: polyphone '谁' written shéi, pypinyin prefers shuí: “孩子长得真快啊。”“谁说不是呢，一转眼都上大学了。”
+[谁说不是呢] 例句3: polyphone '谁' written shéi, pypinyin prefers shuí: “东西越来越贵了。”“谁说不是呢，工资可没涨。”
+[谁说不是呢] 例句4: polyphone '谁' written shéi, pypinyin prefers shuí: “早知道就不来了。”“谁说不是呢。”
+[那当然] 例句4: '一' written yī, rule gives yí: “你还记得我们第一次见面吗？”“那当然，怎么会忘呢？”
+[那倒是] 拼音: polyphone '倒' written dào, pypinyin prefers dǎo: 那倒是
+[那倒是] 例句1: polyphone '倒' written dào, pypinyin prefers dǎo: “这家店虽然远，但是东西便宜。”“那倒是。”
+[那倒是] 例句2: polyphone '倒' written dào, pypinyin prefers dǎo: “他经验多。”“那倒是，不过他太固执了。”
+[那倒是] 例句3: polyphone '倒' written dào, pypinyin prefers dǎo: “坐高铁比坐飞机方便。”“那倒是，可是时间长一点。”
+[那倒是] 例句3: polyphone '长' written cháng, pypinyin prefers zhǎng: “坐高铁比坐飞机方便。”“那倒是，可是时间长一点。”
+[那倒是] 例句4: polyphone '倒' written dào, pypinyin prefers dǎo: “早点出发就不会堵车了。”“那倒是，下次注意。”
+[话是这么说] 例句4: polyphone '谁' written shéi, pypinyin prefers shuí: 话是这么说，可谁也不想第一个站出来。
+[话是这么说] 例句4: '一' written yī, rule gives yí: 话是这么说，可谁也不想第一个站出来。
+[我明白你的意思] 例句1: polyphone '得' written děi, pypinyin prefers dé: 我明白你的意思，不过我们还得考虑成本。
+[这个嘛] 例句2: polyphone '得' written děi, pypinyin prefers dé: 这个嘛，我得问问我太太。
+[看样子] 例句4: polyphone '得' written děi, pypinyin prefers dé: 看样子，我们得重新开始了。
+[看来] 例句3: polyphone '得' written děi, pypinyin prefers dé: 看来我们得换个办法了。
+[估计] 例句2: polyphone '干' written gàn, pypinyin prefers gān: 这么多活，估计今天干不完。
+[万一] 例句1: '一' written yī, rule gives yí: 万一下雨怎么办？
+[万一] 例句2: '一' written yī, rule gives yí: 多带点钱吧，万一不够用呢。
+[万一] 例句3: '一' written yī, rule gives yì: 万一他不同意，我们还有别的办法吗？
+[好像……似的] 例句1: polyphone '中' written zhòng, pypinyin prefers zhōng: 他高兴得好像中了大奖似的。
+[难免] 例句1: '一' written yī, rule gives yí: 第一次做，难免会出错。
+[难免] 例句3: polyphone '难' written nán, pypinyin prefers nàn: 工作压力大，难免心情不好。
+[算是] 例句3: '一' written yī, rule gives yì: 虽然没拿到第一名，也算是不错的成绩。
+[一来……二来……] 拼音: '一' written yī, rule gives yì: 一来……二来……
+[一来……二来……] 例句1: '一' written yī, rule gives yì: 我搬到这里，一来离公司近，二来房租便宜。
+[一来……二来……] 例句2: '一' written yī, rule gives yì: 这次出差一来是开会，二来是看看老朋友。
+[一来……二来……] 例句3: '一' written yī, rule gives yì: 每天走路上班，一来可以锻炼身体，二来可以省钱。
+[一来……二来……] 例句4: '一' written yī, rule gives yì: 我不想去，一来太远，二来也没时间。
+[回到正题] 例句4: polyphone '谁' written shéi, pypinyin prefers shuí: 刚才聊得太远了，回到正题，下周的活动谁负责？
+[说起来] 例句4: '一' written yī, rule gives yí: 说起来，这还是我第一次来上海。
+[这样一来] 例句1: polyphone '长' written cháng, pypinyin prefers zhǎng: 公司搬到了郊区，这样一来，我每天上班要花更长时间。
+[于是] 例句1: polyphone '待' written dāi, pypinyin prefers dài: 天下起了大雨，于是我们决定待在家里。
+[相反] 例句4: '一' written yī, rule gives yí: 我以为他会反对，相反，他第一个表示支持。
+[值得注意的是] 例句4: polyphone '少' written shǎo, pypinyin prefers shào: 值得注意的是，今年报名的人数比去年少了很多。
+[以……为例] 例句1: polyphone '为' written wéi, pypinyin prefers wèi: 以北京为例，近年来房价上涨了很多。
+[以……为例] 例句2: polyphone '为' written wéi, pypinyin prefers wèi: 以我们班为例，大部分同学都有出国的打算。
+[以……为例] 例句3: polyphone '为' written wéi, pypinyin prefers wèi: 以手机为例，更新换代的速度越来越快。
+[以……为例] 例句4: polyphone '为' written wéi, pypinyin prefers wèi: 我们以这家公司为例，来分析一下成功的原因。
+[尽管如此] 例句1: polyphone '尽' written jìn, pypinyin prefers jǐn: 这次比赛我们输了。尽管如此，大家都尽了最大的努力。
+[请多指教] 例句2: '一' written yī, rule gives yì: 这是我的第一本书，请多指教。
+[没想到] 例句4: polyphone '谁' written shéi, pypinyin prefers shuí: 谁也没想到比赛会是这个结果。
+[没办法] 例句4: polyphone '谁' written shéi, pypinyin prefers shuí: 没办法，谁让我答应了他呢。
+[用不着] 拼音: polyphone '着' written zháo, pypinyin prefers zhe: 用不着
+[用不着] 例句1: polyphone '着' written zháo, pypinyin prefers zhe: 这点小事用不着麻烦你。
+[用不着] 例句2: polyphone '着' written zháo, pypinyin prefers zhe: 你用不着担心，我会照顾好自己的。
+[用不着] 例句3: polyphone '着' written zháo, pypinyin prefers zhe: 离得这么近，用不着打车。
+[用不着] 例句4: polyphone '着' written zháo, pypinyin prefers zhe: 大家都是朋友，用不着这么客气。
+[有两下子] 例句4: polyphone '弹' written tán, pypinyin prefers dàn: 能把这么难的曲子弹好，她确实有两下子。
+[开什么玩笑] 例句1: polyphone '谁' written shéi, pypinyin prefers shuí: 开什么玩笑，这么贵谁会买？
+[我服了] 例句1: polyphone '都' written dōu, pypinyin prefers dū: 你连这个都会？我服了。
+[至于吗] 例句2: polyphone '场' written chǎng, pypinyin prefers cháng: 不就是输了一场比赛吗？至于吗？
+[活该] 例句4: polyphone '谁' written shéi, pypinyin prefers shuí: 谁让你不带伞，淋湿了也活该。
+[可惜了] 例句2: '不' written bù, rule gives bú: 他这么有才华，不当演员可惜了。
+[可惜了] 例句2: polyphone '当' written dāng, pypinyin prefers dàng: 他这么有才华，不当演员可惜了。
+[没劲] 例句2: polyphone '待' written dāi, pypinyin prefers dài: 天天在家待着，太没劲了。

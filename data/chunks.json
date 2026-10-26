@@ -1,0 +1,3602 @@
+[
+  {
+    "chunk": "If you ask me, …",
+    "category": "opinion",
+    "meaning": "Introduces your personal opinion, often one that is direct or slightly critical.",
+    "usage": "Informal and spoken. Usually at the start of a sentence, but it can also come at the end: \"It's far too expensive, if you ask me.\"",
+    "examples": [
+      "If you ask me, the film was far too long.",
+      "If you ask me, they should have hired someone with more experience.",
+      "The new timetable makes no sense, if you ask me.",
+      "If you ask me, he's not as confident as he looks."
+    ]
+  },
+  {
+    "chunk": "As far as I'm concerned, …",
+    "category": "opinion",
+    "meaning": "Signals that what follows is your own opinion, especially when others may see it differently.",
+    "usage": "Neutral register. Often sounds firm or slightly defensive. Do not confuse it with \"as far as … is concerned\", which means \"on the subject of\".",
+    "examples": [
+      "As far as I'm concerned, the matter is closed.",
+      "As far as I'm concerned, you can leave whenever you like.",
+      "As far as I'm concerned, honesty matters more than talent.",
+      "He can say what he wants; as far as I'm concerned, the decision was fair."
+    ]
+  },
+  {
+    "chunk": "To be honest, …",
+    "category": "opinion",
+    "meaning": "Introduces a frank opinion or admission, often one the listener may not want to hear.",
+    "usage": "Very common in speech. Often softens criticism or a confession. Informal variant: \"To be honest with you\". Overusing it can make you sound as if you are not usually honest.",
+    "examples": [
+      "To be honest, I didn't enjoy the party much.",
+      "To be honest, I haven't started the essay yet.",
+      "I'm not really sure, to be honest.",
+      "To be honest, I think we need a completely different approach."
+    ]
+  },
+  {
+    "chunk": "The way I see it, …",
+    "category": "opinion",
+    "meaning": "Introduces your interpretation of a situation.",
+    "usage": "Informal to neutral. Suggests that you have thought the matter through. Similar: \"As I see it\".",
+    "examples": [
+      "The way I see it, we have two options.",
+      "The way I see it, the problem isn't money but time.",
+      "The way I see it, nobody is completely to blame.",
+      "The way I see it, you've got nothing to lose by applying."
+    ]
+  },
+  {
+    "chunk": "I'd say …",
+    "category": "opinion",
+    "meaning": "Gives a cautious opinion or estimate.",
+    "usage": "Common in speech and less forceful than \"I think\". Often used for estimates: \"I'd say about fifty people came.\" Often followed by \"that\".",
+    "examples": [
+      "I'd say the second option is slightly better.",
+      "I'd say there were about two hundred people there.",
+      "I'd say she's in her early forties.",
+      "If you want my advice, I'd say wait until the price drops."
+    ]
+  },
+  {
+    "chunk": "It seems to me that …",
+    "category": "opinion",
+    "meaning": "Presents an opinion as a personal impression rather than a fact.",
+    "usage": "Polite and slightly tentative, so it suits discussions and meetings. Can also end a sentence: \"…, it seems to me.\"",
+    "examples": [
+      "It seems to me that we're rushing this decision.",
+      "It seems to me that the real issue is communication.",
+      "It seems to me that he's not really interested in the job.",
+      "It seems to me that the plan has more risks than benefits."
+    ]
+  },
+  {
+    "chunk": "From my point of view, …",
+    "category": "opinion",
+    "meaning": "Introduces an opinion based on your own position or experience.",
+    "usage": "Neutral and common in discussions and essays. Often stresses your particular role: \"From a teacher's point of view, …\". Avoid the mixed form \"in my point of view\".",
+    "examples": [
+      "From my point of view, the new system works much better.",
+      "From my point of view, the meeting was a complete waste of time.",
+      "From my point of view, the main benefit is flexibility.",
+      "From my point of view, it would be unfair to change the rules now."
+    ]
+  },
+  {
+    "chunk": "In my experience, …",
+    "category": "opinion",
+    "meaning": "Bases an opinion or generalization on what has happened to you personally.",
+    "usage": "Makes a claim sound grounded rather than theoretical. Works in both speech and writing.",
+    "examples": [
+      "In my experience, people work harder when they feel trusted.",
+      "In my experience, the cheapest option is rarely the best.",
+      "In my experience, language learners improve fastest when they travel.",
+      "In my experience, those meetings never finish on time."
+    ]
+  },
+  {
+    "chunk": "To my mind, …",
+    "category": "opinion",
+    "meaning": "Introduces your opinion.",
+    "usage": "Slightly formal and more common in British English. Suits both speech and writing.",
+    "examples": [
+      "To my mind, this is the best novel she has written.",
+      "To my mind, the decision was taken far too quickly.",
+      "To my mind, there's nothing wrong with changing your plans.",
+      "To my mind, the city has lost a lot of its character."
+    ]
+  },
+  {
+    "chunk": "I tend to think …",
+    "category": "opinion",
+    "meaning": "Expresses a general or mild opinion rather than a strong conviction.",
+    "usage": "Softer than \"I think\" and useful for disagreeing politely. Often followed by \"that\".",
+    "examples": [
+      "I tend to think that people are basically good.",
+      "I tend to think small schools are better for younger children.",
+      "I tend to think the problem is exaggerated.",
+      "Personally, I tend to think he made the right choice."
+    ]
+  },
+  {
+    "chunk": "I'm convinced that …",
+    "category": "opinion",
+    "meaning": "States an opinion you hold with complete certainty.",
+    "usage": "Strong and confident. Weaker alternatives: \"I'm fairly sure that\", \"I suspect that\".",
+    "examples": [
+      "I'm convinced that he's telling the truth.",
+      "I'm convinced that this approach will save us money.",
+      "Whatever the experts say, I'm convinced that the test results were wrong.",
+      "I'm convinced that we'll look back on this as a turning point."
+    ]
+  },
+  {
+    "chunk": "I strongly believe that …",
+    "category": "opinion",
+    "meaning": "Expresses a firm opinion, often one about values or principles.",
+    "usage": "Common in debates, speeches and opinion essays. \"Firmly believe\" is a close alternative.",
+    "examples": [
+      "I strongly believe that education should be free.",
+      "I strongly believe that everyone deserves a second chance.",
+      "I strongly believe that the policy will harm small businesses.",
+      "I strongly believe that children learn best through play."
+    ]
+  },
+  {
+    "chunk": "I have a feeling …",
+    "category": "opinion",
+    "meaning": "Expresses an intuition or suspicion that you cannot fully justify.",
+    "usage": "Often followed by \"that\". Common variants: \"I've got a feeling\" and \"I have a funny feeling\", for a slightly worrying suspicion.",
+    "examples": [
+      "I have a feeling we've met before.",
+      "I have a feeling that it's going to rain later.",
+      "I have a feeling she won't accept the offer.",
+      "I have a feeling something's wrong; she hasn't replied all day."
+    ]
+  },
+  {
+    "chunk": "My gut feeling is that …",
+    "category": "opinion",
+    "meaning": "Introduces an instinctive judgement rather than a reasoned one.",
+    "usage": "Informal. Often used when there is not enough information to be sure. Related: \"go with your gut\", meaning to trust your instinct.",
+    "examples": [
+      "My gut feeling is that we should wait.",
+      "My gut feeling is that he's hiding something.",
+      "I can't prove it, but my gut feeling is that the deal will fall through.",
+      "My gut feeling is that the second candidate is a better fit."
+    ]
+  },
+  {
+    "chunk": "I can't help thinking …",
+    "category": "opinion",
+    "meaning": "Expresses a thought or doubt that you cannot ignore, even if you would like to.",
+    "usage": "Often introduces a mild criticism or worry. Followed by \"(that)\" and a clause. Similar: \"I can't help feeling\".",
+    "examples": [
+      "I can't help thinking we've made a mistake.",
+      "I can't help thinking that she deserved the promotion more.",
+      "I can't help thinking there's more to this story.",
+      "I can't help thinking that the price is a little too good to be true."
+    ]
+  },
+  {
+    "chunk": "I'm all for …",
+    "category": "opinion",
+    "meaning": "Shows strong support for an idea, often before adding a reservation.",
+    "usage": "Informal. Followed by a noun or -ing form. Often followed by \"but\": \"I'm all for saving money, but …\".",
+    "examples": [
+      "I'm all for working from home, but I miss my colleagues.",
+      "I'm all for new ideas, as long as they're practical.",
+      "If it helps the environment, I'm all for it.",
+      "I'm all for giving young people more responsibility."
+    ]
+  },
+  {
+    "chunk": "I'm not a big fan of …",
+    "category": "opinion",
+    "meaning": "A mild, polite way to say that you do not like something.",
+    "usage": "Informal. Softer than \"I don't like\". Followed by a noun or -ing form.",
+    "examples": [
+      "I'm not a big fan of horror films.",
+      "I'm not a big fan of working late.",
+      "To be honest, I'm not a big fan of open-plan offices.",
+      "I'm not a big fan of spicy food, so I'll have the soup."
+    ]
+  },
+  {
+    "chunk": "I'd rather … than …",
+    "category": "opinion",
+    "meaning": "Expresses a preference for one action over another.",
+    "usage": "Followed by a bare infinitive: \"I'd rather walk than drive.\" The \"than\" part can be omitted when it is clear. Note the past form with another subject: \"I'd rather you didn't.\"",
+    "examples": [
+      "I'd rather stay in tonight than go to a noisy bar.",
+      "I'd rather pay a bit more than wait three weeks.",
+      "I'd rather work alone than in a big group.",
+      "Honestly, I'd rather do it myself than explain it to someone else."
+    ]
+  },
+  {
+    "chunk": "There's no point in …",
+    "category": "opinion",
+    "meaning": "Says that an action would be useless or achieve nothing.",
+    "usage": "Followed by an -ing form. Also: \"There's no point (in) arguing about it.\" Related: \"What's the point of …?\".",
+    "examples": [
+      "There's no point in arguing about it now.",
+      "There's no point in buying a car if you never drive.",
+      "There's no point in worrying about things you can't change.",
+      "There's no point in waiting; the bus has already gone."
+    ]
+  },
+  {
+    "chunk": "I don't see the point of …",
+    "category": "opinion",
+    "meaning": "Expresses doubt that something is useful or worth doing.",
+    "usage": "Followed by a noun or -ing form. Can sound critical or dismissive.",
+    "examples": [
+      "I don't see the point of having a meeting if nobody prepares.",
+      "I don't see the point of buying expensive trainers.",
+      "I don't see the point of the new rules.",
+      "I don't see the point of learning grammar rules by heart."
+    ]
+  },
+  {
+    "chunk": "What I like about … is …",
+    "category": "opinion",
+    "meaning": "Focuses attention on the feature you appreciate most in something.",
+    "usage": "A cleft sentence that puts emphasis on the final part. Also: \"What I don't like about … is …\".",
+    "examples": [
+      "What I like about this city is that everything is within walking distance.",
+      "What I like about her teaching is that she's so patient.",
+      "What I like about the job is the variety.",
+      "What I like about living alone is the freedom."
+    ]
+  },
+  {
+    "chunk": "The problem with … is …",
+    "category": "opinion",
+    "meaning": "Introduces the main weakness or drawback of something.",
+    "usage": "Very common in discussion. Usually followed by \"that\" and a clause, or by a noun.",
+    "examples": [
+      "The problem with this plan is that it's too expensive.",
+      "The problem with social media is that it's so addictive.",
+      "The problem with cheap shoes is they don't last.",
+      "The problem with him is that he never listens."
+    ]
+  },
+  {
+    "chunk": "What's your take on …?",
+    "category": "opinion",
+    "meaning": "Asks for someone's opinion or interpretation.",
+    "usage": "Informal and conversational. A \"take\" is a particular view of something.",
+    "examples": [
+      "What's your take on the new manager?",
+      "What's your take on the election results?",
+      "Before we decide, what's your take on the budget?",
+      "So, what's your take on remote working?"
+    ]
+  },
+  {
+    "chunk": "What do you make of …?",
+    "category": "opinion",
+    "meaning": "Asks someone how they understand or judge something, often something puzzling.",
+    "usage": "Informal. Often used about surprising behaviour or news. Answer pattern: \"I don't know what to make of it.\"",
+    "examples": [
+      "What do you make of his sudden resignation?",
+      "What do you make of the new design?",
+      "What do you make of these results?",
+      "She left without saying goodbye. What do you make of that?"
+    ]
+  },
+  {
+    "chunk": "How do you feel about …?",
+    "category": "opinion",
+    "meaning": "Asks for someone's opinion or emotional reaction to something.",
+    "usage": "Polite and open. Often used before a proposal: \"How do you feel about starting earlier?\" Followed by a noun or -ing form.",
+    "examples": [
+      "How do you feel about moving to another city?",
+      "How do you feel about the changes to the course?",
+      "How do you feel about working at weekends?",
+      "How do you feel about the idea of a four-day week?"
+    ]
+  },
+  {
+    "chunk": "Where do you stand on …?",
+    "category": "opinion",
+    "meaning": "Asks for someone's position on an issue, often a controversial one.",
+    "usage": "Common with political, ethical or social topics. Answer: \"I'm firmly against it\" or \"I'm in favour\".",
+    "examples": [
+      "Where do you stand on nuclear power?",
+      "Where do you stand on the issue of school uniforms?",
+      "Before we vote, where do you stand on this?",
+      "Where do you stand on raising the minimum wage?"
+    ]
+  },
+  {
+    "chunk": "I'm of the opinion that …",
+    "category": "opinion",
+    "meaning": "States an opinion in a formal way.",
+    "usage": "Formal and slightly old-fashioned in conversation. It suits debates, letters and formal discussions.",
+    "examples": [
+      "I'm of the opinion that the project should be postponed.",
+      "I'm of the opinion that exams are not the best way to assess students.",
+      "Having read the report, I'm of the opinion that further funding is justified.",
+      "I'm of the opinion that we should consult the staff first."
+    ]
+  },
+  {
+    "chunk": "It's worth …",
+    "category": "opinion",
+    "meaning": "Says that something is useful, valuable or deserves the effort.",
+    "usage": "Followed by an -ing form (\"It's worth visiting\") or a noun (\"It's worth a try\"). Also: \"It's worth it\" and, for emphasis, \"well worth\".",
+    "examples": [
+      "It's worth checking the reviews before you book.",
+      "The museum is small, but it's worth a visit.",
+      "It's worth asking whether there's a student discount.",
+      "It was expensive, but it's worth every penny."
+    ]
+  },
+  {
+    "chunk": "Personally, I think …",
+    "category": "opinion",
+    "meaning": "Marks an opinion clearly as your own, often in contrast to what others think.",
+    "usage": "Common in discussions. \"Personally\" is usually followed by a comma in writing.",
+    "examples": [
+      "Personally, I think the book is better than the film.",
+      "Personally, I think we should wait another year.",
+      "Personally, I think it's a great idea, but not everyone agrees.",
+      "Personally, I think honesty is the most important quality in a friend."
+    ]
+  },
+  {
+    "chunk": "I've always thought …",
+    "category": "opinion",
+    "meaning": "Expresses a long-held belief or view.",
+    "usage": "Often introduces an opinion that has just been confirmed or challenged. Often followed by \"that\".",
+    "examples": [
+      "I've always thought that she'd make a great teacher.",
+      "I've always thought it was a strange rule.",
+      "I've always thought London was too expensive, and I still do.",
+      "I've always thought people underestimate how hard that job is."
+    ]
+  },
+  {
+    "chunk": "I couldn't agree more",
+    "category": "agreeing",
+    "meaning": "Expresses complete agreement.",
+    "usage": "Despite the negative form, it means “I agree completely”. Neutral register and suitable for meetings. Can be followed by “with you” or “with what you said”.",
+    "examples": [
+      "“We need more time to prepare.” “I couldn't agree more.”",
+      "I couldn't agree more with what Sarah just said.",
+      "“Exercise is the best medicine.” “I couldn't agree more.”",
+      "I couldn't agree more; the system needs a complete overhaul."
+    ]
+  },
+  {
+    "chunk": "You can say that again",
+    "category": "agreeing",
+    "meaning": "Expresses strong agreement, usually with a complaint or obvious truth.",
+    "usage": "Informal and spoken. Usually a reply to a comment about something unpleasant, such as weather, prices or tiredness.",
+    "examples": [
+      "“It's freezing today.” “You can say that again!”",
+      "“That exam was brutal.” “You can say that again.”",
+      "“Rents in this city are ridiculous.” “You can say that again.”",
+      "“He talks a lot, doesn't he?” “You can say that again.”"
+    ]
+  },
+  {
+    "chunk": "Tell me about it",
+    "category": "agreeing",
+    "meaning": "Shows that you know exactly what someone means because you have experienced it too.",
+    "usage": "Informal and spoken, said with falling intonation. It does not ask for more information; it signals shared frustration.",
+    "examples": [
+      "“The traffic was awful this morning.” “Tell me about it. I was stuck for an hour.”",
+      "“Teenagers can be so moody.” “Tell me about it. I've got three.”",
+      "“This printer never works.” “Tell me about it.”",
+      "“I'm exhausted.” “Tell me about it. I've been up since five.”"
+    ]
+  },
+  {
+    "chunk": "I'm with you on that",
+    "category": "agreeing",
+    "meaning": "Says that you share someone's opinion on a particular point.",
+    "usage": "Informal to neutral. Often used to agree with one point while staying neutral about others.",
+    "examples": [
+      "“We should ask for feedback earlier.” “I'm with you on that.”",
+      "I'm with you on that; the deadline is unrealistic.",
+      "“The rules are too complicated.” “I'm with you on that one.”",
+      "I'm with you on that, but I'm not sure the others will agree."
+    ]
+  },
+  {
+    "chunk": "That's exactly what I was thinking",
+    "category": "agreeing",
+    "meaning": "Says that someone has expressed the same idea you had.",
+    "usage": "Informal and enthusiastic. Variant: “That's just what I was thinking.”",
+    "examples": [
+      "“Shall we just order pizza?” “That's exactly what I was thinking.”",
+      "“Maybe the problem is the software, not the computer.” “That's exactly what I was thinking.”",
+      "That's exactly what I was thinking when I read the report.",
+      "“We should leave early to avoid the traffic.” “That's exactly what I was thinking.”"
+    ]
+  },
+  {
+    "chunk": "You've got a point",
+    "category": "agreeing",
+    "meaning": "Admits that what someone has said is reasonable, often after you initially disagreed.",
+    "usage": "Informal. Often followed by “there”. More formal: “You have a point.”",
+    "examples": [
+      "“It would be cheaper to take the train.” “You've got a point there.”",
+      "You've got a point; we haven't really considered the cost.",
+      "“Maybe she didn't get your message.” “Hmm, you've got a point.”",
+      "I suppose you've got a point, but I still don't like the idea."
+    ]
+  },
+  {
+    "chunk": "Fair point",
+    "category": "agreeing",
+    "meaning": "Accepts that someone's argument or objection is reasonable.",
+    "usage": "Informal and concise. Often used to concede a point in a discussion. Also: “That's a fair point.”",
+    "examples": [
+      "“We can't afford to hire anyone else.” “Fair point.”",
+      "Fair point, but we still need someone to manage the project.",
+      "“You haven't asked her what she thinks.” “That's a fair point.”",
+      "Fair point; I hadn't thought about the time difference."
+    ]
+  },
+  {
+    "chunk": "I'd go along with that",
+    "category": "agreeing",
+    "meaning": "Agrees with a suggestion or view, often without great enthusiasm.",
+    "usage": "Neutral. Often signals acceptance rather than strong support: you are willing to accept it.",
+    "examples": [
+      "“Let's meet on Thursday instead.” “I'd go along with that.”",
+      "If everyone else is happy, I'd go along with that.",
+      "I'd go along with that, as long as the budget stays the same.",
+      "“The second design is clearer.” “Yes, I'd go along with that.”"
+    ]
+  },
+  {
+    "chunk": "I suppose you're right",
+    "category": "agreeing",
+    "meaning": "Agrees reluctantly, often after some resistance.",
+    "usage": "Signals that you accept the argument but are not happy about it. Variant: “I guess you're right.”",
+    "examples": [
+      "“You need to rest, not go to the gym.” “I suppose you're right.”",
+      "I suppose you're right; it's too late to change the plan now.",
+      "“It's not worth fixing that old laptop.” “I suppose you're right.”",
+      "I suppose you're right, but I'll miss the old office."
+    ]
+  },
+  {
+    "chunk": "There's some truth in that",
+    "category": "agreeing",
+    "meaning": "Accepts part of an argument while suggesting it is not the whole picture.",
+    "usage": "Diplomatic partial agreement. Often followed by “but”. Stronger: “There's a lot of truth in that.”",
+    "examples": [
+      "“Social media makes people lonelier.” “There's some truth in that.”",
+      "There's some truth in that, but it's not the only reason.",
+      "“Exams only test memory.” “Well, there's some truth in that.”",
+      "I think there's some truth in that, although the data is mixed."
+    ]
+  },
+  {
+    "chunk": "I see what you mean, but …",
+    "category": "agreeing",
+    "meaning": "Shows that you understand someone's view before politely disagreeing.",
+    "usage": "A standard way to soften disagreement in conversation and meetings.",
+    "examples": [
+      "I see what you mean, but I think the risks are too high.",
+      "I see what you mean, but that's not quite what happened.",
+      "I see what you mean, but we've tried that before.",
+      "I see what you mean, but not everyone can afford to travel."
+    ]
+  },
+  {
+    "chunk": "I take your point, but …",
+    "category": "agreeing",
+    "meaning": "Accepts that someone has made a valid argument before introducing an objection.",
+    "usage": "Neutral to formal and common in meetings and debates. Also: “Point taken.”",
+    "examples": [
+      "I take your point, but we can't delay the launch again.",
+      "I take your point, but the figures tell a different story.",
+      "I take your point, but I still think we should ask the client first.",
+      "I take your point, but safety has to come first."
+    ]
+  },
+  {
+    "chunk": "That may be true, but …",
+    "category": "agreeing",
+    "meaning": "Concedes that a statement could be correct while arguing that it is not decisive.",
+    "usage": "Common in discussions and essays. Variant: “That might be true, but …”.",
+    "examples": [
+      "That may be true, but it doesn't solve the problem.",
+      "That may be true, but most people can't afford it.",
+      "That may be true, but it's not what the client asked for.",
+      "“Cars are more convenient.” “That may be true, but they're also much more expensive.”"
+    ]
+  },
+  {
+    "chunk": "Yes and no",
+    "category": "agreeing",
+    "meaning": "Says that something is partly true and partly false.",
+    "usage": "Usually followed by an explanation of both sides. Useful when a simple answer would be misleading.",
+    "examples": [
+      "“Did you enjoy the course?” “Yes and no. The content was good, but the teacher wasn't.”",
+      "“Is it cheaper to live outside the city?” “Yes and no.”",
+      "Yes and no; it depends on what you mean by success.",
+      "“So, was the trip a success?” “Yes and no.”"
+    ]
+  },
+  {
+    "chunk": "Up to a point",
+    "category": "agreeing",
+    "meaning": "Shows partial agreement: something is true to a limited extent.",
+    "usage": "Often used as a short reply, or in “I agree with you up to a point”. Similar: “to some extent”.",
+    "examples": [
+      "“Money can't buy happiness.” “Up to a point.”",
+      "I agree with you up to a point, but there are exceptions.",
+      "The strategy worked up to a point, then sales levelled off.",
+      "Up to a point, practice makes perfect; after that, you need feedback."
+    ]
+  },
+  {
+    "chunk": "I wouldn't go that far",
+    "category": "agreeing",
+    "meaning": "Says that someone's statement is too strong or exaggerated, although partly true.",
+    "usage": "Polite partial disagreement. Often followed by a milder version of the claim.",
+    "examples": [
+      "“The film was a disaster.” “I wouldn't go that far. It had some good moments.”",
+      "“He's a genius.” “Well, I wouldn't go that far.”",
+      "I wouldn't go that far, but it certainly wasn't his best work.",
+      "“The project has completely failed.” “I wouldn't go that far.”"
+    ]
+  },
+  {
+    "chunk": "Not necessarily",
+    "category": "agreeing",
+    "meaning": "Says that something is not always or automatically true.",
+    "usage": "A short, polite way to challenge a generalization. Often followed by an example or explanation.",
+    "examples": [
+      "“Expensive wine tastes better.” “Not necessarily.”",
+      "“A degree guarantees you a good job.” “Not necessarily.”",
+      "“If it's popular, it must be good.” “Not necessarily.”",
+      "Not necessarily; some of the best restaurants are the cheapest."
+    ]
+  },
+  {
+    "chunk": "That's not always the case",
+    "category": "agreeing",
+    "meaning": "Challenges a generalization by pointing out that there are exceptions.",
+    "usage": "Polite and neutral. Common in discussions and academic speech.",
+    "examples": [
+      "“Older people find technology difficult.” “That's not always the case.”",
+      "That's not always the case; some small firms pay very well.",
+      "People assume bigger is better, but that's not always the case.",
+      "That's not always the case, as my own experience shows."
+    ]
+  },
+  {
+    "chunk": "I'm not so sure about that",
+    "category": "agreeing",
+    "meaning": "Expresses doubt about what someone has said; a gentle way to disagree.",
+    "usage": "Polite and informal. Softer than “I disagree”.",
+    "examples": [
+      "“The weather will be fine tomorrow.” “I'm not so sure about that.”",
+      "I'm not so sure about that; the forecast says rain.",
+      "“Everyone will love the new logo.” “Hmm, I'm not so sure about that.”",
+      "I'm not so sure about that. Have you checked the figures?"
+    ]
+  },
+  {
+    "chunk": "I'm not convinced that …",
+    "category": "agreeing",
+    "meaning": "Expresses doubt about a claim or plan.",
+    "usage": "Neutral to formal and common in meetings and academic discussion. Also: “I'm not convinced” on its own.",
+    "examples": [
+      "I'm not convinced that this is the right time to invest.",
+      "I'm not convinced that the new policy will make any difference.",
+      "I'm not convinced that he understood the question.",
+      "I'm not convinced that working longer hours makes us more productive."
+    ]
+  },
+  {
+    "chunk": "I'm in two minds about …",
+    "category": "agreeing",
+    "meaning": "Says that you cannot decide what you think or what to do.",
+    "usage": "Mainly British. Followed by a noun, an -ing form or “whether”. American English prefers “I'm torn about …”.",
+    "examples": [
+      "I'm in two minds about whether to accept the job.",
+      "I'm in two minds about the new design.",
+      "I'm in two minds about going to the party.",
+      "I'm in two minds about it; both options have their advantages."
+    ]
+  },
+  {
+    "chunk": "I see things differently",
+    "category": "agreeing",
+    "meaning": "Politely says that you have a different opinion.",
+    "usage": "Neutral and diplomatic. Often followed by an explanation.",
+    "examples": [
+      "I respect your view, but I see things differently.",
+      "I see things differently; I think the problem is the management.",
+      "My parents think I should study law, but I see things differently.",
+      "“Everyone says the plan is brilliant.” “I see things differently. It's far too risky.”"
+    ]
+  },
+  {
+    "chunk": "That's not how I see it",
+    "category": "agreeing",
+    "meaning": "States clearly that you disagree with someone's interpretation.",
+    "usage": "Fairly direct but still polite. Often followed by your own interpretation.",
+    "examples": [
+      "“You lost because you didn't train.” “That's not how I see it.”",
+      "That's not how I see it; the decision was made before I joined.",
+      "I understand why you're angry, but that's not how I see it.",
+      "That's not how I see it at all."
+    ]
+  },
+  {
+    "chunk": "I'm afraid I disagree",
+    "category": "agreeing",
+    "meaning": "A polite but clear way to express disagreement.",
+    "usage": "“I'm afraid” softens the message. Common in formal discussions and meetings.",
+    "examples": [
+      "I'm afraid I disagree; the data doesn't support that.",
+      "I'm afraid I disagree with you on this point.",
+      "I'm afraid I disagree. I think we should wait.",
+      "With respect, I'm afraid I disagree."
+    ]
+  },
+  {
+    "chunk": "I couldn't disagree more",
+    "category": "agreeing",
+    "meaning": "Expresses total disagreement.",
+    "usage": "Very strong. The opposite of “I couldn't agree more”. Use with care in formal settings.",
+    "examples": [
+      "“Teachers have an easy job.” “I couldn't disagree more.”",
+      "I couldn't disagree more with that decision.",
+      "I couldn't disagree more; this is the worst possible time to cut costs.",
+      "“Art is a waste of time.” “I couldn't disagree more.”"
+    ]
+  },
+  {
+    "chunk": "With all due respect, …",
+    "category": "agreeing",
+    "meaning": "A formal phrase used before disagreeing with or criticizing someone.",
+    "usage": "Formal. Despite its polite form, it often signals strong disagreement and can sound cold or annoyed.",
+    "examples": [
+      "With all due respect, I don't think you've read the report.",
+      "With all due respect, that's not your decision to make.",
+      "With all due respect, the figures say otherwise.",
+      "With all due respect, sir, we've already tried that."
+    ]
+  },
+  {
+    "chunk": "That's beside the point",
+    "category": "agreeing",
+    "meaning": "Says that something is not relevant to the issue being discussed.",
+    "usage": "Can sound impatient. Often used to steer a discussion back to the main issue.",
+    "examples": [
+      "“But it was cheap!” “That's beside the point. It doesn't work.”",
+      "“He didn't mean to upset her.” “That's beside the point; he still did.”",
+      "That's beside the point; we're talking about the budget.",
+      "“But she's my friend.” “That's beside the point. Rules are rules.”"
+    ]
+  },
+  {
+    "chunk": "That's one way of looking at it",
+    "category": "agreeing",
+    "meaning": "Implies that you see the matter differently, without saying so directly.",
+    "usage": "Diplomatic and sometimes slightly ironic. Often a polite signal of disagreement.",
+    "examples": [
+      "“I didn't fail; I just didn't pass.” “Well, that's one way of looking at it.”",
+      "That's one way of looking at it, but there are others.",
+      "“Losing my job gave me more free time.” “That's one way of looking at it.”",
+      "I suppose that's one way of looking at it."
+    ]
+  },
+  {
+    "chunk": "Let's agree to disagree",
+    "category": "agreeing",
+    "meaning": "Ends an argument by accepting that neither side will change their mind.",
+    "usage": "Friendly and conciliatory. Also: “We'll have to agree to disagree.”",
+    "examples": [
+      "We're never going to settle this, so let's agree to disagree.",
+      "Let's agree to disagree and talk about something else.",
+      "OK, let's agree to disagree on that one.",
+      "We've both made our points; let's agree to disagree."
+    ]
+  },
+  {
+    "chunk": "You can't be serious",
+    "category": "agreeing",
+    "meaning": "Expresses shock or disbelief at what someone has said.",
+    "usage": "Informal and emotional. Can show disagreement or simply surprise. Also: “You're not serious!”",
+    "examples": [
+      "“I'm quitting my job tomorrow.” “You can't be serious!”",
+      "You can't be serious! That's twice the price.",
+      "“They want us to finish by Friday.” “You can't be serious.”",
+      "You can't be serious about moving to Antarctica."
+    ]
+  },
+  {
+    "chunk": "It seems that …",
+    "category": "hedging",
+    "meaning": "Presents information as an impression or conclusion rather than a certain fact.",
+    "usage": "Neutral and common in both speech and writing. More tentative than a plain statement. Also: “It would seem that …” (more formal).",
+    "examples": [
+      "It seems that nobody told her about the meeting.",
+      "It seems that the problem started after the update.",
+      "It seems that more people are cycling to work these days.",
+      "From the evidence, it seems that the fire started in the kitchen."
+    ]
+  },
+  {
+    "chunk": "It looks as if …",
+    "category": "hedging",
+    "meaning": "Describes what appears to be happening or likely to happen, based on what you can see.",
+    "usage": "Neutral. Informal alternative: “It looks like …”. Usually followed by a full clause.",
+    "examples": [
+      "It looks as if it's going to rain.",
+      "It looks as if they've already left.",
+      "It looks as if the price will go up again next year.",
+      "It looks as if we'll have to start again from scratch."
+    ]
+  },
+  {
+    "chunk": "I might be wrong, but …",
+    "category": "hedging",
+    "meaning": "Softens a statement or opinion by admitting you could be mistaken.",
+    "usage": "Polite and modest. It often introduces something you are fairly sure about.",
+    "examples": [
+      "I might be wrong, but I think the shop closes at six.",
+      "I might be wrong, but wasn't the meeting moved to Friday?",
+      "I might be wrong, but she didn't seem very happy.",
+      "I might be wrong, but I don't think this is the right road."
+    ]
+  },
+  {
+    "chunk": "Correct me if I'm wrong, but …",
+    "category": "hedging",
+    "meaning": "Introduces a statement politely while inviting the listener to correct it.",
+    "usage": "Common in meetings. It can also be a polite way to challenge someone: “Correct me if I'm wrong, but didn't you agree to this?”",
+    "examples": [
+      "Correct me if I'm wrong, but the deadline is next Monday, isn't it?",
+      "Correct me if I'm wrong, but didn't you say you'd call them?",
+      "Correct me if I'm wrong, but this is the third time this month.",
+      "Correct me if I'm wrong, but I think we've met before."
+    ]
+  },
+  {
+    "chunk": "I'm not entirely sure, but …",
+    "category": "hedging",
+    "meaning": "Signals that you are fairly but not completely certain.",
+    "usage": "Polite and precise. “Entirely” softens the uncertainty; you are mostly sure.",
+    "examples": [
+      "I'm not entirely sure, but I think it starts at eight.",
+      "I'm not entirely sure, but I believe she's on holiday.",
+      "I'm not entirely sure, but the answer might be in chapter three.",
+      "I'm not entirely sure, but I don't think parking is free here."
+    ]
+  },
+  {
+    "chunk": "If I'm not mistaken, …",
+    "category": "hedging",
+    "meaning": "Introduces a fact you believe is correct while allowing for error.",
+    "usage": "Polite and slightly formal. Can come at the start or end of a sentence.",
+    "examples": [
+      "If I'm not mistaken, this building used to be a cinema.",
+      "If I'm not mistaken, you studied in Edinburgh.",
+      "The train leaves at 9.15, if I'm not mistaken.",
+      "If I'm not mistaken, we've already paid that invoice."
+    ]
+  },
+  {
+    "chunk": "If I remember rightly, …",
+    "category": "hedging",
+    "meaning": "Introduces something you think you remember, while admitting your memory may be wrong.",
+    "usage": "Mainly British. Variants: “If I remember correctly” and “If memory serves”.",
+    "examples": [
+      "If I remember rightly, the restaurant is next to the bank.",
+      "If I remember rightly, she has two brothers.",
+      "We met in 2015, if I remember rightly.",
+      "If I remember rightly, the exam was much easier last year."
+    ]
+  },
+  {
+    "chunk": "As far as I know, …",
+    "category": "hedging",
+    "meaning": "Says that something is true according to your knowledge, which may be incomplete.",
+    "usage": "Neutral and very common. Can come at the start or end of a sentence.",
+    "examples": [
+      "As far as I know, the library is open on Sundays.",
+      "As far as I know, nobody has complained.",
+      "He's still working there, as far as I know.",
+      "As far as I know, the offer is still available."
+    ]
+  },
+  {
+    "chunk": "As far as I can tell, …",
+    "category": "hedging",
+    "meaning": "Gives a judgement based on what you can observe or understand.",
+    "usage": "Neutral. Suggests that you are judging from limited evidence. Similar: “As far as I can see”.",
+    "examples": [
+      "As far as I can tell, there's nothing wrong with the engine.",
+      "As far as I can tell, they're getting on well.",
+      "The instructions are correct, as far as I can tell.",
+      "As far as I can tell, the problem only affects older phones."
+    ]
+  },
+  {
+    "chunk": "I'm under the impression that …",
+    "category": "hedging",
+    "meaning": "Says that you believe something, often when you suspect you may have misunderstood.",
+    "usage": "Neutral to formal. Past form is common when you discover you were wrong: “I was under the impression that …”.",
+    "examples": [
+      "I'm under the impression that the meeting has been cancelled.",
+      "I'm under the impression that she wants to leave the company.",
+      "I'm under the impression that the price includes breakfast. Is that right?",
+      "I'm under the impression that we agreed on a smaller budget."
+    ]
+  },
+  {
+    "chunk": "I suspect that …",
+    "category": "hedging",
+    "meaning": "Expresses a belief that something is probably true, usually something negative or hidden.",
+    "usage": "Neutral. The word “that” is often dropped in speech. Stronger than “I think” in suggesting hidden truth.",
+    "examples": [
+      "I suspect that he already knows the answer.",
+      "I suspect that the real reason is money.",
+      "I suspect that most people never read the terms and conditions.",
+      "I suspect that the delay will be longer than they say."
+    ]
+  },
+  {
+    "chunk": "My guess is that …",
+    "category": "hedging",
+    "meaning": "Offers a prediction or estimate that is not based on firm evidence.",
+    "usage": "Informal to neutral. Often used when someone asks a question you cannot answer with certainty.",
+    "examples": [
+      "My guess is that they'll announce the results next week.",
+      "My guess is that she forgot.",
+      "My guess is that prices will keep rising for a while.",
+      "My guess is that he took the earlier train."
+    ]
+  },
+  {
+    "chunk": "Chances are …",
+    "category": "hedging",
+    "meaning": "Says that something is likely.",
+    "usage": "Informal. Followed by a clause, sometimes with “that”. Also: “The chances are …”.",
+    "examples": [
+      "Chances are she's already at home.",
+      "If you leave now, chances are you'll miss the traffic.",
+      "Chances are that the shop will be closed by the time we get there.",
+      "Chances are you've heard this story before."
+    ]
+  },
+  {
+    "chunk": "There's a good chance …",
+    "category": "hedging",
+    "meaning": "Says that something is quite likely.",
+    "usage": "Usually followed by “(that)” and a clause, or by “of”. Stronger: “There's every chance …”; weaker: “There's a slight chance …”.",
+    "examples": [
+      "There's a good chance it'll be sunny tomorrow.",
+      "There's a good chance that the flight will be delayed.",
+      "There's a good chance of finding a cheaper hotel online.",
+      "If we apply early, there's a good chance we'll get a place."
+    ]
+  },
+  {
+    "chunk": "I wouldn't be surprised if …",
+    "category": "hedging",
+    "meaning": "Predicts that something is quite likely, often something unexpected or unwelcome.",
+    "usage": "Informal to neutral. Often followed by a past tense or “would”, but present tenses are also common.",
+    "examples": [
+      "I wouldn't be surprised if they got married next year.",
+      "I wouldn't be surprised if the concert sold out.",
+      "I wouldn't be surprised if he didn't turn up.",
+      "I wouldn't be surprised if prices doubled by the summer."
+    ]
+  },
+  {
+    "chunk": "I doubt that …",
+    "category": "hedging",
+    "meaning": "Says that you think something is unlikely or untrue.",
+    "usage": "Neutral. “That” is often dropped. Alternatives: “I doubt whether …”, “I doubt it.”",
+    "examples": [
+      "I doubt that they'll finish on time.",
+      "I doubt that anyone noticed the mistake.",
+      "I doubt that he'll change his mind.",
+      "I doubt that the shop is still open."
+    ]
+  },
+  {
+    "chunk": "It's hard to say",
+    "category": "hedging",
+    "meaning": "Says that you cannot give a clear answer or prediction.",
+    "usage": "Common reply to a difficult question. Can be followed by a question word: “It's hard to say why.”",
+    "examples": [
+      "“Will the project succeed?” “It's hard to say.”",
+      "It's hard to say how long the repairs will take.",
+      "It's hard to say who's right in this situation.",
+      "It's hard to say at this stage; we need more data."
+    ]
+  },
+  {
+    "chunk": "It depends on …",
+    "category": "hedging",
+    "meaning": "Says that the answer to a question varies according to a particular factor.",
+    "usage": "Very common. Followed by a noun or a question word clause: “It depends on how much it costs.” Also on its own: “It depends.”",
+    "examples": [
+      "It depends on the weather.",
+      "It depends on how much time we have.",
+      "“Will you come?” “It depends on whether I finish work early.”",
+      "“Is it worth buying a car?” “It depends on where you live.”"
+    ]
+  },
+  {
+    "chunk": "to some extent",
+    "category": "hedging",
+    "meaning": "Partly, but not completely.",
+    "usage": "Common in essays and discussions. Similar: “to a certain extent”. Stronger: “to a large extent”.",
+    "examples": [
+      "I agree with you to some extent.",
+      "To some extent, the crisis was caused by poor planning.",
+      "Success depends to some extent on luck.",
+      "The new rules have worked to some extent, but problems remain."
+    ]
+  },
+  {
+    "chunk": "in a way",
+    "category": "hedging",
+    "meaning": "Partly, or when you consider it from a certain angle.",
+    "usage": "Informal. Often softens a surprising or unusual idea. Also: “in some ways”.",
+    "examples": [
+      "In a way, losing that job was the best thing that happened to me.",
+      "He's right, in a way.",
+      "In a way, I'm glad it rained; we got to stay in and talk.",
+      "The ending was sad, but in a way it was also hopeful."
+    ]
+  },
+  {
+    "chunk": "more or less",
+    "category": "hedging",
+    "meaning": "Almost, approximately or nearly completely.",
+    "usage": "Informal. Can modify adjectives, verbs and numbers: “more or less finished”, “more or less fifty”.",
+    "examples": [
+      "The work is more or less finished.",
+      "We more or less agree on the main points.",
+      "It took more or less an hour to get there.",
+      "That's more or less what I expected."
+    ]
+  },
+  {
+    "chunk": "kind of",
+    "category": "hedging",
+    "meaning": "Somewhat or slightly; used to make a statement less direct.",
+    "usage": "Informal and spoken. Avoid it in formal writing. Also: “sort of” (more British).",
+    "examples": [
+      "I'm kind of tired, so I'll go home early.",
+      "It was kind of strange to see him again.",
+      "I kind of agree with you, but not completely.",
+      "The film was kind of boring in the middle."
+    ]
+  },
+  {
+    "chunk": "It's fair to say that …",
+    "category": "hedging",
+    "meaning": "Introduces a statement you think is reasonable and not exaggerated.",
+    "usage": "Common in discussions and journalism. Often used for a cautious judgement or an understatement.",
+    "examples": [
+      "It's fair to say that the launch didn't go as planned.",
+      "It's fair to say that she's had a difficult year.",
+      "It's fair to say that technology has changed the way we learn.",
+      "It's fair to say that not everyone was happy with the result."
+    ]
+  },
+  {
+    "chunk": "Broadly speaking, …",
+    "category": "hedging",
+    "meaning": "Introduces a general statement that is true in most cases but not in every detail.",
+    "usage": "Neutral to formal. Suits essays and presentations. Similar: “In general”.",
+    "examples": [
+      "Broadly speaking, there are two types of learners.",
+      "Broadly speaking, the results were positive.",
+      "Broadly speaking, prices are lower outside the city centre.",
+      "Broadly speaking, I agree with your proposal."
+    ]
+  },
+  {
+    "chunk": "Generally speaking, …",
+    "category": "hedging",
+    "meaning": "Introduces a statement that is usually true, while allowing for exceptions.",
+    "usage": "Neutral. Common in both speech and writing.",
+    "examples": [
+      "Generally speaking, the trains here are very reliable.",
+      "Generally speaking, women live longer than men.",
+      "Generally speaking, it's cheaper to book in advance.",
+      "Generally speaking, our customers are very satisfied."
+    ]
+  },
+  {
+    "chunk": "For the most part, …",
+    "category": "hedging",
+    "meaning": "Mostly or in most respects.",
+    "usage": "Neutral. Common in reviews and evaluations, often followed by a qualification.",
+    "examples": [
+      "For the most part, the students were well prepared.",
+      "The holiday was, for the most part, very relaxing.",
+      "For the most part, I enjoy my job.",
+      "For the most part, the changes have been welcomed."
+    ]
+  },
+  {
+    "chunk": "In most cases, …",
+    "category": "hedging",
+    "meaning": "Says that something is usually true, but not always.",
+    "usage": "Neutral and common in instructions, reports and explanations.",
+    "examples": [
+      "In most cases, the problem can be fixed by restarting the computer.",
+      "In most cases, patients recover within a week.",
+      "In most cases, the cheapest flights leave very early.",
+      "In most cases, a short email is more effective than a long one."
+    ]
+  },
+  {
+    "chunk": "On the whole, …",
+    "category": "hedging",
+    "meaning": "Introduces a general conclusion after considering everything.",
+    "usage": "Neutral, especially British. Often used for an overall judgement despite some problems.",
+    "examples": [
+      "On the whole, the trip was a success.",
+      "On the whole, I prefer living in the countryside.",
+      "There were a few problems, but on the whole it went well.",
+      "On the whole, the reviews have been positive."
+    ]
+  },
+  {
+    "chunk": "As a rule, …",
+    "category": "hedging",
+    "meaning": "Describes what usually happens or what you normally do.",
+    "usage": "Neutral. Often describes personal habits: “As a rule, I don't drink coffee after lunch.”",
+    "examples": [
+      "As a rule, I don't check emails at the weekend.",
+      "As a rule, the first lesson is free.",
+      "As a rule, the trains are on time, but not today.",
+      "As a rule, we don't give refunds on sale items."
+    ]
+  },
+  {
+    "chunk": "It could be that …",
+    "category": "hedging",
+    "meaning": "Suggests a possible explanation without claiming it is certain.",
+    "usage": "Neutral. Useful when speculating about causes. Also: “It may be that …” (more formal).",
+    "examples": [
+      "It could be that she didn't receive the email.",
+      "It could be that the battery is dead.",
+      "It could be that people are simply too busy to reply.",
+      "It could be that the instructions were unclear."
+    ]
+  },
+  {
+    "chunk": "On top of that, …",
+    "category": "linking",
+    "meaning": "Adds another point, usually one that makes a situation better or, more often, worse.",
+    "usage": "Informal to neutral, and common in speech. More formal alternatives: “In addition”, “Moreover”.",
+    "examples": [
+      "The hotel was dirty. On top of that, the staff were rude.",
+      "I lost my wallet, and on top of that I missed the last bus.",
+      "The job pays well. On top of that, you get six weeks' holiday.",
+      "We're short of staff, and on top of that two people are off sick."
+    ]
+  },
+  {
+    "chunk": "What's more, …",
+    "category": "linking",
+    "meaning": "Adds a further, often stronger, point to support what you have just said.",
+    "usage": "Neutral. Common in speech and less formal writing. Formal equivalent: “Furthermore”.",
+    "examples": [
+      "The flat is cheap. What's more, it's close to the station.",
+      "She speaks four languages. What's more, she's only nineteen.",
+      "The plan is risky, and what's more, it's expensive.",
+      "This laptop is light, and what's more, the battery lasts all day."
+    ]
+  },
+  {
+    "chunk": "not to mention …",
+    "category": "linking",
+    "meaning": "Adds a further point that strengthens your argument, often one that is obvious.",
+    "usage": "Followed by a noun or -ing form. Usually comes after a comma at the end of a list.",
+    "examples": [
+      "Driving into town takes ages, not to mention the cost of parking.",
+      "She's clever and funny, not to mention very kind.",
+      "The house needs a new roof, not to mention new windows.",
+      "Moving abroad is stressful, not to mention expensive."
+    ]
+  },
+  {
+    "chunk": "not only … but also …",
+    "category": "linking",
+    "meaning": "Emphasizes that two things are true, especially when the second is surprising.",
+    "usage": "Both parts should have the same grammatical form. At the start of a sentence it requires inversion: “Not only did she win, but she also broke the record.”",
+    "examples": [
+      "The course is not only useful but also enjoyable.",
+      "He not only finished the report but also prepared the slides.",
+      "The new system is not only faster but also more reliable.",
+      "Cycling is not only cheap but also good for your health."
+    ]
+  },
+  {
+    "chunk": "Apart from …",
+    "category": "linking",
+    "meaning": "Means either “except for” or “in addition to”, depending on the context.",
+    "usage": "Followed by a noun or -ing form. “Apart from that” is a common way to add a contrast: “It rained a bit. Apart from that, it was perfect.”",
+    "examples": [
+      "Apart from the weather, the holiday was perfect.",
+      "Apart from English, she speaks French and Arabic.",
+      "Apart from working full-time, he's also studying for a degree.",
+      "The room was a bit small. Apart from that, everything was fine."
+    ]
+  },
+  {
+    "chunk": "as well as …",
+    "category": "linking",
+    "meaning": "Adds something to what you have already mentioned; means “and also”.",
+    "usage": "Followed by a noun or an -ing form, not a full clause: “as well as working”, not “as well as she works”.",
+    "examples": [
+      "She teaches maths as well as science.",
+      "As well as working full-time, he volunteers at weekends.",
+      "The price includes breakfast as well as dinner.",
+      "We need to consider the cost as well as the benefits."
+    ]
+  },
+  {
+    "chunk": "That being said, …",
+    "category": "linking",
+    "meaning": "Introduces a point that contrasts with or limits what you have just said.",
+    "usage": "Neutral to formal. Very close to “Having said that”.",
+    "examples": [
+      "The hotel is expensive. That being said, the service is excellent.",
+      "I love my job. That being said, I wouldn't mind earning more.",
+      "The results are encouraging. That being said, more research is needed.",
+      "He can be difficult. That being said, he's very good at what he does."
+    ]
+  },
+  {
+    "chunk": "Having said that, …",
+    "category": "linking",
+    "meaning": "Introduces a contrasting point after something you have just said.",
+    "usage": "Common in British speech. Often follows a positive or negative statement with a qualification.",
+    "examples": [
+      "The film is too long. Having said that, I really enjoyed it.",
+      "I don't usually like spicy food. Having said that, this curry is delicious.",
+      "The exam was hard. Having said that, I think I did quite well.",
+      "It's a great city. Having said that, I wouldn't want to live there."
+    ]
+  },
+  {
+    "chunk": "Even so, …",
+    "category": "linking",
+    "meaning": "Introduces something that is true despite what has just been said.",
+    "usage": "Neutral. Similar to “nevertheless” but less formal.",
+    "examples": [
+      "The flat was small. Even so, it felt very comfortable.",
+      "He apologized. Even so, she was still angry.",
+      "The odds were against us. Even so, we decided to try.",
+      "It's an old car. Even so, it's never let me down."
+    ]
+  },
+  {
+    "chunk": "All the same, …",
+    "category": "linking",
+    "meaning": "Means “despite this”; introduces something that remains true.",
+    "usage": "Informal to neutral, often British. Also at the end of a sentence: “Thanks all the same.”",
+    "examples": [
+      "I know it's safe. All the same, I'd rather not go alone.",
+      "It wasn't a perfect performance. All the same, the audience loved it.",
+      "He's probably right. All the same, I'd like a second opinion.",
+      "I didn't need any help, but thanks all the same."
+    ]
+  },
+  {
+    "chunk": "On the other hand, …",
+    "category": "linking",
+    "meaning": "Introduces a contrasting point or the opposite side of an argument.",
+    "usage": "Often paired with “On the one hand”. Do not use it simply to add information; it must show contrast.",
+    "examples": [
+      "City life is exciting. On the other hand, it can be very stressful.",
+      "The job is well paid. On the other hand, the hours are long.",
+      "On the one hand, I'd like to travel; on the other hand, I need to save money.",
+      "Online courses are flexible. On the other hand, they can feel isolating."
+    ]
+  },
+  {
+    "chunk": "Then again, …",
+    "category": "linking",
+    "meaning": "Introduces a thought that makes you reconsider or weaken what you have just said.",
+    "usage": "Informal and spoken. Often used when thinking aloud. Similar: “But then again”.",
+    "examples": [
+      "The restaurant is expensive. Then again, the food is amazing.",
+      "I might take the job. Then again, I might not.",
+      "He's very young for the role. Then again, so was I at his age.",
+      "It looks difficult. But then again, everything is at first."
+    ]
+  },
+  {
+    "chunk": "despite the fact that …",
+    "category": "linking",
+    "meaning": "Introduces a fact that contrasts with the main clause.",
+    "usage": "Neutral to formal. “Despite” cannot be followed directly by a clause, so “the fact that” is needed. Shorter alternative: “although”.",
+    "examples": [
+      "She went to work despite the fact that she was ill.",
+      "Despite the fact that it was raining, the match went ahead.",
+      "He got the job despite the fact that he had no experience.",
+      "Despite the fact that prices have risen, sales remain strong."
+    ]
+  },
+  {
+    "chunk": "even though …",
+    "category": "linking",
+    "meaning": "Introduces a contrast that makes the main statement surprising.",
+    "usage": "Stronger than “although”. Do not confuse it with “even if”, which introduces a hypothetical situation.",
+    "examples": [
+      "Even though it was late, the shop was still busy.",
+      "He kept running even though his leg hurt.",
+      "I enjoyed the film even though I didn't understand the ending.",
+      "Even though she studied hard, she didn't pass."
+    ]
+  },
+  {
+    "chunk": "As a result, …",
+    "category": "linking",
+    "meaning": "Introduces the consequence of something.",
+    "usage": "Neutral. Common in both speech and writing. Related: “as a result of” + noun.",
+    "examples": [
+      "The trains were cancelled. As a result, many people were late for work.",
+      "He trained every day and, as a result, he won the race.",
+      "Prices rose sharply. As a result, demand fell.",
+      "She missed several classes and, as a result, failed the exam."
+    ]
+  },
+  {
+    "chunk": "That's why …",
+    "category": "linking",
+    "meaning": "Introduces the result or explanation of something just mentioned.",
+    "usage": "Informal to neutral and very common in speech. In formal writing, prefer “This is why” or “For this reason”.",
+    "examples": [
+      "I didn't sleep well. That's why I'm so tired.",
+      "The bus was late; that's why I missed the start.",
+      "She's very patient. That's why the children love her.",
+      "We want to reduce waste, and that's why we've stopped using plastic bags."
+    ]
+  },
+  {
+    "chunk": "due to the fact that …",
+    "category": "linking",
+    "meaning": "Introduces the reason for something; means “because”.",
+    "usage": "Formal and wordy. In most writing, “because” or “as” is clearer. Common in official notices.",
+    "examples": [
+      "The event was cancelled due to the fact that too few people had registered.",
+      "Due to the fact that the road is closed, buses will take a different route.",
+      "Delays occurred due to the fact that the supplier went out of business.",
+      "Prices have increased due to the fact that energy costs have risen."
+    ]
+  },
+  {
+    "chunk": "… so that …",
+    "category": "linking",
+    "meaning": "Introduces the purpose of an action.",
+    "usage": "Often followed by a modal verb: “so that we could”, “so that she can”. In informal speech, “that” is often dropped.",
+    "examples": [
+      "I left early so that I could avoid the traffic.",
+      "Speak clearly so that everyone can hear you.",
+      "We moved the meeting so that more people could attend.",
+      "She saved money every month so that she could travel."
+    ]
+  },
+  {
+    "chunk": "in order to …",
+    "category": "linking",
+    "meaning": "Expresses purpose; means “to” or “so that”.",
+    "usage": "More formal than “to” alone. Negative: “in order not to”.",
+    "examples": [
+      "She took a part-time job in order to pay her fees.",
+      "In order to apply, you need to fill in this form.",
+      "In order to save time, we took a taxi.",
+      "The company cut costs in order to stay competitive."
+    ]
+  },
+  {
+    "chunk": "as long as …",
+    "category": "linking",
+    "meaning": "Means “only if” or “on condition that”.",
+    "usage": "Followed by a present tense for future meaning: “as long as you finish”, not “as long as you will finish”. Similar: “provided that”.",
+    "examples": [
+      "You can borrow my car as long as you drive carefully.",
+      "As long as we leave by eight, we'll be fine.",
+      "I don't mind what we eat, as long as it's not too spicy.",
+      "As long as you're happy, that's all that matters."
+    ]
+  },
+  {
+    "chunk": "provided that …",
+    "category": "linking",
+    "meaning": "Means “only if” and introduces a condition.",
+    "usage": "Formal to neutral. Common in contracts and rules. Variants: “providing that”, “provided”.",
+    "examples": [
+      "You can take the exam again provided that you pay the fee.",
+      "Provided that the weather is good, the event will be held outdoors.",
+      "Staff may work from home provided that their manager agrees.",
+      "I'll lend you the money provided that you pay me back next month."
+    ]
+  },
+  {
+    "chunk": "in case …",
+    "category": "linking",
+    "meaning": "Introduces a possible situation that you are preparing for.",
+    "usage": "Followed by a present tense for future meaning. It does not mean “if”: “Take an umbrella in case it rains” means take one now as a precaution.",
+    "examples": [
+      "Take an umbrella in case it rains.",
+      "I'll write down my number in case you need it.",
+      "We booked an extra room in case more people come.",
+      "Save your work regularly in case the computer crashes."
+    ]
+  },
+  {
+    "chunk": "Otherwise, …",
+    "category": "linking",
+    "meaning": "Introduces what will happen if something is not done, or means “apart from that”.",
+    "usage": "Very common in warnings and advice: “Hurry up, otherwise we'll be late.”",
+    "examples": [
+      "We need to leave now. Otherwise, we'll miss the train.",
+      "Write it down; otherwise, you'll forget.",
+      "The ending was disappointing. Otherwise, it was a great book.",
+      "Book early, otherwise the tickets will sell out."
+    ]
+  },
+  {
+    "chunk": "First of all, …",
+    "category": "linking",
+    "meaning": "Introduces the first in a series of points or actions.",
+    "usage": "Common in speech and presentations. Often followed by “secondly” or “then”. In writing, “firstly” or “first” is shorter.",
+    "examples": [
+      "First of all, I'd like to thank everyone for coming.",
+      "First of all, check that the machine is switched off.",
+      "There are two problems. First of all, it's too expensive.",
+      "First of all, let me explain why we're here."
+    ]
+  },
+  {
+    "chunk": "In the end, …",
+    "category": "linking",
+    "meaning": "Describes what finally happened after a long process or many changes.",
+    "usage": "Do not confuse with “at the end” (of a period or place): “at the end of the film”.",
+    "examples": [
+      "We looked at ten flats, and in the end we chose the first one.",
+      "In the end, the match was cancelled because of the rain.",
+      "She hesitated for weeks, but in the end she accepted the offer.",
+      "In the end, it didn't matter who was right."
+    ]
+  },
+  {
+    "chunk": "At the end of the day, …",
+    "category": "linking",
+    "meaning": "Introduces what you consider the most important fact after everything has been considered.",
+    "usage": "Informal and spoken. Very common, but avoid it in formal writing, where it sounds like a cliché.",
+    "examples": [
+      "At the end of the day, it's your decision.",
+      "At the end of the day, what matters is that everyone is safe.",
+      "We can discuss it all week, but at the end of the day we need to choose.",
+      "At the end of the day, money isn't everything."
+    ]
+  },
+  {
+    "chunk": "As a matter of fact, …",
+    "category": "linking",
+    "meaning": "Adds a surprising or more detailed fact, often one that contradicts what someone expects.",
+    "usage": "Neutral. Similar to “Actually” or “In fact”.",
+    "examples": [
+      "“Have you been to Rome?” “As a matter of fact, I lived there for two years.”",
+      "As a matter of fact, I was just about to call you.",
+      "It isn't difficult at all. As a matter of fact, it's quite easy.",
+      "As a matter of fact, the meeting has been cancelled."
+    ]
+  },
+  {
+    "chunk": "When it comes to …",
+    "category": "linking",
+    "meaning": "Introduces the particular subject you are talking about.",
+    "usage": "Followed by a noun or -ing form. Often introduces a strength or weakness: “When it comes to cooking, he's hopeless.”",
+    "examples": [
+      "When it comes to cooking, my brother is the expert.",
+      "When it comes to saving money, I'm not very good.",
+      "She's very confident when it comes to public speaking.",
+      "When it comes to choosing a university, location matters."
+    ]
+  },
+  {
+    "chunk": "As for …",
+    "category": "linking",
+    "meaning": "Introduces a new subject that is connected to what was said before.",
+    "usage": "Often used to move from one person or item in a list to another. Can sound dismissive: “As for him, I don't care what he thinks.”",
+    "examples": [
+      "The food was great. As for the service, it was a bit slow.",
+      "I'm staying here. As for Tom, he's going home.",
+      "As for the budget, we'll discuss it next week.",
+      "Most students passed. As for the rest, they can retake the exam."
+    ]
+  },
+  {
+    "chunk": "regardless of …",
+    "category": "linking",
+    "meaning": "Means “without being affected by” something.",
+    "usage": "Followed by a noun or a question word clause: “regardless of what people say”. Do not use the non-standard “irregardless”.",
+    "examples": [
+      "Everyone is welcome, regardless of age.",
+      "Regardless of the weather, the race will go ahead.",
+      "She always says what she thinks, regardless of what people say.",
+      "The law applies to everyone, regardless of their position."
+    ]
+  },
+  {
+    "chunk": "What I mean is …",
+    "category": "clarifying",
+    "meaning": "Introduces a clearer explanation of something you have just said.",
+    "usage": "Very common in speech, especially when you think you have been misunderstood.",
+    "examples": [
+      "I'm not saying it's bad. What I mean is that it could be better.",
+      "What I mean is, we need more time, not more money.",
+      "Sorry, that came out wrong. What I mean is I'm worried about you.",
+      "What I mean is that the problem isn't new."
+    ]
+  },
+  {
+    "chunk": "In other words, …",
+    "category": "clarifying",
+    "meaning": "Introduces a simpler or more direct way of saying the same thing.",
+    "usage": "Neutral and common in speech and writing. Often used to state the real implication of something.",
+    "examples": [
+      "The company is restructuring. In other words, people will lose their jobs.",
+      "He's “between jobs” — in other words, he's unemployed.",
+      "Demand exceeds supply. In other words, there isn't enough to go round.",
+      "She said she'd think about it. In other words, probably not."
+    ]
+  },
+  {
+    "chunk": "What I'm trying to say is …",
+    "category": "clarifying",
+    "meaning": "Introduces another attempt to express an idea clearly, often a sensitive one.",
+    "usage": "Informal and spoken. Shows that you are struggling to express yourself or want to avoid offence.",
+    "examples": [
+      "What I'm trying to say is that I need some space.",
+      "What I'm trying to say is, we can't keep doing things the old way.",
+      "Sorry, I'm not explaining this well. What I'm trying to say is that I'm grateful.",
+      "What I'm trying to say is that the data doesn't support his conclusion."
+    ]
+  },
+  {
+    "chunk": "What I'm getting at is …",
+    "category": "clarifying",
+    "meaning": "Introduces the point or suggestion that you have been leading up to.",
+    "usage": "Informal. Related question: “What are you getting at?”, which asks what someone is hinting at.",
+    "examples": [
+      "What I'm getting at is that we might need to cut costs.",
+      "What I'm getting at is, does anyone actually use this feature?",
+      "What I'm getting at is that the timing is wrong, not the idea.",
+      "I'll be honest; what I'm getting at is that we need a new supplier."
+    ]
+  },
+  {
+    "chunk": "Let me put it another way",
+    "category": "clarifying",
+    "meaning": "Signals that you are going to explain the same idea differently because the first attempt was unclear.",
+    "usage": "Common in teaching and presentations. Variant: “To put it another way, …”.",
+    "examples": [
+      "Let me put it another way: if we don't act now, we'll lose the client.",
+      "That's not very clear, is it? Let me put it another way.",
+      "Let me put it another way. Would you pay that much for it?",
+      "Let me put it another way: the more you practise, the easier it gets."
+    ]
+  },
+  {
+    "chunk": "To put it simply, …",
+    "category": "clarifying",
+    "meaning": "Introduces a simple version of a complicated explanation.",
+    "usage": "Neutral. Common in teaching, presentations and popular science. Also: “Simply put, …”.",
+    "examples": [
+      "To put it simply, the company is spending more than it earns.",
+      "To put it simply, a vaccine trains your immune system.",
+      "To put it simply, we can't afford it.",
+      "To put it simply, the brain needs sleep to store memories."
+    ]
+  },
+  {
+    "chunk": "To be more precise, …",
+    "category": "clarifying",
+    "meaning": "Introduces a more exact version of what you have just said.",
+    "usage": "Neutral to formal. Common in academic and technical contexts. Variant: “More precisely, …”.",
+    "examples": [
+      "The meeting is next week; to be more precise, on Tuesday afternoon.",
+      "Sales fell last year. To be more precise, they fell by twelve per cent.",
+      "He's from the north of England; to be more precise, from Leeds.",
+      "The problem is in the software or, to be more precise, in one small part of it."
+    ]
+  },
+  {
+    "chunk": "Take … for example",
+    "category": "clarifying",
+    "meaning": "Introduces an example that illustrates a general point.",
+    "usage": "Often used at the start of a sentence after a general claim. Also: “Take … for instance.”",
+    "examples": [
+      "Prices have risen sharply. Take housing, for example.",
+      "Some jobs are disappearing. Take bank clerks, for example.",
+      "Not all old buildings are protected. Take this one, for example.",
+      "Take my sister, for example: she changed careers at forty."
+    ]
+  },
+  {
+    "chunk": "Let me give you an example",
+    "category": "clarifying",
+    "meaning": "Introduces an example to make an explanation clearer.",
+    "usage": "Common in presentations, teaching and interviews.",
+    "examples": [
+      "Small changes can make a big difference. Let me give you an example.",
+      "Let me give you an example of what I mean.",
+      "That probably sounds abstract, so let me give you an example.",
+      "Let me give you an example from my last job."
+    ]
+  },
+  {
+    "chunk": "The point is …",
+    "category": "clarifying",
+    "meaning": "Introduces the most important fact or argument, often after a digression.",
+    "usage": "Informal to neutral. Often followed by a comma in speech: “The point is, …”. Can sound impatient.",
+    "examples": [
+      "The point is, we don't have enough money.",
+      "I don't care who broke it. The point is that it needs fixing.",
+      "The point is that nobody asked the students what they wanted.",
+      "The point is, you should have told me earlier."
+    ]
+  },
+  {
+    "chunk": "Just to be clear, …",
+    "category": "clarifying",
+    "meaning": "Introduces a statement that removes any possible misunderstanding.",
+    "usage": "Neutral. Common in meetings and emails. Can sound firm when used to set limits.",
+    "examples": [
+      "Just to be clear, the deadline is Friday, not Monday.",
+      "Just to be clear, I'm not blaming anyone.",
+      "Just to be clear, this offer is only for new customers.",
+      "Just to be clear, are we meeting at the office or online?"
+    ]
+  },
+  {
+    "chunk": "Just to clarify, …",
+    "category": "clarifying",
+    "meaning": "Introduces a question or statement that checks or explains a detail.",
+    "usage": "Neutral and polite. Often used to check your understanding without sounding critical.",
+    "examples": [
+      "Just to clarify, do you want the report in English or French?",
+      "Just to clarify, the price includes tax.",
+      "Just to clarify, we're talking about next year's budget, right?",
+      "Just to clarify, I didn't say the plan was wrong."
+    ]
+  },
+  {
+    "chunk": "Do you see what I mean?",
+    "category": "clarifying",
+    "meaning": "Checks whether the listener has understood your point.",
+    "usage": "Informal. Often shortened to “See what I mean?”, which can also mean “I told you so.”",
+    "examples": [
+      "It's not the price; it's the quality. Do you see what I mean?",
+      "If we change one part, everything else changes too. Do you see what I mean?",
+      "He's polite, but he never really listens. Do you see what I mean?",
+      "Do you see what I mean? The colours don't match."
+    ]
+  },
+  {
+    "chunk": "Does that make sense?",
+    "category": "clarifying",
+    "meaning": "Checks whether your explanation was clear.",
+    "usage": "Very common in teaching, meetings and instructions. It sounds friendlier than “Do you understand?”.",
+    "examples": [
+      "You fill in this form first, then send it to HR. Does that make sense?",
+      "Does that make sense, or shall I explain it again?",
+      "So the price depends on the season. Does that make sense?",
+      "I know it's complicated. Does that make sense so far?"
+    ]
+  },
+  {
+    "chunk": "Are you with me?",
+    "category": "clarifying",
+    "meaning": "Checks that the listener is following your explanation.",
+    "usage": "Informal. Common in teaching. Also used to ask whether someone supports you: “Are you with me on this?”",
+    "examples": [
+      "First we add the numbers, then we divide by three. Are you with me?",
+      "Are you with me so far?",
+      "This part is a bit tricky. Are you with me?",
+      "I'll go through it slowly. Are you with me?"
+    ]
+  },
+  {
+    "chunk": "Are you saying that …?",
+    "category": "clarifying",
+    "meaning": "Checks whether you have understood someone's meaning, often with surprise or disagreement.",
+    "usage": "Can sound challenging, depending on intonation. Softer: “Do you mean that …?”.",
+    "examples": [
+      "Are you saying that we have to start again?",
+      "Are you saying that I'm wrong?",
+      "Are you saying that the shop won't give me a refund?",
+      "Sorry, are you saying that the meeting is cancelled?"
+    ]
+  },
+  {
+    "chunk": "So what you're saying is …",
+    "category": "clarifying",
+    "meaning": "Summarizes someone's point to check that you have understood it.",
+    "usage": "Common in meetings and negotiations. It can sound sarcastic if the summary is deliberately extreme.",
+    "examples": [
+      "So what you're saying is that we need another week.",
+      "So what you're saying is, the price will go up next year?",
+      "So what you're saying is that the problem is the design, not the material.",
+      "So what you're saying is we should hire more staff?"
+    ]
+  },
+  {
+    "chunk": "If I understand you correctly, …",
+    "category": "clarifying",
+    "meaning": "Introduces your understanding of what someone has said, so that they can confirm or correct it.",
+    "usage": "Polite and fairly formal. Common in meetings and interviews.",
+    "examples": [
+      "If I understand you correctly, you'd like to change the contract.",
+      "If I understand you correctly, the delivery will arrive tomorrow.",
+      "If I understand you correctly, you're not happy with the service.",
+      "So, if I understand you correctly, the main issue is staffing?"
+    ]
+  },
+  {
+    "chunk": "What exactly do you mean by …?",
+    "category": "clarifying",
+    "meaning": "Asks someone to explain a word or idea they have used.",
+    "usage": "Can be neutral or challenging, depending on tone. Common in academic discussions.",
+    "examples": [
+      "What exactly do you mean by “flexible hours”?",
+      "What exactly do you mean by that?",
+      "What exactly do you mean by success?",
+      "Sorry, what exactly do you mean by a “small change”?"
+    ]
+  },
+  {
+    "chunk": "Sorry, I didn't catch that",
+    "category": "clarifying",
+    "meaning": "Politely says that you did not hear or understand what someone said.",
+    "usage": "Common on the phone and in noisy places. Often followed by a request: “Could you repeat it?”",
+    "examples": [
+      "Sorry, I didn't catch that. Could you say it again?",
+      "Sorry, I didn't catch that; the line's very bad.",
+      "Sorry, I didn't catch that last part.",
+      "Sorry, I didn't catch that. What was your name again?"
+    ]
+  },
+  {
+    "chunk": "Could you say that again?",
+    "category": "clarifying",
+    "meaning": "Asks someone to repeat what they have just said.",
+    "usage": "Polite and neutral. More polite: “Would you mind repeating that?”",
+    "examples": [
+      "Sorry, could you say that again?",
+      "Could you say that again, a bit more slowly?",
+      "Could you say that again? I want to write it down.",
+      "I missed the number. Could you say that again?"
+    ]
+  },
+  {
+    "chunk": "Could you be a bit more specific?",
+    "category": "clarifying",
+    "meaning": "Asks someone to give more details or a clearer example.",
+    "usage": "Polite. Common in meetings, interviews and customer service.",
+    "examples": [
+      "You said there were problems. Could you be a bit more specific?",
+      "Could you be a bit more specific about the dates?",
+      "I'd like to help. Could you be a bit more specific?",
+      "Could you be a bit more specific about what went wrong?"
+    ]
+  },
+  {
+    "chunk": "I'm not sure I follow",
+    "category": "clarifying",
+    "meaning": "Politely says that you do not understand an explanation.",
+    "usage": "Polite and indirect. Also: “I don't quite follow.” “Follow” here means “understand”.",
+    "examples": [
+      "Sorry, I'm not sure I follow. Why do we need a second meeting?",
+      "I'm not sure I follow. Could you explain that again?",
+      "I'm not sure I follow your argument.",
+      "I'm not sure I follow; what does this have to do with the budget?"
+    ]
+  },
+  {
+    "chunk": "Let me get this straight",
+    "category": "clarifying",
+    "meaning": "Introduces a summary of a situation to check that you understand it, often because it seems surprising or unfair.",
+    "usage": "Informal. Often signals disbelief or annoyance.",
+    "examples": [
+      "Let me get this straight: you want me to work on Sunday for free?",
+      "Let me get this straight. You lost the keys and the spare set?",
+      "So, let me get this straight: the meeting is cancelled, but we still have to come in?",
+      "Let me get this straight; who's paying for all this?"
+    ]
+  },
+  {
+    "chunk": "Sorry, I'm a bit lost",
+    "category": "clarifying",
+    "meaning": "Says that you no longer understand what someone is explaining.",
+    "usage": "Informal and polite. Shows that the explanation, not you, became hard to follow.",
+    "examples": [
+      "Sorry, I'm a bit lost. Which form do I fill in first?",
+      "Sorry, I'm a bit lost. Who's Mark again?",
+      "Sorry, I'm a bit lost; can we go back to the second slide?",
+      "Sorry, I'm a bit lost. How did you get that number?"
+    ]
+  },
+  {
+    "chunk": "Could you run that by me again?",
+    "category": "clarifying",
+    "meaning": "Asks someone to explain or repeat something.",
+    "usage": "Informal. “Run something by someone” also means to tell them about it to get their opinion.",
+    "examples": [
+      "Sorry, could you run that by me again?",
+      "Could you run that by me again? I missed the bit about the dates.",
+      "That's a lot of information. Could you run that by me again?",
+      "Could you run that by me again, slowly this time?"
+    ]
+  },
+  {
+    "chunk": "How do you mean?",
+    "category": "clarifying",
+    "meaning": "Asks someone to explain what they mean.",
+    "usage": "Informal and mainly British. Sounds curious rather than critical. Similar: “What do you mean?”",
+    "examples": [
+      "“The trip was interesting.” “How do you mean?”",
+      "How do you mean, it's not finished?",
+      "“He's changed a lot.” “How do you mean?”",
+      "“It's a strange place.” “How do you mean? Strange in what way?”"
+    ]
+  },
+  {
+    "chunk": "In a nutshell, …",
+    "category": "clarifying",
+    "meaning": "Introduces a very short summary of something.",
+    "usage": "Informal. Also: “to put it in a nutshell”.",
+    "examples": [
+      "In a nutshell, the project was a success.",
+      "In a nutshell, we need more staff and more time.",
+      "That's the plan in a nutshell.",
+      "In a nutshell, she's leaving because she's not happy."
+    ]
+  },
+  {
+    "chunk": "I mean, …",
+    "category": "clarifying",
+    "meaning": "Adds an explanation or correction, or gives you time to think.",
+    "usage": "Very common in informal speech. Also corrects a slip of the tongue: “It's on Tuesday, I mean Wednesday.”",
+    "examples": [
+      "It's a nice flat. I mean, it's small, but it's in a great area.",
+      "I mean, what's the point of arguing?",
+      "Let's meet at six. I mean, half past six.",
+      "I mean, I like him, but I wouldn't want to work with him."
+    ]
+  },
+  {
+    "chunk": "Let me rephrase that",
+    "category": "clarifying",
+    "meaning": "Signals that you are going to say something again in a clearer or more tactful way.",
+    "usage": "Common when a first attempt sounded rude or unclear.",
+    "examples": [
+      "That came out wrong. Let me rephrase that.",
+      "Let me rephrase that: I think there might be a better option.",
+      "Sorry, let me rephrase that question.",
+      "Let me rephrase that. How satisfied are you with the service?"
+    ]
+  },
+  {
+    "chunk": "Would you mind …?",
+    "category": "requests",
+    "meaning": "Makes a polite request.",
+    "usage": "Followed by an -ing form: “Would you mind closing the door?” To agree, say “No, not at all” or “Of course not”, because the literal question is whether you object.",
+    "examples": [
+      "Would you mind closing the window?",
+      "Would you mind waiting a few minutes?",
+      "Would you mind not smoking here, please?",
+      "Would you mind sending me the file again?"
+    ]
+  },
+  {
+    "chunk": "Do you mind if I …?",
+    "category": "requests",
+    "meaning": "Asks for permission politely.",
+    "usage": "Followed by a present tense. “Would you mind if I …?” takes a past tense and is more polite. Answer “No, go ahead” to give permission.",
+    "examples": [
+      "Do you mind if I open the window?",
+      "Do you mind if I sit here?",
+      "Do you mind if I ask you a personal question?",
+      "Do you mind if I leave a bit early today?"
+    ]
+  },
+  {
+    "chunk": "I was wondering if you could …",
+    "category": "requests",
+    "meaning": "Makes a very polite, indirect request.",
+    "usage": "The past continuous makes the request softer. Common when asking for a favour from someone you don't know well, or in emails.",
+    "examples": [
+      "I was wondering if you could help me with my CV.",
+      "I was wondering if you could give me a lift to the station.",
+      "I was wondering if you could send me the slides from today's lecture.",
+      "I was wondering if you could cover my shift on Saturday."
+    ]
+  },
+  {
+    "chunk": "Could you possibly …?",
+    "category": "requests",
+    "meaning": "Makes a polite request, often for something inconvenient.",
+    "usage": "“Possibly” makes the request softer and acknowledges that it may be difficult.",
+    "examples": [
+      "Could you possibly lend me some money until Friday?",
+      "Could you possibly turn the music down a little?",
+      "Could you possibly finish the report by tomorrow?",
+      "Could you possibly move your car? It's blocking the gate."
+    ]
+  },
+  {
+    "chunk": "Would it be possible to …?",
+    "category": "requests",
+    "meaning": "Makes a formal, impersonal request.",
+    "usage": "Common in emails, at hotels and in customer service. Avoids directly asking a person to do something.",
+    "examples": [
+      "Would it be possible to change my booking?",
+      "Would it be possible to have the room with a view?",
+      "Would it be possible to extend the deadline by a week?",
+      "Would it be possible to speak to the manager?"
+    ]
+  },
+  {
+    "chunk": "Is there any chance you could …?",
+    "category": "requests",
+    "meaning": "Makes a polite request when you are not sure the person will be able to help.",
+    "usage": "Informal to neutral. Suggests that you know the request is a lot to ask.",
+    "examples": [
+      "Is there any chance you could pick me up from the airport?",
+      "Is there any chance you could look at my essay before Monday?",
+      "Is there any chance you could swap shifts with me?",
+      "Is there any chance you could send it today?"
+    ]
+  },
+  {
+    "chunk": "Would you be able to …?",
+    "category": "requests",
+    "meaning": "Makes a polite request by asking whether something is possible for the other person.",
+    "usage": "Common in workplace emails and phone calls. Less direct than “Can you …?”",
+    "examples": [
+      "Would you be able to join the call at three?",
+      "Would you be able to check these figures for me?",
+      "Would you be able to deliver on Saturday?",
+      "Would you be able to give me some feedback on my presentation?"
+    ]
+  },
+  {
+    "chunk": "Could you do me a favour?",
+    "category": "requests",
+    "meaning": "Prepares the listener for a request for help.",
+    "usage": "Informal. Usually followed by the actual request. British spelling: favour; American: favor.",
+    "examples": [
+      "Could you do me a favour and feed my cat this weekend?",
+      "Could you do me a favour? I need someone to check my email before I send it.",
+      "Could you do me a favour and keep this a secret?",
+      "Could you do me a favour? Can you pick up some milk on your way home?"
+    ]
+  },
+  {
+    "chunk": "Do you happen to know …?",
+    "category": "requests",
+    "meaning": "Asks for information politely, without assuming the person knows.",
+    "usage": "Followed by an indirect question with normal word order: “Do you happen to know where the station is?” not “where is the station”.",
+    "examples": [
+      "Do you happen to know where the nearest pharmacy is?",
+      "Do you happen to know what time the shop closes?",
+      "Do you happen to know if this bus goes to the airport?",
+      "Do you happen to know her phone number?"
+    ]
+  },
+  {
+    "chunk": "Is it OK if I …?",
+    "category": "requests",
+    "meaning": "Asks for permission informally.",
+    "usage": "Informal and very common. Followed by a present tense. Also: “Is it all right if I …?”",
+    "examples": [
+      "Is it OK if I bring a friend?",
+      "Is it OK if I use your phone charger?",
+      "Is it OK if I hand the essay in on Monday?",
+      "Is it OK if I take a photo?"
+    ]
+  },
+  {
+    "chunk": "Would you like me to …?",
+    "category": "requests",
+    "meaning": "Offers to do something for someone politely.",
+    "usage": "Polite and common in work and service situations. Less formal: “Do you want me to …?”",
+    "examples": [
+      "Would you like me to carry that for you?",
+      "Would you like me to call you a taxi?",
+      "Would you like me to send you a copy of the contract?",
+      "Would you like me to explain it again?"
+    ]
+  },
+  {
+    "chunk": "Shall I …?",
+    "category": "requests",
+    "meaning": "Offers to do something or asks for advice about what to do.",
+    "usage": "Mainly British. Followed by a bare infinitive. Also used for suggestions: “Shall we go?”",
+    "examples": [
+      "Shall I open the window?",
+      "Shall I call you back later?",
+      "It's getting late. Shall I book a taxi?",
+      "Shall I bring anything to the party?"
+    ]
+  },
+  {
+    "chunk": "Do you want me to …?",
+    "category": "requests",
+    "meaning": "Offers to do something in an informal way.",
+    "usage": "Informal. In fast speech it often sounds like “D'you want me to …?”.",
+    "examples": [
+      "Do you want me to help you with the dishes?",
+      "Do you want me to drive?",
+      "Do you want me to talk to him for you?",
+      "Do you want me to come with you to the doctor's?"
+    ]
+  },
+  {
+    "chunk": "Let me know if …",
+    "category": "requests",
+    "meaning": "Asks someone to tell you something, often whether they need help.",
+    "usage": "Very common at the end of emails and conversations. Also: “Let me know when …”, “Let me know what you think.”",
+    "examples": [
+      "Let me know if you need any help.",
+      "Let me know if you can't make it.",
+      "Let me know if anything changes.",
+      "Let me know if you have any questions about the report."
+    ]
+  },
+  {
+    "chunk": "Feel free to …",
+    "category": "requests",
+    "meaning": "Gives someone permission or encouragement to do something.",
+    "usage": "Friendly and common in emails and hosting. Followed by a bare infinitive.",
+    "examples": [
+      "Feel free to call me if you have any questions.",
+      "Feel free to help yourself to coffee.",
+      "Feel free to interrupt if something isn't clear.",
+      "Feel free to bring a friend."
+    ]
+  },
+  {
+    "chunk": "Why don't we …?",
+    "category": "requests",
+    "meaning": "Makes a suggestion about something to do together.",
+    "usage": "Informal. It is not a real question about reasons. Followed by a bare infinitive.",
+    "examples": [
+      "Why don't we get a takeaway tonight?",
+      "Why don't we ask Anna? She knows about computers.",
+      "Why don't we take a short break?",
+      "Why don't we meet halfway, in Leeds?"
+    ]
+  },
+  {
+    "chunk": "How about …?",
+    "category": "requests",
+    "meaning": "Makes a suggestion.",
+    "usage": "Followed by a noun or -ing form: “How about going to the cinema?” Similar: “What about …?”",
+    "examples": [
+      "How about going for a walk?",
+      "How about Friday instead?",
+      "How about asking your teacher for help?",
+      "How about a coffee before we start?"
+    ]
+  },
+  {
+    "chunk": "Maybe we could …",
+    "category": "requests",
+    "meaning": "Makes a tentative, polite suggestion.",
+    "usage": "Softer than “Let's …”. Common in meetings and when you are not sure others will agree.",
+    "examples": [
+      "Maybe we could meet next week instead.",
+      "Maybe we could ask the client what they prefer.",
+      "Maybe we could split the cost.",
+      "Maybe we could try a different approach."
+    ]
+  },
+  {
+    "chunk": "Have you thought about …?",
+    "category": "requests",
+    "meaning": "Makes a suggestion or gives advice indirectly.",
+    "usage": "Followed by a noun or -ing form. Also: “Have you considered …?” (more formal).",
+    "examples": [
+      "Have you thought about studying abroad?",
+      "Have you thought about asking for a pay rise?",
+      "Have you thought about the cost of moving?",
+      "Have you thought about taking a few days off?"
+    ]
+  },
+  {
+    "chunk": "It might be a good idea to …",
+    "category": "requests",
+    "meaning": "Gives advice or a suggestion in a gentle, indirect way.",
+    "usage": "Polite and tactful. Useful when advising someone senior or a stranger.",
+    "examples": [
+      "It might be a good idea to book in advance.",
+      "It might be a good idea to check with your manager first.",
+      "It might be a good idea to back up your files.",
+      "It might be a good idea to take a jacket; it gets cold at night."
+    ]
+  },
+  {
+    "chunk": "If I were you, I'd …",
+    "category": "requests",
+    "meaning": "Gives advice by imagining yourself in the other person's situation.",
+    "usage": "Uses the second conditional. “If I was you” is common in speech but less correct.",
+    "examples": [
+      "If I were you, I'd take the job.",
+      "If I were you, I'd talk to her before making a decision.",
+      "If I were you, I'd get a second opinion.",
+      "If I were you, I'd leave early to avoid the traffic."
+    ]
+  },
+  {
+    "chunk": "You might want to …",
+    "category": "requests",
+    "meaning": "Gives advice or a warning politely and indirectly.",
+    "usage": "Common in professional contexts. Despite its gentle form, it can be a firm suggestion.",
+    "examples": [
+      "You might want to check the spelling before you send it.",
+      "You might want to bring an umbrella.",
+      "You might want to sit down for this news.",
+      "You might want to call ahead; they sometimes close early."
+    ]
+  },
+  {
+    "chunk": "You'd better …",
+    "category": "requests",
+    "meaning": "Gives strong advice or a warning, implying that something bad will happen otherwise.",
+    "usage": "“'d better” is short for “had better”, but it refers to the present or future. Followed by a bare infinitive. Negative: “You'd better not …”.",
+    "examples": [
+      "You'd better hurry or you'll miss the bus.",
+      "You'd better tell her the truth.",
+      "You'd better not be late again.",
+      "You'd better take your passport, just in case."
+    ]
+  },
+  {
+    "chunk": "Do you fancy …?",
+    "category": "requests",
+    "meaning": "Asks whether someone would like to do something; makes an invitation.",
+    "usage": "Informal and British. Followed by a noun or -ing form: “Do you fancy going out?”",
+    "examples": [
+      "Do you fancy going to the cinema tonight?",
+      "Do you fancy a cup of tea?",
+      "Do you fancy coming with us to the beach?",
+      "Do you fancy getting something to eat after work?"
+    ]
+  },
+  {
+    "chunk": "Are you up for …?",
+    "category": "requests",
+    "meaning": "Asks whether someone is willing or keen to do something.",
+    "usage": "Informal. Followed by a noun or -ing form. Also used alone: “Are you up for it?”",
+    "examples": [
+      "Are you up for a game of tennis this weekend?",
+      "Are you up for going out tonight?",
+      "We're going hiking on Saturday. Are you up for it?",
+      "Are you up for a challenge?"
+    ]
+  },
+  {
+    "chunk": "How does … sound?",
+    "category": "requests",
+    "meaning": "Asks whether a suggestion or plan is acceptable to someone.",
+    "usage": "Informal to neutral. Common when proposing times or plans. Reply: “Sounds good.”",
+    "examples": [
+      "How does Thursday at ten sound?",
+      "How does pizza sound?",
+      "We could leave at six. How does that sound?",
+      "How does a weekend in Paris sound?"
+    ]
+  },
+  {
+    "chunk": "I'd love to, but …",
+    "category": "requests",
+    "meaning": "Politely declines an invitation while showing that you would like to accept.",
+    "usage": "Usually followed by a reason. A friendly way to say no.",
+    "examples": [
+      "I'd love to, but I've got to work late.",
+      "“Are you coming to the party?” “I'd love to, but I'm away that weekend.”",
+      "I'd love to, but I can't afford it this month.",
+      "I'd love to, but I've already made plans."
+    ]
+  },
+  {
+    "chunk": "I'm afraid I can't …",
+    "category": "requests",
+    "meaning": "Politely refuses a request or says that something is not possible.",
+    "usage": "“I'm afraid” softens bad news and does not mean fear here.",
+    "examples": [
+      "I'm afraid I can't come to the meeting tomorrow.",
+      "I'm afraid I can't give you a refund.",
+      "I'm afraid I can't help you with that.",
+      "I'm afraid I can't make it on Friday."
+    ]
+  },
+  {
+    "chunk": "Thanks for the offer, but …",
+    "category": "requests",
+    "meaning": "Politely refuses an offer of help or a gift.",
+    "usage": "Usually followed by a short reason: “… but I'm fine”, “… but I can manage”.",
+    "examples": [
+      "Thanks for the offer, but I can manage.",
+      "Thanks for the offer, but I've already booked a taxi.",
+      "Thanks for the offer, but I'd rather do it myself.",
+      "Thanks for the offer, but we've decided to go with another company."
+    ]
+  },
+  {
+    "chunk": "I'd appreciate it if you could …",
+    "category": "requests",
+    "meaning": "Makes a polite but firm request.",
+    "usage": "Common in emails and formal speech. Depending on tone, it can sound like a complaint: “I'd appreciate it if you could knock first.”",
+    "examples": [
+      "I'd appreciate it if you could reply by Friday.",
+      "I'd appreciate it if you could keep this between us.",
+      "I'd appreciate it if you could knock before coming in.",
+      "I'd appreciate it if you could send the invoice again."
+    ]
+  },
+  {
+    "chunk": "How's it going?",
+    "category": "social",
+    "meaning": "An informal greeting that asks how someone is.",
+    "usage": "Informal. A short answer is expected: “Not bad, thanks. You?” Can also ask about a specific activity: “How's the new job going?”",
+    "examples": [
+      "Hi, Tom! How's it going?",
+      "“How's it going?” “Not bad, thanks. Busy as usual.”",
+      "How's it going with the new flat?",
+      "Hey, how's it going? I haven't seen you all week."
+    ]
+  },
+  {
+    "chunk": "It's been ages",
+    "category": "social",
+    "meaning": "Says that you have not seen someone or done something for a long time.",
+    "usage": "Informal. Often followed by “since”: “It's been ages since we last met.”",
+    "examples": [
+      "Sarah! It's been ages! How are you?",
+      "It's been ages since I've been to the cinema.",
+      "It's been ages since we had a proper conversation.",
+      "Wow, it's been ages. You look great."
+    ]
+  },
+  {
+    "chunk": "Long time no see",
+    "category": "social",
+    "meaning": "A friendly greeting for someone you have not seen for a long time.",
+    "usage": "Informal and humorous. Grammatically unusual, but it is a fixed expression.",
+    "examples": [
+      "Hey, Mark! Long time no see!",
+      "Long time no see! What have you been doing?",
+      "“Long time no see!” “I know, it must be two years.”",
+      "Well, long time no see. Are you still living in Manchester?"
+    ]
+  },
+  {
+    "chunk": "What have you been up to?",
+    "category": "social",
+    "meaning": "Asks someone what they have been doing recently.",
+    "usage": "Informal. Common when meeting a friend after some time. Reply: “Not much” or details of your recent life.",
+    "examples": [
+      "It's great to see you! What have you been up to?",
+      "So, what have you been up to since we last met?",
+      "“What have you been up to?” “Oh, just working, mostly.”",
+      "What have you been up to lately? You look really well."
+    ]
+  },
+  {
+    "chunk": "I've heard a lot about you",
+    "category": "social",
+    "meaning": "A friendly thing to say when you meet someone for the first time whom others have talked about.",
+    "usage": "Polite. Often followed by “all good, I promise” as a joke. Common when meeting a partner's family or friends.",
+    "examples": [
+      "Nice to meet you at last. I've heard a lot about you.",
+      "I've heard a lot about you from Emma.",
+      "“This is my boss, Anna.” “Hello! I've heard a lot about you.”",
+      "I've heard a lot about you, all good things, of course."
+    ]
+  },
+  {
+    "chunk": "Thanks for having me",
+    "category": "social",
+    "meaning": "Thanks a host for inviting you to their home, event or programme.",
+    "usage": "Said when leaving someone's home or at the start or end of an interview or podcast. Reply: “Thanks for coming.”",
+    "examples": [
+      "Thanks for having me. I had a lovely evening.",
+      "Thanks for having me on the show.",
+      "Thanks for having me for the weekend; it was great.",
+      "“Thanks for having me.” “Any time. Come again soon.”"
+    ]
+  },
+  {
+    "chunk": "I really appreciate it",
+    "category": "social",
+    "meaning": "Expresses sincere thanks for someone's help or kindness.",
+    "usage": "Slightly warmer than “Thank you”. Often follows “Thanks”: “Thanks, I really appreciate it.”",
+    "examples": [
+      "Thanks for helping me move. I really appreciate it.",
+      "I know you're busy, so I really appreciate it.",
+      "Thanks for listening. I really appreciate it.",
+      "You didn't have to do that, but I really appreciate it."
+    ]
+  },
+  {
+    "chunk": "I owe you one",
+    "category": "social",
+    "meaning": "Thanks someone for a favour and promises to help them in return.",
+    "usage": "Informal. Also: “I owe you a drink”, “I owe you big time” (very informal).",
+    "examples": [
+      "Thanks for covering for me. I owe you one.",
+      "You saved my life with that lift. I owe you one.",
+      "I owe you one for helping me with the move.",
+      "“I fixed your bike.” “Thanks! I owe you one.”"
+    ]
+  },
+  {
+    "chunk": "You shouldn't have",
+    "category": "social",
+    "meaning": "Thanks someone warmly for a gift or kind act that you did not expect.",
+    "usage": "Polite and affectionate. It does not mean the person did something wrong. Usually followed by “Thank you!” or “It's lovely.”",
+    "examples": [
+      "Flowers! Oh, you shouldn't have!",
+      "You shouldn't have, but thank you so much.",
+      "“I got you a little present.” “You shouldn't have!”",
+      "You shouldn't have gone to so much trouble."
+    ]
+  },
+  {
+    "chunk": "Don't mention it",
+    "category": "social",
+    "meaning": "A polite reply to thanks, meaning that it was no trouble.",
+    "usage": "Slightly old-fashioned but still common. Alternatives: “You're welcome”, “No problem”, “Any time”.",
+    "examples": [
+      "“Thanks for your help.” “Don't mention it.”",
+      "Don't mention it; I was happy to help.",
+      "“Thanks for the lift.” “Oh, don't mention it.”",
+      "Don't mention it. You'd do the same for me."
+    ]
+  },
+  {
+    "chunk": "No worries",
+    "category": "social",
+    "meaning": "An informal reply to thanks or an apology, meaning that everything is fine.",
+    "usage": "Informal and very common in British and Australian English. Avoid it in formal emails.",
+    "examples": [
+      "“Sorry I'm late.” “No worries.”",
+      "“Thanks for the help.” “No worries!”",
+      "No worries, we can reschedule for next week.",
+      "“I forgot to bring your book.” “No worries, there's no rush.”"
+    ]
+  },
+  {
+    "chunk": "It's no trouble at all",
+    "category": "social",
+    "meaning": "Says that something you are doing for someone is not inconvenient.",
+    "usage": "Polite reply to thanks or an apology. Shorter: “No trouble.”",
+    "examples": [
+      "“Are you sure you can drive me?” “It's no trouble at all.”",
+      "It's no trouble at all; I'm going that way anyway.",
+      "“Sorry to bother you.” “It's no trouble at all.”",
+      "Stay for dinner. It's no trouble at all."
+    ]
+  },
+  {
+    "chunk": "I'm sorry to hear that",
+    "category": "social",
+    "meaning": "Expresses sympathy when someone tells you bad news.",
+    "usage": "Polite and neutral. “Sorry” here expresses sympathy, not an apology.",
+    "examples": [
+      "“My grandfather is in hospital.” “I'm sorry to hear that.”",
+      "I'm sorry to hear that you didn't get the job.",
+      "“We split up last month.” “Oh, I'm sorry to hear that.”",
+      "I'm sorry to hear that you've been ill."
+    ]
+  },
+  {
+    "chunk": "That must be really hard",
+    "category": "social",
+    "meaning": "Shows empathy by recognizing that someone is in a difficult situation.",
+    "usage": "Supportive and informal. Other adjectives are possible: “That must be really frustrating.”",
+    "examples": [
+      "You're working and studying full-time? That must be really hard.",
+      "“My parents live on the other side of the world.” “That must be really hard.”",
+      "That must be really hard, especially with young children.",
+      "Moving to a new country alone? That must be really hard."
+    ]
+  },
+  {
+    "chunk": "I know how you feel",
+    "category": "social",
+    "meaning": "Shows sympathy by saying you have had a similar experience.",
+    "usage": "Informal. Use with care: it can sound dismissive if you have not really had the same experience.",
+    "examples": [
+      "“I'm so nervous about the interview.” “I know how you feel.”",
+      "I know how you feel; I failed my driving test twice.",
+      "I know how you feel. Mondays are the worst.",
+      "Believe me, I know how you feel."
+    ]
+  },
+  {
+    "chunk": "What a shame!",
+    "category": "social",
+    "meaning": "Expresses disappointment or sympathy about something unfortunate.",
+    "usage": "Here “shame” means “a pity”, not embarrassment. Also: “That's a shame.”",
+    "examples": [
+      "“The concert's been cancelled.” “What a shame!”",
+      "What a shame you can't come to the party.",
+      "“It rained all weekend.” “Oh, what a shame!”",
+      "What a shame! I was really looking forward to it."
+    ]
+  },
+  {
+    "chunk": "That's a relief",
+    "category": "social",
+    "meaning": "Expresses that you feel better because a worry has been removed.",
+    "usage": "Informal. Stronger: “What a relief!”",
+    "examples": [
+      "“The test results are fine.” “That's a relief.”",
+      "You found your passport? That's a relief!",
+      "“The flight's on time.” “Oh, that's a relief.”",
+      "That's a relief; I thought I'd lost all my work."
+    ]
+  },
+  {
+    "chunk": "Good for you!",
+    "category": "social",
+    "meaning": "Praises someone for something they have done or decided.",
+    "usage": "Informal and encouraging. With an ironic tone it can sound dismissive.",
+    "examples": [
+      "“I've finally quit smoking.” “Good for you!”",
+      "You ran a marathon? Good for you!",
+      "“I told my boss I wanted a raise.” “Good for you!”",
+      "Good for you for standing up to him."
+    ]
+  },
+  {
+    "chunk": "Congratulations on …!",
+    "category": "social",
+    "meaning": "Expresses pleasure at someone's success or happy event.",
+    "usage": "Followed by a noun or -ing form. Note the preposition: “on”, not “for”.",
+    "examples": [
+      "Congratulations on your new job!",
+      "Congratulations on passing your exams!",
+      "Congratulations on the baby!",
+      "Congratulations on your engagement! When's the wedding?"
+    ]
+  },
+  {
+    "chunk": "Fingers crossed",
+    "category": "social",
+    "meaning": "Expresses hope that something will happen as you want.",
+    "usage": "Informal. People sometimes cross their fingers as they say it. Also: “I'll keep my fingers crossed for you.”",
+    "examples": [
+      "The results come out tomorrow. Fingers crossed!",
+      "Fingers crossed the weather stays dry for the wedding.",
+      "“Did you get the flat?” “Not yet. Fingers crossed.”",
+      "Fingers crossed it all goes well."
+    ]
+  },
+  {
+    "chunk": "Good luck with …!",
+    "category": "social",
+    "meaning": "Wishes someone success with something they are about to do.",
+    "usage": "Followed by a noun or -ing form. Also: “Good luck in your exam” and “Best of luck!”",
+    "examples": [
+      "Good luck with your interview!",
+      "Good luck with the move!",
+      "Good luck with finding a new job.",
+      "Good luck with the exams next week!"
+    ]
+  },
+  {
+    "chunk": "It's on me",
+    "category": "social",
+    "meaning": "Says that you will pay for something, usually food or drinks.",
+    "usage": "Informal. Also: “This one's on me”, “Lunch is on me.”",
+    "examples": [
+      "Put your wallet away; it's on me.",
+      "Order whatever you like. It's on me tonight.",
+      "“How much do I owe you?” “Nothing, it's on me.”",
+      "It's on me. You paid last time."
+    ]
+  },
+  {
+    "chunk": "Help yourself",
+    "category": "social",
+    "meaning": "Tells a guest to take food, drink or something else freely.",
+    "usage": "Friendly and informal. Often followed by “to” + noun: “Help yourself to coffee.”",
+    "examples": [
+      "Help yourself to anything in the fridge.",
+      "There's plenty of food, so help yourself.",
+      "“Can I have a biscuit?” “Of course, help yourself.”",
+      "Help yourself to a drink while I finish cooking."
+    ]
+  },
+  {
+    "chunk": "Say hi to … for me",
+    "category": "social",
+    "meaning": "Asks someone to pass on your friendly greetings to another person.",
+    "usage": "Informal. More formal: “Give my regards to …”.",
+    "examples": [
+      "Say hi to your parents for me.",
+      "If you see Jake, say hi to him for me.",
+      "Say hi to everyone at the office for me.",
+      "Have a great trip, and say hi to your sister for me."
+    ]
+  },
+  {
+    "chunk": "Let's catch up soon",
+    "category": "social",
+    "meaning": "Suggests meeting again soon to talk and share news.",
+    "usage": "Informal. Often said at the end of a short meeting or message. It is sometimes said without a real plan to meet.",
+    "examples": [
+      "It was great to bump into you. Let's catch up soon.",
+      "I've got to run, but let's catch up soon.",
+      "Let's catch up soon; it's been far too long.",
+      "Let's catch up soon over coffee."
+    ]
+  },
+  {
+    "chunk": "Let me know how it goes",
+    "category": "social",
+    "meaning": "Asks someone to tell you about the result of something they are about to do.",
+    "usage": "Friendly and informal. Common before exams, interviews and appointments.",
+    "examples": [
+      "Good luck tomorrow, and let me know how it goes.",
+      "Let me know how it goes with the doctor.",
+      "Let me know how it goes; I'll be thinking of you.",
+      "I hope the presentation goes well. Let me know how it goes!"
+    ]
+  },
+  {
+    "chunk": "It was nice talking to you",
+    "category": "social",
+    "meaning": "A polite way to end a conversation.",
+    "usage": "Neutral. Common at parties, events and the end of phone calls. Shorter: “Nice talking to you.”",
+    "examples": [
+      "Well, I'd better go. It was nice talking to you.",
+      "It was nice talking to you. I hope we meet again.",
+      "It was nice talking to you, and good luck with the new job.",
+      "Thanks for the advice. It was nice talking to you."
+    ]
+  },
+  {
+    "chunk": "I'd better get going",
+    "category": "social",
+    "meaning": "Signals politely that you need to leave.",
+    "usage": "Informal. A common way to start ending a conversation or visit. Similar: “I should be off.”",
+    "examples": [
+      "It's getting late. I'd better get going.",
+      "I'd better get going, or I'll miss my train.",
+      "Thanks for the coffee. I'd better get going.",
+      "Sorry, I'd better get going; I've got a meeting at three."
+    ]
+  },
+  {
+    "chunk": "Take care",
+    "category": "social",
+    "meaning": "A warm way to say goodbye.",
+    "usage": "Informal and friendly. Common at the end of conversations, calls and messages. Also: “Take care of yourself.”",
+    "examples": [
+      "Bye, then. Take care!",
+      "Take care, and see you next week.",
+      "Take care, and drive safely.",
+      "I'll call you tomorrow. Take care."
+    ]
+  },
+  {
+    "chunk": "Never mind",
+    "category": "social",
+    "meaning": "Tells someone not to worry, or that something is not important.",
+    "usage": "Informal. Also used to drop a question: “Never mind, I've found it.” Do not use it to reply to “Thank you”.",
+    "examples": [
+      "“I'm sorry, I forgot your book.” “Never mind, there's no hurry.”",
+      "Never mind, we can try again tomorrow.",
+      "Where are my keys? Oh, never mind, I've found them.",
+      "Never mind what he says; you did your best."
+    ]
+  },
+  {
+    "chunk": "Let me think",
+    "category": "conversation",
+    "meaning": "Asks for a moment to think before answering.",
+    "usage": "Informal and natural for gaining time. Variants: “Let me see”, “Let me think about it” (to delay a decision).",
+    "examples": [
+      "“When did you last see him?” “Let me think… Tuesday, I think.”",
+      "Let me think about it and I'll let you know tomorrow.",
+      "Hmm, let me think. Was it the red one or the blue one?",
+      "“What's the best restaurant around here?” “Let me think.”"
+    ]
+  },
+  {
+    "chunk": "That's a good question",
+    "category": "conversation",
+    "meaning": "Gives you time to think, or shows that a question is difficult or interesting.",
+    "usage": "Very common in interviews and presentations. Overusing it can sound like you are avoiding the question.",
+    "examples": [
+      "“Why did you choose this university?” “That's a good question.”",
+      "That's a good question, and I'm not sure anyone knows the answer.",
+      "Hmm, that's a good question. Let me check and get back to you.",
+      "That's a good question; I've never really thought about it."
+    ]
+  },
+  {
+    "chunk": "How can I put it?",
+    "category": "conversation",
+    "meaning": "Signals that you are searching for the right or most tactful words.",
+    "usage": "Informal. Often comes before a criticism or delicate comment. Variant: “How shall I put it?”",
+    "examples": [
+      "He's, how can I put it, not the most organized person.",
+      "How can I put it? The food was… interesting.",
+      "The flat is, how can I put it, a little cosy.",
+      "How can I put it? She's very confident in her own opinions."
+    ]
+  },
+  {
+    "chunk": "It's on the tip of my tongue",
+    "category": "conversation",
+    "meaning": "Says that you almost remember a word or name but cannot quite recall it.",
+    "usage": "Informal. Often followed by “Give me a second.”",
+    "examples": [
+      "What's the name of that actor? It's on the tip of my tongue.",
+      "It's on the tip of my tongue… Maria? No, Marta!",
+      "I know the word. It's on the tip of my tongue.",
+      "“What's that song called?” “It's on the tip of my tongue.”"
+    ]
+  },
+  {
+    "chunk": "Off the top of my head, …",
+    "category": "conversation",
+    "meaning": "Introduces an answer given quickly, without checking facts.",
+    "usage": "Informal. Shows that the answer may not be exact. Also: “I don't know off the top of my head.”",
+    "examples": [
+      "Off the top of my head, I'd say about fifty people.",
+      "I can't remember the exact figure off the top of my head.",
+      "Off the top of my head, I can think of three possible reasons.",
+      "Off the top of my head, the meeting is on the fifth, but let me check."
+    ]
+  },
+  {
+    "chunk": "Where was I?",
+    "category": "conversation",
+    "meaning": "Used after an interruption when you have forgotten what you were saying.",
+    "usage": "Informal. Often said after a distraction: “Sorry, where was I?”",
+    "examples": [
+      "Sorry about that. Where was I?",
+      "Now, where was I? Oh yes, the budget.",
+      "Where was I? Ah yes, the part about the contract.",
+      "Where was I? I was telling you about the hotel."
+    ]
+  },
+  {
+    "chunk": "As I was saying, …",
+    "category": "conversation",
+    "meaning": "Returns to what you were talking about before an interruption.",
+    "usage": "Neutral. Can sound slightly annoyed if someone interrupted rudely.",
+    "examples": [
+      "As I was saying, the project will take three months.",
+      "Anyway, as I was saying, we need to cut costs.",
+      "As I was saying before the break, the results were positive.",
+      "As I was saying, I think we should wait."
+    ]
+  },
+  {
+    "chunk": "Going back to …",
+    "category": "conversation",
+    "meaning": "Returns to a topic that was mentioned earlier in the conversation.",
+    "usage": "Common in meetings and discussions. Also: “Going back to what you said earlier, …”.",
+    "examples": [
+      "Going back to what you said earlier, I think you're right.",
+      "Going back to the budget, do we have any final figures?",
+      "Going back to your question, the answer is yes.",
+      "Going back to the first point, can we discuss the timing?"
+    ]
+  },
+  {
+    "chunk": "Anyway, …",
+    "category": "conversation",
+    "meaning": "Changes the subject, returns to the main topic or signals the end of a conversation.",
+    "usage": "Very common in speech. “Anyway, I'd better go” is a typical way to end a chat.",
+    "examples": [
+      "Anyway, enough about me. How are you?",
+      "Anyway, I'd better go. I'll call you later.",
+      "Anyway, where was I? Oh yes, the party.",
+      "It doesn't matter now. Anyway, it all worked out in the end."
+    ]
+  },
+  {
+    "chunk": "By the way, …",
+    "category": "conversation",
+    "meaning": "Introduces something not directly connected to the current topic.",
+    "usage": "Informal and very common. Abbreviated as “BTW” in messages.",
+    "examples": [
+      "By the way, have you seen my keys?",
+      "Oh, by the way, Sarah called while you were out.",
+      "By the way, the meeting has moved to Thursday.",
+      "By the way, congratulations on your new job!"
+    ]
+  },
+  {
+    "chunk": "Speaking of …",
+    "category": "conversation",
+    "meaning": "Introduces a new topic that is connected to something just mentioned.",
+    "usage": "Informal. Followed by a noun or -ing form. Also: “Talking of …” (British).",
+    "examples": [
+      "Speaking of holidays, where are you going this summer?",
+      "Speaking of Tom, have you heard he's getting married?",
+      "Speaking of food, I'm starving. Shall we eat?",
+      "Speaking of cooking, I've finally learned to make bread."
+    ]
+  },
+  {
+    "chunk": "That reminds me, …",
+    "category": "conversation",
+    "meaning": "Introduces something you have just remembered because of what someone said.",
+    "usage": "Informal. Often followed by a task or piece of news.",
+    "examples": [
+      "That reminds me, I need to buy a birthday card for Mum.",
+      "Oh, that reminds me, did you pay the electricity bill?",
+      "That reminds me, there's a great film on tonight.",
+      "Speaking of exams, that reminds me, I haven't registered yet."
+    ]
+  },
+  {
+    "chunk": "Before I forget, …",
+    "category": "conversation",
+    "meaning": "Introduces something you want to say now so that you do not forget it later.",
+    "usage": "Informal. Common at the start or end of a conversation.",
+    "examples": [
+      "Before I forget, here's the money I owe you.",
+      "Before I forget, your mum called this morning.",
+      "Oh, before I forget, the office is closed on Monday.",
+      "Before I forget, can you send me that link?"
+    ]
+  },
+  {
+    "chunk": "Sorry to interrupt, but …",
+    "category": "conversation",
+    "meaning": "Politely interrupts someone who is speaking.",
+    "usage": "Polite and common in meetings. Also: “Sorry to interrupt” on its own.",
+    "examples": [
+      "Sorry to interrupt, but there's a call for you.",
+      "Sorry to interrupt, but we only have five minutes left.",
+      "Sorry to interrupt, but could you repeat that number?",
+      "Sorry to interrupt, but I think there's a mistake on that slide."
+    ]
+  },
+  {
+    "chunk": "Can I just say something?",
+    "category": "conversation",
+    "meaning": "Asks for the chance to speak, often during a discussion.",
+    "usage": "Fairly polite way to enter a conversation. Variant: “Can I just add something?”",
+    "examples": [
+      "Can I just say something? I think we're missing the point.",
+      "Sorry, can I just say something before we move on?",
+      "Can I just say something here? This affects my team too.",
+      "Can I just say something? Thank you all for your hard work."
+    ]
+  },
+  {
+    "chunk": "If you don't mind me asking, …",
+    "category": "conversation",
+    "meaning": "Softens a personal or sensitive question.",
+    "usage": "Polite. Often used before questions about age, money or relationships. Also: “if you don't mind my asking” (more formal).",
+    "examples": [
+      "If you don't mind me asking, how much did it cost?",
+      "If you don't mind me asking, why did you leave your last job?",
+      "How old are you, if you don't mind me asking?",
+      "If you don't mind me asking, are you married?"
+    ]
+  },
+  {
+    "chunk": "Out of curiosity, …",
+    "category": "conversation",
+    "meaning": "Signals that you are asking a question simply because you are interested.",
+    "usage": "Informal. Shows the question is not a criticism. Also: “Just out of curiosity, …”.",
+    "examples": [
+      "Out of curiosity, how did you find this place?",
+      "Just out of curiosity, what made you choose medicine?",
+      "Out of curiosity, how long have you lived here?",
+      "Out of curiosity, who designed the logo?"
+    ]
+  },
+  {
+    "chunk": "Now that you mention it, …",
+    "category": "conversation",
+    "meaning": "Says that something someone has said makes you notice or remember something.",
+    "usage": "Informal. Often agrees with an observation you hadn't noticed before.",
+    "examples": [
+      "Now that you mention it, she did seem a bit quiet.",
+      "Now that you mention it, I haven't seen him for weeks.",
+      "“Is it cold in here?” “Now that you mention it, yes.”",
+      "Now that you mention it, the room does look smaller."
+    ]
+  },
+  {
+    "chunk": "Come to think of it, …",
+    "category": "conversation",
+    "meaning": "Introduces something you have just realized or remembered while speaking.",
+    "usage": "Informal. Similar to “Now that you mention it” but triggered by your own thinking.",
+    "examples": [
+      "Come to think of it, I haven't eaten all day.",
+      "Come to think of it, he never told us his surname.",
+      "I didn't think it was strange, but come to think of it, she left very suddenly.",
+      "Come to think of it, that was the last time I saw her."
+    ]
+  },
+  {
+    "chunk": "Don't get me wrong, …",
+    "category": "conversation",
+    "meaning": "Prevents a misunderstanding, usually before a criticism of something you basically like.",
+    "usage": "Informal. Usually followed by a positive statement and then “but”.",
+    "examples": [
+      "Don't get me wrong, I love my job, but I need a break.",
+      "Don't get me wrong, he's a nice guy. He's just not right for this role.",
+      "Don't get me wrong, the food was good, but it was very expensive.",
+      "Don't get me wrong, I'm not against change."
+    ]
+  },
+  {
+    "chunk": "Mind you, …",
+    "category": "conversation",
+    "meaning": "Adds a comment that slightly changes or weakens what you have just said.",
+    "usage": "Informal and British. Similar to “Having said that”.",
+    "examples": [
+      "The hotel was lovely. Mind you, it was very expensive.",
+      "He's not very friendly. Mind you, he's always polite.",
+      "It's a long drive. Mind you, the scenery is beautiful.",
+      "I'm exhausted. Mind you, I did go to bed very late."
+    ]
+  },
+  {
+    "chunk": "The thing is, …",
+    "category": "conversation",
+    "meaning": "Introduces an explanation, problem or reason, often an awkward one.",
+    "usage": "Informal. Very common when explaining why you can't do something.",
+    "examples": [
+      "I'd love to come. The thing is, I've already got plans.",
+      "The thing is, we don't have enough time.",
+      "The thing is, I'm not sure he's telling the truth.",
+      "I want to help. The thing is, I don't know how."
+    ]
+  },
+  {
+    "chunk": "Guess what?",
+    "category": "conversation",
+    "meaning": "Introduces surprising or exciting news.",
+    "usage": "Informal. The listener usually replies “What?”.",
+    "examples": [
+      "Guess what? I got the job!",
+      "Guess what? Sam and Lucy are getting married.",
+      "Guess what? We won the competition.",
+      "Guess what? I saw your old teacher at the station."
+    ]
+  },
+  {
+    "chunk": "You'll never guess …",
+    "category": "conversation",
+    "meaning": "Introduces very surprising news.",
+    "usage": "Informal. Often followed by a question word: “You'll never guess who I saw.”",
+    "examples": [
+      "You'll never guess who I saw at the airport.",
+      "You'll never guess what happened at work today.",
+      "You'll never guess how much they paid for that house.",
+      "You'll never guess where they went on their honeymoon."
+    ]
+  },
+  {
+    "chunk": "Believe it or not, …",
+    "category": "conversation",
+    "meaning": "Introduces something true but surprising.",
+    "usage": "Neutral. Common in storytelling and presentations.",
+    "examples": [
+      "Believe it or not, I've never been on a plane.",
+      "Believe it or not, this building is over five hundred years old.",
+      "Believe it or not, he used to be very shy.",
+      "Believe it or not, the cheapest option was also the best."
+    ]
+  },
+  {
+    "chunk": "Funnily enough, …",
+    "category": "conversation",
+    "meaning": "Introduces a surprising coincidence or something unexpected.",
+    "usage": "Informal and British. “Funny” here means “strange”.",
+    "examples": [
+      "Funnily enough, I was just thinking about you.",
+      "Funnily enough, we went to the same school.",
+      "Funnily enough, the cheaper phone works better.",
+      "Funnily enough, I don't miss the city at all."
+    ]
+  },
+  {
+    "chunk": "It turns out …",
+    "category": "conversation",
+    "meaning": "Introduces a fact that has been discovered, often a surprising one.",
+    "usage": "Often followed by “(that)”. Past form: “It turned out (that) …”.",
+    "examples": [
+      "It turns out she's been living in Spain for years.",
+      "It turns out that the shop is closed on Mondays.",
+      "We were worried, but it turns out everything is fine.",
+      "It turns out he knew about the plan all along."
+    ]
+  },
+  {
+    "chunk": "To cut a long story short, …",
+    "category": "conversation",
+    "meaning": "Introduces the result of a story without giving all the details.",
+    "usage": "Informal and British. American English often uses “Long story short, …”.",
+    "examples": [
+      "To cut a long story short, we missed the flight.",
+      "To cut a long story short, I ended up moving to Berlin.",
+      "There were lots of problems, but to cut a long story short, it all worked out.",
+      "To cut a long story short, they're not speaking to each other."
+    ]
+  },
+  {
+    "chunk": "Let's change the subject",
+    "category": "conversation",
+    "meaning": "Suggests talking about something else, often because the current topic is uncomfortable.",
+    "usage": "Informal. Can be tactful or slightly abrupt, depending on tone.",
+    "examples": [
+      "This is getting depressing. Let's change the subject.",
+      "Let's change the subject before we start arguing.",
+      "OK, let's change the subject. How was your holiday?",
+      "I'd rather not talk about work. Let's change the subject."
+    ]
+  },
+  {
+    "chunk": "You know what?",
+    "category": "conversation",
+    "meaning": "Draws attention to something you are about to say, often a sudden decision or opinion.",
+    "usage": "Informal. Often introduces a change of mind: “You know what? I'll come with you.”",
+    "examples": [
+      "You know what? I'm going to apply for that job.",
+      "You know what? You're absolutely right.",
+      "You know what? Let's just order a pizza.",
+      "You know what? I don't care what they think."
+    ]
+  },
+  {
+    "chunk": "This essay argues that …",
+    "category": "academic",
+    "meaning": "States the main claim (thesis) of an essay, usually in the introduction.",
+    "usage": "Formal. Variants: “This paper argues that …”, “In this essay, I will argue that …”. Avoid “This essay will talk about”, which is vague.",
+    "examples": [
+      "This essay argues that social media has changed the way young people form friendships.",
+      "This essay argues that public transport should be free in large cities.",
+      "This essay argues that the policy failed because of poor communication.",
+      "Drawing on recent data, this essay argues that remote work increases productivity."
+    ]
+  },
+  {
+    "chunk": "The aim of this study is to …",
+    "category": "academic",
+    "meaning": "States the purpose of a piece of research.",
+    "usage": "Formal. Followed by a verb such as investigate, examine, explore or assess. Variants: “This study aims to …”, “The purpose of this study is to …”.",
+    "examples": [
+      "The aim of this study is to examine the effects of sleep on memory.",
+      "The aim of this study is to assess how students use online resources.",
+      "The aim of this study is to compare two methods of teaching vocabulary.",
+      "The aim of this study is to identify the main causes of staff turnover."
+    ]
+  },
+  {
+    "chunk": "It is widely believed that …",
+    "category": "academic",
+    "meaning": "Introduces a common belief, often one you will question.",
+    "usage": "Formal and impersonal. Often followed by “However, …”. Similar: “It is commonly assumed that …”.",
+    "examples": [
+      "It is widely believed that breakfast is the most important meal of the day.",
+      "It is widely believed that bilingual children learn more slowly, but research suggests otherwise.",
+      "It is widely believed that money brings happiness.",
+      "It is widely believed that exercise improves mental health."
+    ]
+  },
+  {
+    "chunk": "It is generally accepted that …",
+    "category": "academic",
+    "meaning": "Introduces a view that most experts or people agree with.",
+    "usage": "Formal. Stronger than “It is widely believed”, because it suggests the view is established.",
+    "examples": [
+      "It is generally accepted that smoking causes cancer.",
+      "It is generally accepted that early education has long-term benefits.",
+      "It is generally accepted that the climate is warming.",
+      "It is generally accepted that language develops through interaction."
+    ]
+  },
+  {
+    "chunk": "There is growing evidence that …",
+    "category": "academic",
+    "meaning": "Says that more and more research supports a claim.",
+    "usage": "Formal. Signals a developing consensus. Also: “There is increasing evidence that …”.",
+    "examples": [
+      "There is growing evidence that air pollution affects children's learning.",
+      "There is growing evidence that loneliness harms physical health.",
+      "There is growing evidence that short breaks improve concentration.",
+      "There is growing evidence that diet plays a role in depression."
+    ]
+  },
+  {
+    "chunk": "There is little evidence that …",
+    "category": "academic",
+    "meaning": "Says that a claim is not well supported by research.",
+    "usage": "Formal. A polite way to challenge a popular belief. Also: “There is no evidence that …” (stronger).",
+    "examples": [
+      "There is little evidence that brain-training games improve intelligence.",
+      "There is little evidence that the new policy has reduced crime.",
+      "There is little evidence that people learn better when taught in their preferred style.",
+      "There is little evidence that vitamin supplements prevent colds."
+    ]
+  },
+  {
+    "chunk": "Research suggests that …",
+    "category": "academic",
+    "meaning": "Reports a conclusion from research cautiously.",
+    "usage": "“Suggests” is more cautious than “proves” or “shows”. Often followed by a citation in academic writing.",
+    "examples": [
+      "Research suggests that reading on paper improves comprehension.",
+      "Research suggests that people are happier when they spend time outdoors.",
+      "Research suggests that multitasking reduces productivity.",
+      "Recent research suggests that the effect may be smaller than first thought."
+    ]
+  },
+  {
+    "chunk": "The findings suggest that …",
+    "category": "academic",
+    "meaning": "Introduces a cautious interpretation of research results.",
+    "usage": "Formal. Common in the discussion section of a report. Stronger: “The findings show that …”.",
+    "examples": [
+      "The findings suggest that age is not a major factor.",
+      "The findings suggest that students prefer shorter lectures.",
+      "The findings suggest that the treatment is effective for most patients.",
+      "Overall, the findings suggest that further training is needed."
+    ]
+  },
+  {
+    "chunk": "According to …",
+    "category": "academic",
+    "meaning": "Reports information or an opinion from a particular source.",
+    "usage": "Do not use it with your own opinion: say “In my opinion”, not “According to me”.",
+    "examples": [
+      "According to the latest figures, unemployment has fallen.",
+      "According to Smith (2020), most learners overestimate their progress.",
+      "According to the report, the project is behind schedule.",
+      "According to the World Health Organization, the risk is low."
+    ]
+  },
+  {
+    "chunk": "As … points out, …",
+    "category": "academic",
+    "meaning": "Introduces a point made by another writer that supports your argument.",
+    "usage": "Formal. Present tense is normal for citing authors. Other reporting verbs: “As … argues/notes/observes”.",
+    "examples": [
+      "As Johnson points out, the data only covers one year.",
+      "As the author points out, this approach has limitations.",
+      "As one critic points out, the film ignores the economic context.",
+      "As Lee (2018) points out, motivation is closely linked to success."
+    ]
+  },
+  {
+    "chunk": "A good example of this is …",
+    "category": "academic",
+    "meaning": "Introduces an example that supports a general point.",
+    "usage": "Neutral to formal. Common in essays and presentations. Variants: “A clear example of this is …”, “This is illustrated by …”.",
+    "examples": [
+      "Some cities have reduced traffic dramatically. A good example of this is Copenhagen.",
+      "Technology can widen inequality. A good example of this is access to fast internet.",
+      "Small changes can have big effects. A good example of this is the plastic bag charge.",
+      "Languages borrow words constantly. A good example of this is English."
+    ]
+  },
+  {
+    "chunk": "This is illustrated by …",
+    "category": "academic",
+    "meaning": "Introduces an example or piece of evidence that shows a point clearly.",
+    "usage": "Formal. Also: “This can be seen in …”, “As illustrated by …”.",
+    "examples": [
+      "This is illustrated by the sharp rise in housing costs.",
+      "Young people are increasingly politically active. This is illustrated by recent climate protests.",
+      "This is illustrated by the data in Table 2.",
+      "The policy had unintended effects. This is illustrated by the case of rural schools."
+    ]
+  },
+  {
+    "chunk": "It is worth noting that …",
+    "category": "academic",
+    "meaning": "Draws attention to an important or interesting detail.",
+    "usage": "Formal but also used in speech. Similar: “It is important to note that …”, “It should be noted that …”.",
+    "examples": [
+      "It is worth noting that the sample size was very small.",
+      "It is worth noting that prices vary by region.",
+      "It is worth noting that the survey was carried out before the pandemic.",
+      "It is worth noting that not all participants completed the course."
+    ]
+  },
+  {
+    "chunk": "It should be noted that …",
+    "category": "academic",
+    "meaning": "Introduces a limitation, warning or important detail.",
+    "usage": "Formal and impersonal. Common in reports and academic papers, especially for limitations.",
+    "examples": [
+      "It should be noted that these results are preliminary.",
+      "It should be noted that the study only included adults.",
+      "It should be noted that the figures do not include part-time workers.",
+      "It should be noted that correlation does not imply causation."
+    ]
+  },
+  {
+    "chunk": "One possible explanation is that …",
+    "category": "academic",
+    "meaning": "Offers a cautious explanation for a result or situation.",
+    "usage": "Formal. Signals that other explanations may exist. Also: “Another possible explanation is that …”.",
+    "examples": [
+      "One possible explanation is that participants were tired by the end of the test.",
+      "One possible explanation is that prices rose faster than wages.",
+      "One possible explanation is that the instructions were misunderstood.",
+      "One possible explanation is that younger users are more familiar with the technology."
+    ]
+  },
+  {
+    "chunk": "This may be due to …",
+    "category": "academic",
+    "meaning": "Suggests a possible cause, without claiming certainty.",
+    "usage": "Formal. Followed by a noun or “the fact that”. Also: “This may be because …”.",
+    "examples": [
+      "This may be due to differences in teaching methods.",
+      "This may be due to the small size of the sample.",
+      "This may be due to the fact that the survey was online.",
+      "Sales fell in March. This may be due to the bad weather."
+    ]
+  },
+  {
+    "chunk": "It could be argued that …",
+    "category": "academic",
+    "meaning": "Introduces an argument, often one you will then discuss or reject.",
+    "usage": "Formal and impersonal. A cautious way to present your own view or a counterargument.",
+    "examples": [
+      "It could be argued that technology has made us less patient.",
+      "It could be argued that the government acted too late.",
+      "It could be argued that exams measure memory rather than understanding.",
+      "On the other hand, it could be argued that the benefits outweigh the costs."
+    ]
+  },
+  {
+    "chunk": "Critics argue that …",
+    "category": "academic",
+    "meaning": "Introduces the views of people who oppose an idea or policy.",
+    "usage": "Formal. Often followed by a response: “However, supporters claim …”.",
+    "examples": [
+      "Critics argue that the policy unfairly targets low-income families.",
+      "Critics argue that standardized tests narrow the curriculum.",
+      "Critics argue that the study ignores important variables.",
+      "Critics argue that tourism damages local culture."
+    ]
+  },
+  {
+    "chunk": "In contrast to …",
+    "category": "academic",
+    "meaning": "Introduces a comparison that highlights a difference.",
+    "usage": "Formal. Followed by a noun. Also: “By contrast, …” or “In contrast, …” to start a sentence.",
+    "examples": [
+      "In contrast to previous studies, we found no gender difference.",
+      "In contrast to the city centre, the suburbs are quiet.",
+      "In contrast to his brother, he is very outgoing.",
+      "In contrast to last year, sales rose in every region."
+    ]
+  },
+  {
+    "chunk": "The main advantage of … is …",
+    "category": "academic",
+    "meaning": "Introduces the most important benefit of something.",
+    "usage": "Common in essays that discuss advantages and disadvantages. Variant: “One major advantage of …”.",
+    "examples": [
+      "The main advantage of online learning is flexibility.",
+      "The main advantage of this method is that it is cheap.",
+      "The main advantage of living in a city is access to services.",
+      "The main advantage of solar power is that it is renewable."
+    ]
+  },
+  {
+    "chunk": "A major drawback of … is …",
+    "category": "academic",
+    "meaning": "Introduces an important disadvantage of something.",
+    "usage": "Formal to neutral. “Drawback” is a common word for a disadvantage. Also: “One drawback of … is …”.",
+    "examples": [
+      "A major drawback of this approach is the cost.",
+      "A major drawback of nuclear power is the problem of waste.",
+      "A major drawback of online surveys is that responses may be unreliable.",
+      "A major drawback of the plan is that it takes too long."
+    ]
+  },
+  {
+    "chunk": "This raises the question of …",
+    "category": "academic",
+    "meaning": "Introduces an issue that follows logically from what has been said.",
+    "usage": "Formal. Followed by a noun or “whether”. Note: in strict usage, “begs the question” means something different.",
+    "examples": [
+      "This raises the question of who should pay for the changes.",
+      "This raises the question of whether the results apply to other countries.",
+      "This raises the question of how reliable the data really is.",
+      "If the policy fails, this raises the question of what should replace it."
+    ]
+  },
+  {
+    "chunk": "Further research is needed to …",
+    "category": "academic",
+    "meaning": "Says that more study is required to answer a question fully.",
+    "usage": "Common in conclusions. Shows the limitations of current knowledge.",
+    "examples": [
+      "Further research is needed to confirm these findings.",
+      "Further research is needed to understand the long-term effects.",
+      "Further research is needed to determine whether the results apply to children.",
+      "Further research is needed to identify the causes of the decline."
+    ]
+  },
+  {
+    "chunk": "In the light of …",
+    "category": "academic",
+    "meaning": "Means “considering” or “because of” new information or events.",
+    "usage": "Formal and mainly British. American English often uses “in light of”.",
+    "examples": [
+      "In the light of these results, the policy should be reviewed.",
+      "In the light of recent events, the conference has been postponed.",
+      "The plan was changed in the light of feedback from students.",
+      "In the light of the new evidence, the case was reopened."
+    ]
+  },
+  {
+    "chunk": "This is consistent with …",
+    "category": "academic",
+    "meaning": "Says that a result agrees with previous findings or with a theory.",
+    "usage": "Formal. Often followed by a citation. Opposite: “This contradicts …” or “This is inconsistent with …”.",
+    "examples": [
+      "This is consistent with earlier research on memory.",
+      "This is consistent with the theory of supply and demand.",
+      "The result is surprising, but this is consistent with what other studies have found.",
+      "This is consistent with the findings of Brown (2015)."
+    ]
+  },
+  {
+    "chunk": "As mentioned above, …",
+    "category": "academic",
+    "meaning": "Refers back to something already said earlier in a text.",
+    "usage": "Used in writing only. In speech, say “As I mentioned earlier”. Variant: “As noted above, …”.",
+    "examples": [
+      "As mentioned above, the data was collected over six months.",
+      "As mentioned above, this method has several limitations.",
+      "As mentioned above, the main problem is cost.",
+      "As mentioned above, participants were divided into two groups."
+    ]
+  },
+  {
+    "chunk": "the extent to which …",
+    "category": "academic",
+    "meaning": "Refers to how much or how far something is true.",
+    "usage": "Formal. Common in essay questions: “Discuss the extent to which …”. Followed by a clause.",
+    "examples": [
+      "This study examines the extent to which social media affects sleep.",
+      "The report questions the extent to which the policy has succeeded.",
+      "Discuss the extent to which money can buy happiness.",
+      "We need to understand the extent to which students rely on translation tools."
+    ]
+  },
+  {
+    "chunk": "In conclusion, …",
+    "category": "academic",
+    "meaning": "Introduces the final summary of an essay or speech.",
+    "usage": "Common but formulaic. Alternatives: “To conclude, …”, “Overall, …”. Do not introduce new ideas after it.",
+    "examples": [
+      "In conclusion, the benefits of the scheme clearly outweigh the costs.",
+      "In conclusion, more needs to be done to protect wildlife.",
+      "In conclusion, both approaches have strengths and weaknesses.",
+      "In conclusion, I believe the proposal should be accepted."
+    ]
+  },
+  {
+    "chunk": "Taken together, …",
+    "category": "academic",
+    "meaning": "Introduces a conclusion based on several pieces of evidence considered as a whole.",
+    "usage": "Formal. Common in research papers: “Taken together, these results suggest …”.",
+    "examples": [
+      "Taken together, these findings suggest that the treatment works.",
+      "Taken together, the evidence points to a clear trend.",
+      "Taken together, these factors explain the drop in sales.",
+      "Taken together, the two studies show a consistent pattern."
+    ]
+  },
+  {
+    "chunk": "There is no doubt that …",
+    "category": "academic",
+    "meaning": "States that something is certainly true.",
+    "usage": "Strong. In academic writing, use it only for well-established facts. Also: “There is little doubt that …” (slightly weaker).",
+    "examples": [
+      "There is no doubt that the internet has transformed education.",
+      "There is no doubt that climate change is a serious threat.",
+      "There is no doubt that she is the best candidate.",
+      "There is no doubt that the economy has recovered."
+    ]
+  },
+  {
+    "chunk": "I'm writing to …",
+    "category": "business",
+    "meaning": "States the purpose of an email or letter at the beginning.",
+    "usage": "Neutral to formal. Followed by a verb such as enquire, confirm, apply, complain or follow up. More formal: “I am writing to …”. Also: “I'm writing about …” + noun.",
+    "examples": [
+      "I'm writing to confirm our meeting on Thursday.",
+      "I'm writing to apply for the position of marketing assistant.",
+      "I'm writing to ask whether the course is still available.",
+      "I'm writing to follow up on our conversation last week."
+    ]
+  },
+  {
+    "chunk": "Thanks for getting back to me",
+    "category": "business",
+    "meaning": "Thanks someone for replying to your message or request.",
+    "usage": "Neutral. Common at the start of an email reply. Add “so quickly” to thank someone for a fast response.",
+    "examples": [
+      "Hi Anna, thanks for getting back to me so quickly.",
+      "Thanks for getting back to me. Thursday works well for us.",
+      "Thanks for getting back to me about the invoice.",
+      "Thanks for getting back to me; I'll pass the details on to my team."
+    ]
+  },
+  {
+    "chunk": "Please find attached …",
+    "category": "business",
+    "meaning": "Tells the reader that a document is attached to the email.",
+    "usage": "Formal and traditional. Less formal: “I've attached …” or “Attached is …”.",
+    "examples": [
+      "Please find attached my CV and cover letter.",
+      "Please find attached the minutes from today's meeting.",
+      "Please find attached the invoice for March.",
+      "Please find attached a copy of the signed contract."
+    ]
+  },
+  {
+    "chunk": "As discussed, …",
+    "category": "business",
+    "meaning": "Refers back to a conversation you have already had with the reader.",
+    "usage": "Common in follow-up emails. Also: “As discussed on the phone, …”, “As we discussed, …”.",
+    "examples": [
+      "As discussed, I've attached the updated schedule.",
+      "As discussed on the phone, the delivery will arrive on Monday.",
+      "As discussed, we'll review the figures next week.",
+      "As discussed in the meeting, the budget will be cut by ten per cent."
+    ]
+  },
+  {
+    "chunk": "Just a quick reminder that …",
+    "category": "business",
+    "meaning": "Politely reminds someone of a deadline, meeting or task.",
+    "usage": "Friendly and informal enough for internal emails. Softer than “Don't forget”.",
+    "examples": [
+      "Just a quick reminder that the report is due on Friday.",
+      "Just a quick reminder that the office will be closed on Monday.",
+      "Just a quick reminder that our meeting starts at ten.",
+      "Hi all, just a quick reminder that timesheets need to be submitted today."
+    ]
+  },
+  {
+    "chunk": "Apologies for the delay",
+    "category": "business",
+    "meaning": "Apologizes for a late reply or late delivery.",
+    "usage": "Neutral to formal. Often followed by “in getting back to you” or “in replying”. Less formal: “Sorry for the late reply.”",
+    "examples": [
+      "Apologies for the delay in getting back to you.",
+      "Apologies for the delay; I've been out of the office.",
+      "Apologies for the delay with your order. It will be dispatched today.",
+      "Apologies for the delay in replying to your email."
+    ]
+  },
+  {
+    "chunk": "Please don't hesitate to contact me",
+    "category": "business",
+    "meaning": "Invites the reader to get in touch if they need anything.",
+    "usage": "Formal and common at the end of emails. Usually followed by “if you have any questions”. Less formal: “Feel free to get in touch.”",
+    "examples": [
+      "Please don't hesitate to contact me if you have any questions.",
+      "If you need any further information, please don't hesitate to contact me.",
+      "Please don't hesitate to contact me if anything is unclear.",
+      "Please don't hesitate to contact me by phone or email."
+    ]
+  },
+  {
+    "chunk": "I look forward to hearing from you",
+    "category": "business",
+    "meaning": "A polite closing line that shows you expect a reply.",
+    "usage": "Formal. Note the -ing form after “look forward to”. Less formal: “Looking forward to hearing from you.”",
+    "examples": [
+      "Thank you for your time. I look forward to hearing from you.",
+      "I look forward to hearing from you soon.",
+      "I look forward to hearing from you about the next steps.",
+      "I look forward to hearing from you at your convenience."
+    ]
+  },
+  {
+    "chunk": "at your earliest convenience",
+    "category": "business",
+    "meaning": "Means “as soon as you can”, in a formal and polite way.",
+    "usage": "Formal. Despite its politeness, it often implies that you want a quick response.",
+    "examples": [
+      "Please reply at your earliest convenience.",
+      "Could you call me back at your earliest convenience?",
+      "We would appreciate payment at your earliest convenience.",
+      "Please return the signed form at your earliest convenience."
+    ]
+  },
+  {
+    "chunk": "I'll keep you posted",
+    "category": "business",
+    "meaning": "Promises to give someone updates about a situation.",
+    "usage": "Informal to neutral and common at work. Also: “Keep me posted”, asking someone else for updates.",
+    "examples": [
+      "We haven't heard from the client yet, but I'll keep you posted.",
+      "I'll keep you posted on any changes to the schedule.",
+      "The results should arrive next week. I'll keep you posted.",
+      "Thanks for asking; I'll keep you posted."
+    ]
+  },
+  {
+    "chunk": "I'll get back to you on that",
+    "category": "business",
+    "meaning": "Promises to answer a question later, after you have found out more.",
+    "usage": "Common in meetings when you cannot answer immediately. Also: “Let me get back to you.”",
+    "examples": [
+      "I'm not sure about the exact figure. I'll get back to you on that.",
+      "Good question. I'll get back to you on that by Friday.",
+      "I'll need to check with my manager, but I'll get back to you on that.",
+      "I'll get back to you on that once I've seen the report."
+    ]
+  },
+  {
+    "chunk": "Could we reschedule …?",
+    "category": "business",
+    "meaning": "Asks politely to move a meeting or appointment to another time.",
+    "usage": "Polite. Often followed by a reason and an alternative: “Could we reschedule for Thursday?”",
+    "examples": [
+      "Something has come up. Could we reschedule our meeting?",
+      "Could we reschedule for later in the week?",
+      "Could we reschedule the call to Thursday morning?",
+      "I'm unwell today. Could we reschedule tomorrow's session?"
+    ]
+  },
+  {
+    "chunk": "Let's get started",
+    "category": "business",
+    "meaning": "Opens a meeting, lesson or activity.",
+    "usage": "Neutral. Often preceded by “OK, everyone,” or “Right,”. Also: “Shall we get started?”",
+    "examples": [
+      "OK, everyone's here, so let's get started.",
+      "Let's get started. We have a lot to cover today.",
+      "Right, let's get started with the first item on the agenda.",
+      "It's ten o'clock. Let's get started."
+    ]
+  },
+  {
+    "chunk": "The purpose of this meeting is to …",
+    "category": "business",
+    "meaning": "States the goal of a meeting at the beginning.",
+    "usage": "Neutral to formal. Variants: “The aim of today's meeting is to …”, “We're here today to …”.",
+    "examples": [
+      "The purpose of this meeting is to agree on next year's budget.",
+      "The purpose of this meeting is to review the project timeline.",
+      "The purpose of this meeting is to hear your ideas.",
+      "The purpose of this meeting is to decide who will lead the new team."
+    ]
+  },
+  {
+    "chunk": "Let's move on to …",
+    "category": "business",
+    "meaning": "Changes to the next topic in a meeting or presentation.",
+    "usage": "Common in meetings. Also: “Moving on to …”, “If there's nothing else, let's move on.”",
+    "examples": [
+      "Let's move on to the next item on the agenda.",
+      "If there are no more questions, let's move on to the budget.",
+      "Let's move on to the results.",
+      "Let's move on to something more positive."
+    ]
+  },
+  {
+    "chunk": "Does anyone have anything to add?",
+    "category": "business",
+    "meaning": "Invites other participants to contribute before moving on.",
+    "usage": "Common in meetings. Also: “Any other comments?”",
+    "examples": [
+      "That's all from me. Does anyone have anything to add?",
+      "Before we finish, does anyone have anything to add?",
+      "Does anyone have anything to add on this point?",
+      "Great. Does anyone have anything to add before we vote?"
+    ]
+  },
+  {
+    "chunk": "Let's stick to the agenda",
+    "category": "business",
+    "meaning": "Asks people to focus on the planned topics of a meeting.",
+    "usage": "Polite but firm. Used when the discussion goes off topic. Similar: “Let's get back on track.”",
+    "examples": [
+      "That's an interesting point, but let's stick to the agenda.",
+      "We're short of time, so let's stick to the agenda.",
+      "Let's stick to the agenda and discuss that next week.",
+      "Let's stick to the agenda, please; we still have three items to cover."
+    ]
+  },
+  {
+    "chunk": "We're running out of time",
+    "category": "business",
+    "meaning": "Warns that little time remains.",
+    "usage": "Common in meetings, exams and projects. Also: “We've run out of time” when no time remains.",
+    "examples": [
+      "We're running out of time, so let's make a decision.",
+      "Sorry to rush you, but we're running out of time.",
+      "We're running out of time to finish the project.",
+      "We're running out of time; can we discuss the rest by email?"
+    ]
+  },
+  {
+    "chunk": "Let's wrap things up",
+    "category": "business",
+    "meaning": "Suggests finishing a meeting or activity.",
+    "usage": "Informal to neutral. Also: “Let's wrap up” and “to wrap things up”.",
+    "examples": [
+      "It's almost five. Let's wrap things up.",
+      "Let's wrap things up and meet again next week.",
+      "OK, let's wrap things up with a quick summary.",
+      "Right, let's wrap things up. Any final questions?"
+    ]
+  },
+  {
+    "chunk": "To sum up, …",
+    "category": "business",
+    "meaning": "Introduces a short summary of the main points.",
+    "usage": "Common at the end of meetings, presentations and essays. Also: “To summarize, …”.",
+    "examples": [
+      "To sum up, we need more staff and a bigger budget.",
+      "To sum up, the project is on time and within budget.",
+      "So, to sum up, there are three main options.",
+      "To sum up, the results were better than expected."
+    ]
+  },
+  {
+    "chunk": "Going forward, …",
+    "category": "business",
+    "meaning": "Means “from now on” or “in the future”.",
+    "usage": "Common business jargon. Some people find it overused; “from now on” is a simpler alternative.",
+    "examples": [
+      "Going forward, all invoices must be approved by a manager.",
+      "Going forward, we'll meet every Monday.",
+      "Going forward, we need to communicate more clearly.",
+      "What's our strategy going forward?"
+    ]
+  },
+  {
+    "chunk": "The bottom line is …",
+    "category": "business",
+    "meaning": "Introduces the most important fact or conclusion.",
+    "usage": "Informal to neutral. Comes from accounting, where the bottom line is the final profit or loss.",
+    "examples": [
+      "The bottom line is we can't afford it.",
+      "The bottom line is that sales have fallen for three years.",
+      "Whatever the reasons, the bottom line is that the project failed.",
+      "The bottom line is, customers want lower prices."
+    ]
+  },
+  {
+    "chunk": "Could I speak to …?",
+    "category": "business",
+    "meaning": "Asks politely to talk to a particular person on the phone.",
+    "usage": "Polite and neutral. More formal: “May I speak to …?” Answer: “Speaking” if you are that person.",
+    "examples": [
+      "Hello, could I speak to Mr Davies, please?",
+      "Could I speak to someone in customer services?",
+      "Could I speak to the person in charge of bookings?",
+      "Hi, could I speak to Emma? It's about the meeting tomorrow."
+    ]
+  },
+  {
+    "chunk": "I'm calling about …",
+    "category": "business",
+    "meaning": "States the reason for a phone call.",
+    "usage": "Neutral. Common at the start of a call. Also: “I'm calling to …” + verb.",
+    "examples": [
+      "Hello, I'm calling about the job advert in yesterday's paper.",
+      "I'm calling about my order; it hasn't arrived yet.",
+      "Hi, I'm calling about the flat you're renting.",
+      "I'm calling about the invoice you sent last week."
+    ]
+  },
+  {
+    "chunk": "Can I take a message?",
+    "category": "business",
+    "meaning": "Offers to write down a message for someone who is not available.",
+    "usage": "Common on the phone. More formal: “Would you like to leave a message?”",
+    "examples": [
+      "I'm afraid she's in a meeting. Can I take a message?",
+      "He's not at his desk right now. Can I take a message?",
+      "Can I take a message, or would you like to call back later?",
+      "She's out until three. Can I take a message?"
+    ]
+  },
+  {
+    "chunk": "I'll put you through",
+    "category": "business",
+    "meaning": "Says that you will connect a caller to another person or department.",
+    "usage": "Used by receptionists and operators. Often followed by “Please hold.”",
+    "examples": [
+      "One moment, please. I'll put you through.",
+      "I'll put you through to the sales department.",
+      "She's free now. I'll put you through.",
+      "Please hold the line and I'll put you through."
+    ]
+  },
+  {
+    "chunk": "We'd be willing to …",
+    "category": "business",
+    "meaning": "Offers a concession or proposal in a negotiation.",
+    "usage": "Polite and flexible. Often followed by a condition: “… if you could …”.",
+    "examples": [
+      "We'd be willing to offer a ten per cent discount.",
+      "We'd be willing to extend the deadline if you can confirm today.",
+      "We'd be willing to pay a little more for faster delivery.",
+      "We'd be willing to consider other options."
+    ]
+  },
+  {
+    "chunk": "Would you be prepared to …?",
+    "category": "business",
+    "meaning": "Asks whether the other side would accept a proposal in a negotiation.",
+    "usage": "Polite and formal. Common in negotiations and interviews: “Would you be prepared to relocate?”",
+    "examples": [
+      "Would you be prepared to lower the price if we ordered more?",
+      "Would you be prepared to sign a two-year contract?",
+      "Would you be prepared to work some weekends?",
+      "Would you be prepared to share the costs?"
+    ]
+  },
+  {
+    "chunk": "Is there any flexibility on …?",
+    "category": "business",
+    "meaning": "Asks politely whether a price, date or condition can be changed.",
+    "usage": "Common in negotiations. A softer way to ask for a discount or a change.",
+    "examples": [
+      "Is there any flexibility on the price?",
+      "Is there any flexibility on the delivery date?",
+      "Is there any flexibility on the start date?",
+      "Is there any flexibility on the payment terms?"
+    ]
+  },
+  {
+    "chunk": "That's our final offer",
+    "category": "business",
+    "meaning": "Says that you will not improve your offer any further in a negotiation.",
+    "usage": "Firm. Use with care, because it can end a negotiation. Also: “That's as low as we can go.”",
+    "examples": [
+      "We can offer twelve thousand, and that's our final offer.",
+      "I'm sorry, but that's our final offer.",
+      "That's our final offer; take it or leave it.",
+      "We've already lowered the price twice. That's our final offer."
+    ]
+  }
+]

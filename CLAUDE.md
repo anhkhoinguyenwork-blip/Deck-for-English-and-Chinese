@@ -1,7 +1,8 @@
 # Deck for English and Chinese
 
-Anki decks for English vocabulary and Chinese 成语. Card data lives in
-`data/*.json`; `scripts/build.py` turns it into `dist/*.apkg`.
+Anki decks for English vocabulary, collocations and chunks, and for Chinese 成语
+and 语块 (chunks). Card data lives in `data/*.json`; `scripts/build.py` turns it
+into `dist/*.apkg`.
 
 All card content must follow the rules in @CONTENT_GUIDELINES.md.
 

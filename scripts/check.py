@@ -8,7 +8,7 @@ is not automatically an error.
 
 Notes listed in scripts/reviewed.txt were verified by hand and are not shown.
 
-Usage: python scripts/check.py [english|collocations|chengyu] [--strict]
+Usage: python scripts/check.py [english|collocations|chunks|chengyu|yukuai] [--strict]
 """
 
 import json
@@ -20,7 +20,8 @@ from pathlib import Path
 import pronouncing
 from pypinyin import Style, pinyin
 
-from build import collocation_patterns, target_pattern
+from build import (chinese_chunk_patterns, chunk_spans, collocation_patterns,
+                   english_chunk_patterns, target_pattern)
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -183,6 +184,46 @@ def check_collocations(cards, rep):
             rep.error(key, "Vietnamese letters in English content")
 
 
+# ---------------------------------------------------------------- English chunks
+
+CHUNK_CATEGORIES = ("opinion", "agreeing", "hedging", "linking", "clarifying",
+                    "requests", "social", "conversation", "academic", "business")
+
+
+def check_chunks(cards, rep):
+    collocations = {c["collocation"].lower()
+                    for c in json.loads((DATA / "collocations.json").read_text(encoding="utf-8"))}
+    seen = set()
+    for card in cards:
+        key = card.get("chunk", "?")
+        for field in ("chunk", "category", "meaning", "usage", "examples"):
+            if not card.get(field):
+                rep.error(key, f"missing field '{field}'")
+        if key.lower() in seen:
+            rep.error(key, "duplicate chunk")
+        seen.add(key.lower())
+        if key.strip(" ,.?!…").lower() in collocations:
+            rep.error(key, "already in the collocations deck")
+        if card.get("category") not in CHUNK_CATEGORIES:
+            rep.error(key, f"category must be one of {CHUNK_CATEGORIES}")
+        if key.endswith("."):
+            rep.error(key, "drop the final full stop from the chunk")
+
+        examples = card.get("examples", [])
+        if not MIN_EXAMPLES <= len(examples) <= MAX_EXAMPLES:
+            rep.error(key, f"{len(examples)} examples (need {MIN_EXAMPLES}-{MAX_EXAMPLES})")
+        pats = english_chunk_patterns(key)
+        for n, ex in enumerate(examples, 1):
+            if not chunk_spans(ex, pats):
+                rep.review(key, f"example {n} may not contain the chunk: {ex}")
+
+        text = " ".join([card.get("meaning", ""), card.get("usage", "")] + examples)
+        if CJK.search(text):
+            rep.error(key, "Chinese characters in English content")
+        if VIETNAMESE.search(text):
+            rep.error(key, "Vietnamese letters in English content")
+
+
 # ---------------------------------------------------------------- Chinese
 
 def split_tone(syl):
@@ -292,10 +333,62 @@ def check_chengyu(cards, rep):
             rep.error(key, f"traditional characters {''.join(sorted(set(trad)))}; use simplified")
 
 
+YUKUAI_CATEGORIES = ("关联词", "句式", "观点", "回应", "推测", "过渡", "书面", "交际",
+                     "口语", "情绪")
+
+
+def check_yukuai(cards, rep):
+    chengyu = {c["成语"] for c in json.loads((DATA / "chengyu.json").read_text(encoding="utf-8"))}
+    seen = set()
+    for card in cards:
+        key = card.get("语块", "?")
+        for field in ("语块", "拼音", "类别", "释义", "用法", "例句"):
+            if not card.get(field):
+                rep.error(key, f"missing field '{field}'")
+        if key in seen:
+            rep.error(key, "duplicate 语块")
+        seen.add(key)
+        if key in chengyu:
+            rep.error(key, "already in the 成语 deck")
+        if card.get("类别") not in YUKUAI_CATEGORIES:
+            rep.error(key, f"类别 must be one of {YUKUAI_CATEGORIES}")
+        if "…" in key.replace("……", ""):
+            rep.error(key, "use …… for a slot")
+
+        check_pinyin(key, "拼音", key, card.get("拼音", ""), rep)
+        if card.get("拼音", "") != card.get("拼音", "").lower():
+            rep.error(key, "headword pinyin is lower case")
+
+        examples = card.get("例句", [])
+        if not MIN_EXAMPLES <= len(examples) <= MAX_EXAMPLES:
+            rep.error(key, f"{len(examples)} 例句 (need {MIN_EXAMPLES}-{MAX_EXAMPLES})")
+        pats = chinese_chunk_patterns(key)
+        for n, ex in enumerate(examples, 1):
+            zh, py = ex.get("zh", ""), ex.get("py", "")
+            if not chunk_spans(zh, pats):
+                rep.review(key, f"例句{n} does not contain {key}: {zh}")
+            if LATIN.search(zh) or re.search(r"\d", zh):
+                rep.error(key, f"例句{n} has Latin letters or digits: {zh}")
+            if CJK.search(py):
+                rep.error(key, f"例句{n} pinyin contains characters: {py}")
+            if py[:1] != py[:1].upper():
+                rep.error(key, f"例句{n} pinyin should start with a capital: {py}")
+            check_pinyin(key, f"例句{n}", zh, py, rep)
+
+        prose = card.get("释义", "") + card.get("用法", "")
+        if LATIN.search(prose):
+            rep.error(key, "Latin letters in 释义/用法")
+        if VIETNAMESE.search(prose + "".join(e.get("py", "") for e in examples)):
+            rep.error(key, "Vietnamese letters in content")
+        trad = TRADITIONAL.findall(key + prose + "".join(e.get("zh", "") for e in examples))
+        if trad:
+            rep.error(key, f"traditional characters {''.join(sorted(set(trad)))}; use simplified")
+
+
 # ---------------------------------------------------------------- main
 
 DECKS = {"english": check_english, "collocations": check_collocations,
-         "chengyu": check_chengyu}
+         "chunks": check_chunks, "chengyu": check_chengyu, "yukuai": check_yukuai}
 
 
 def main(argv):
